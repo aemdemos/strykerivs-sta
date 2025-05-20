@@ -4,7 +4,7 @@
   "urls": [
     {
       "url": "https://strykerivs.com/",
-      "source": "SITEMAPS",
+      "source": "CRAWL",
       "targetPath": "/index",
       "id": "f75aa214a78355c7a1d94ada832909b2df74d1f0"
     },
@@ -22,85 +22,85 @@
     },
     {
       "url": "https://strykerivs.com/conditions-and-treatments/back-pain",
-      "source": "SITEMAPS",
+      "source": "CRAWL",
       "targetPath": "/conditions-and-treatments/back-pain",
       "id": "8c369112b390c53eab01a442d4c9beb38122a294"
     },
     {
       "url": "https://strykerivs.com/conditions-and-treatments/back-pain/metastatic-vertebral-compression-fracture/bone-tumor-ablation",
-      "source": "SITEMAPS",
+      "source": "CRAWL",
       "targetPath": "/conditions-and-treatments/back-pain/metastatic-vertebral-compression-fracture/bone-tumor-ablation",
       "id": "92ee359a46e9614cb7e952288ddf199014946855"
     },
     {
       "url": "https://strykerivs.com/conditions-and-treatments/back-pain/sacral-insufficiency-fracture/sacroplasty",
-      "source": "SITEMAPS",
+      "source": "CRAWL",
       "targetPath": "/conditions-and-treatments/back-pain/sacral-insufficiency-fracture/sacroplasty",
       "id": "81d0b3a09469a7951db321ecd6060040164c2a87"
     },
     {
       "url": "https://strykerivs.com/conditions-and-treatments/back-pain/vertebral-compression-fracture/Balloon-kyphoplasty",
-      "source": "SITEMAPS",
+      "source": "CRAWL",
       "targetPath": "/conditions-and-treatments/back-pain/vertebral-compression-fracture/balloon-kyphoplasty",
       "id": "4b414bd994768c08c5d0c315856a6b093f0104d9"
     },
     {
       "url": "https://strykerivs.com/conditions-and-treatments/back-pain/vertebral-compression-fracture/spinejack-procedure",
-      "source": "SITEMAPS",
+      "source": "CRAWL",
       "targetPath": "/conditions-and-treatments/back-pain/vertebral-compression-fracture/spinejack-procedure",
       "id": "372204c02ec9025063475dfde486ba7f211106ac"
     },
     {
       "url": "https://strykerivs.com/conditions-and-treatments/back-pain/vertebral-compression-fracture/vertebroplasty",
-      "source": "SITEMAPS",
+      "source": "CRAWL",
       "targetPath": "/conditions-and-treatments/back-pain/vertebral-compression-fracture/vertebroplasty",
       "id": "84d3571f705f1f348cadb2819d191d374b678515"
     },
     {
       "url": "https://strykerivs.com/conditions-and-treatments/hip-pain",
-      "source": "SITEMAPS",
+      "source": "CRAWL",
       "targetPath": "/conditions-and-treatments/hip-pain",
       "id": "c79fbcd60e233e324d6dc5eb83367ea919fe6d18"
     },
     {
       "url": "https://strykerivs.com/conditions-and-treatments/knee-pain",
-      "source": "SITEMAPS",
+      "source": "CRAWL",
       "targetPath": "/conditions-and-treatments/knee-pain",
       "id": "2243ef080a18bb71e12dd79a51699618b5728bea"
     },
     {
       "url": "https://strykerivs.com/conditions-and-treatments/knee-pain/genicular-radiofrequency-ablation",
-      "source": "SITEMAPS",
+      "source": "CRAWL",
       "targetPath": "/conditions-and-treatments/knee-pain/genicular-radiofrequency-ablation",
       "id": "ce57537093a560681999a5de17ce7b3a1cfe5cde"
     },
     {
       "url": "https://strykerivs.com/conditions-and-treatments/shoulder-pain",
-      "source": "SITEMAPS",
+      "source": "CRAWL",
       "targetPath": "/conditions-and-treatments/shoulder-pain",
       "id": "39090899336bc34cf9c96fd014fe71e0130e3b9f"
     },
     {
       "url": "https://strykerivs.com/contact",
-      "source": "SITEMAPS",
+      "source": "CRAWL",
       "targetPath": "/contact",
       "id": "81ed8a8c10abdf328a7bf09dad34b35dc4023e1b"
     },
     {
       "url": "https://strykerivs.com/cookie-policy",
-      "source": "SITEMAPS",
+      "source": "CRAWL",
       "targetPath": "/cookie-policy",
       "id": "b3a96639f919fab1fcb3fe5b1cfdeff48296f4cf"
     },
     {
       "url": "https://strykerivs.com/facet-joint-pain/radiofrequency-ablation",
-      "source": "SITEMAPS",
+      "source": "CRAWL",
       "targetPath": "/facet-joint-pain/radiofrequency-ablation",
       "id": "fe226400ec1a72ce78363aef8b32d5b183d99db1"
     },
     {
       "url": "https://strykerivs.com/faqs",
-      "source": "SITEMAPS",
+      "source": "CRAWL",
       "targetPath": "/faqs",
       "id": "b47939007bf2091e96dbbd38bf4840f9e78e5816"
     },
@@ -652,37 +652,37 @@
     },
     {
       "url": "https://strykerivs.com/get-the-facts",
-      "source": "SITEMAPS",
+      "source": "CRAWL",
       "targetPath": "/get-the-facts",
       "id": "839ff8d1adea8b493246697ed4a81a7e9133555d"
     },
     {
       "url": "https://strykerivs.com/herniated-disc/disc-decompression",
-      "source": "SITEMAPS",
+      "source": "CRAWL",
       "targetPath": "/herniated-disc/disc-decompression",
       "id": "8f2f5b9b00076ce00f81237a256ceec2f0496058"
     },
     {
       "url": "https://strykerivs.com/herniated-disc/discography",
-      "source": "SITEMAPS",
+      "source": "CRAWL",
       "targetPath": "/herniated-disc/discography",
       "id": "bf82cfdd614925bb0509eee2ee8800e53a3ee5d5"
     },
     {
       "url": "https://strykerivs.com/patient-resources",
-      "source": "SITEMAPS",
+      "source": "CRAWL",
       "targetPath": "/patient-resources",
       "id": "4d777abb7f07445643473db9bb1d07933c3abb2b"
     },
     {
       "url": "https://strykerivs.com/physician-locator",
-      "source": "SITEMAPS",
+      "source": "CRAWL",
       "targetPath": "/physician-locator",
       "id": "d2372f70790cd100f5ac0615f8318c3c987a3355"
     },
     {
       "url": "https://strykerivs.com/privacy-policy",
-      "source": "SITEMAPS",
+      "source": "CRAWL",
       "targetPath": "/privacy-policy",
       "id": "d480f9e1a8b14ef4f1f9524877f7385e91e2366f"
     },
@@ -694,7 +694,7 @@
     },
     {
       "url": "https://strykerivs.com/terms-of-use",
-      "source": "SITEMAPS",
+      "source": "CRAWL",
       "targetPath": "/terms-of-use",
       "id": "fef3ace175b15a41d1dd0dd62b9aa47fc2da5960"
     }
@@ -706,8 +706,29 @@
     "limit": -1,
     "sameDomain": true,
     "keepHash": false,
-    "strategy": "SITEMAPS",
+    "strategy": "crawl",
     "logger": {}
   },
-  "extractionErrors": []
+  "extractionErrors": [
+    {
+      "url": "https://strykerivs.com/talk-to-your-doctor",
+      "status": "301 Moved Permanently Redirect: https://strykerivs.com/assets/files/7/ivs_patient_doctordiscussionguide_ivs-gsnps-othd-852284_rev-0-updated_client-provided-110623.pdf"
+    },
+    {
+      "url": "https://strykerivs.com/about",
+      "status": "301 Moved Permanently Redirect: https://www.stryker.com/us/en/about.html"
+    },
+    {
+      "url": "https://strykerivs.com/login?formAction=logout",
+      "status": "302 Found Redirect: https://strykerivs.com/"
+    },
+    {
+      "url": "https://strykerivs.com/physician-resources/physician-locator",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://strykerivs.com/assets/files/7/ivs_patient_doctordiscussionguide_ivs-gsnps-othd-852284_rev-0-updated_client-provided-110623.pdf",
+      "status": "content type is not text/html"
+    }
+  ]
 }
