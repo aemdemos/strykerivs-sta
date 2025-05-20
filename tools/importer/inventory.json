@@ -1,0 +1,3632 @@
+{
+  "fragments": [
+    {
+      "name": "nav",
+      "path": "/nav",
+      "instances": [
+        {
+          "url": "https://strykerivs.com/footnotes/StrykerIVS-2021-ASIPP",
+          "urlHash": "004770f86db4bf5c443545a3cfdc9d7f7e6b4458",
+          "uuid": "004770f8-00-66c1b56d681f30ffd9ee9dc84572cf37ac1f35a4",
+          "xpath": "/html[1]/body[1]/section[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/physician-back-pain-brochure",
+          "urlHash": "02d8754a12e884bc31610f1b7bc36ea42db66f4e",
+          "uuid": "02d8754a-00-66c1b56d681f30ffd9ee9dc84572cf37ac1f35a4",
+          "xpath": "/html[1]/body[1]/section[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/va-vprf-postcard-rep",
+          "urlHash": "04754d8482dee41ebe279404b6ee5b261df2c5ec",
+          "uuid": "04754d84-00-66c1b56d681f30ffd9ee9dc84572cf37ac1f35a4",
+          "xpath": "/html[1]/body[1]/section[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/suffering-from-back-pain-rf-poster",
+          "urlHash": "04900e594311c7e556b855e24c15b1bfafed950b",
+          "uuid": "04900e59-00-66c1b56d681f30ffd9ee9dc84572cf37ac1f35a4",
+          "xpath": "/html[1]/body[1]/section[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/1000-025-001",
+          "urlHash": "0747c7387a678935f86df45fcaa222bf30ca77c0",
+          "uuid": "0747c738-00-66c1b56d681f30ffd9ee9dc84572cf37ac1f35a4",
+          "xpath": "/html[1]/body[1]/section[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/spinejack-launch-slick",
+          "urlHash": "115aa28dc8968242dc34f5e1c7891e520c11fb2a",
+          "uuid": "115aa28d-00-66c1b56d681f30ffd9ee9dc84572cf37ac1f35a4",
+          "xpath": "/html[1]/body[1]/section[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/d0000017804",
+          "urlHash": "11dabcb3fd5cc46e3c0d7dbc43cf3309b6724812",
+          "uuid": "11dabcb3-00-66c1b56d681f30ffd9ee9dc84572cf37ac1f35a4",
+          "xpath": "/html[1]/body[1]/section[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/mild-quick-reference-guide",
+          "urlHash": "1378288a5371eb405602807ba534fdbc8ef80720",
+          "uuid": "1378288a-00-66c1b56d681f30ffd9ee9dc84572cf37ac1f35a4",
+          "xpath": "/html[1]/body[1]/section[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/1000-025-835",
+          "urlHash": "19031bd776ad1a13026f1797b6908d3fbf4c91d6",
+          "uuid": "19031bd7-00-66c1b56d681f30ffd9ee9dc84572cf37ac1f35a4",
+          "xpath": "/html[1]/body[1]/section[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/pain-relief",
+          "urlHash": "1f845900ef1bc49ee10a8924f7c954546d862ee2",
+          "uuid": "1f845900-00-66c1b56d681f30ffd9ee9dc84572cf37ac1f35a4",
+          "xpath": "/html[1]/body[1]/section[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://strykerivs.com/conditions-and-treatments/knee-pain",
+          "urlHash": "2243ef080a18bb71e12dd79a51699618b5728bea",
+          "uuid": "2243ef08-00-66c1b56d681f30ffd9ee9dc84572cf37ac1f35a4",
+          "xpath": "/html[1]/body[1]/section[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/genicular-patient-postcard-customized",
+          "urlHash": "2461b666a76621cd1bb6666d61c517d13f575db3",
+          "uuid": "2461b666-00-66c1b56d681f30ffd9ee9dc84572cf37ac1f35a4",
+          "xpath": "/html[1]/body[1]/section[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/1000-025-453",
+          "urlHash": "29eafc5d833db80effeeebd1c63b394b621398b9",
+          "uuid": "29eafc5d-00-66c1b56d681f30ffd9ee9dc84572cf37ac1f35a4",
+          "xpath": "/html[1]/body[1]/section[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/discography-patient-brochure",
+          "urlHash": "2a1fcc24efbe2fca9663e99284fd5ec3c7e6018a",
+          "uuid": "2a1fcc24-00-66c1b56d681f30ffd9ee9dc84572cf37ac1f35a4",
+          "xpath": "/html[1]/body[1]/section[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/back-pain-specialist-postcard",
+          "urlHash": "2ba0ed47a4c1dc70c6300eeb5b6600671dc532f3",
+          "uuid": "2ba0ed47-00-66c1b56d681f30ffd9ee9dc84572cf37ac1f35a4",
+          "xpath": "/html[1]/body[1]/section[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/1000-025-416",
+          "urlHash": "2c3ffad1dc206833661ee2f21fcb9b8ec5db3b7f",
+          "uuid": "2c3ffad1-00-66c1b56d681f30ffd9ee9dc84572cf37ac1f35a4",
+          "xpath": "/html[1]/body[1]/section[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/rf-physician-back-pain-brochure",
+          "urlHash": "304947ce9c3557457f724577a772bde0b8cc2c30",
+          "uuid": "304947ce-00-66c1b56d681f30ffd9ee9dc84572cf37ac1f35a4",
+          "xpath": "/html[1]/body[1]/section[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/bta-patient-poster",
+          "urlHash": "32d36704edadaad66dfda9dfa6fb790525f767a6",
+          "uuid": "32d36704-00-66c1b56d681f30ffd9ee9dc84572cf37ac1f35a4",
+          "xpath": "/html[1]/body[1]/section[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/D0000039011",
+          "urlHash": "3421af2b08d6ba8a5cc8d50a79ffc2b53e1f5d45",
+          "uuid": "3421af2b-00-66c1b56d681f30ffd9ee9dc84572cf37ac1f35a4",
+          "xpath": "/html[1]/body[1]/section[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://strykerivs.com/conditions-and-treatments/back-pain/vertebral-compression-fracture/spinejack-procedure",
+          "urlHash": "372204c02ec9025063475dfde486ba7f211106ac",
+          "uuid": "372204c0-00-66c1b56d681f30ffd9ee9dc84572cf37ac1f35a4",
+          "xpath": "/html[1]/body[1]/section[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/1000-025-373",
+          "urlHash": "375c55f25f24116d7fe5b7ee51c48342224e1c79",
+          "uuid": "375c55f2-00-66c1b56d681f30ffd9ee9dc84572cf37ac1f35a4",
+          "xpath": "/html[1]/body[1]/section[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/treatment-plan-postcard-physician",
+          "urlHash": "37dd82cd39da1b6ab583f60f372dace9705b1bb8",
+          "uuid": "37dd82cd-00-66c1b56d681f30ffd9ee9dc84572cf37ac1f35a4",
+          "xpath": "/html[1]/body[1]/section[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/2019-IVS-Portfolio-Notebook",
+          "urlHash": "38f647ce30ed01c05dff358236487fd45b2b16de",
+          "uuid": "38f647ce-00-66c1b56d681f30ffd9ee9dc84572cf37ac1f35a4",
+          "xpath": "/html[1]/body[1]/section[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://strykerivs.com/conditions-and-treatments/shoulder-pain",
+          "urlHash": "39090899336bc34cf9c96fd014fe71e0130e3b9f",
+          "uuid": "39090899-00-66c1b56d681f30ffd9ee9dc84572cf37ac1f35a4",
+          "xpath": "/html[1]/body[1]/section[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/SpineJack_SAKOS_ad",
+          "urlHash": "3b46915d592e66a925fdc85b57b7c96be6abbeac",
+          "uuid": "3b46915d-00-66c1b56d681f30ffd9ee9dc84572cf37ac1f35a4",
+          "xpath": "/html[1]/body[1]/section[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/rf-venom-coffee-cup-sleeve",
+          "urlHash": "3b9a37b529672b76281f65e69747602aa5f5f52b",
+          "uuid": "3b9a37b5-00-66c1b56d681f30ffd9ee9dc84572cf37ac1f35a4",
+          "xpath": "/html[1]/body[1]/section[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/ivas-patient-brochure",
+          "urlHash": "3ff900d92d8a09c71c2bf23e3c040c1c90b15ce4",
+          "uuid": "3ff900d9-00-66c1b56d681f30ffd9ee9dc84572cf37ac1f35a4",
+          "xpath": "/html[1]/body[1]/section[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/rf-pain-postcard-rep",
+          "urlHash": "435e1a9a88b59b91d97331c7bdd6ce204d261e0c",
+          "uuid": "435e1a9a-00-66c1b56d681f30ffd9ee9dc84572cf37ac1f35a4",
+          "xpath": "/html[1]/body[1]/section[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/spinejack-patient-poster",
+          "urlHash": "44c2e035c8955b482ac203ed4621765d6c92bc8f",
+          "uuid": "44c2e035-00-66c1b56d681f30ffd9ee9dc84572cf37ac1f35a4",
+          "xpath": "/html[1]/body[1]/section[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/vcf-poster",
+          "urlHash": "46c965b5208da9faa55276f8d632a3286a6404dc",
+          "uuid": "46c965b5-00-66c1b56d681f30ffd9ee9dc84572cf37ac1f35a4",
+          "xpath": "/html[1]/body[1]/section[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://strykerivs.com/conditions-and-treatments/back-pain/vertebral-compression-fracture/Balloon-kyphoplasty",
+          "urlHash": "4b414bd994768c08c5d0c315856a6b093f0104d9",
+          "uuid": "4b414bd9-00-66c1b56d681f30ffd9ee9dc84572cf37ac1f35a4",
+          "xpath": "/html[1]/body[1]/section[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/mild-patient-brochure",
+          "urlHash": "4b9c193a91a199d2a502a1ee98a40e2e433789a4",
+          "uuid": "4b9c193a-00-66c1b56d681f30ffd9ee9dc84572cf37ac1f35a4",
+          "xpath": "/html[1]/body[1]/section[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/back-pain-osteoporosis-magazine-sales-rep",
+          "urlHash": "4c32f1a6a7dc7d42455482b7fe4991aceac30dc8",
+          "uuid": "4c32f1a6-00-66c1b56d681f30ffd9ee9dc84572cf37ac1f35a4",
+          "xpath": "/html[1]/body[1]/section[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/1000-025-456",
+          "urlHash": "4e55a415c03b9e8de54b1ec3c4e3668c574c2dea",
+          "uuid": "4e55a415-00-66c1b56d681f30ffd9ee9dc84572cf37ac1f35a4",
+          "xpath": "/html[1]/body[1]/section[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/bvn-patient-brochure",
+          "urlHash": "51fc092a24a1f0254ef106a904eba44a8bf8dec1",
+          "uuid": "51fc092a-00-66c1b56d681f30ffd9ee9dc84572cf37ac1f35a4",
+          "xpath": "/html[1]/body[1]/section[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/office-tent-cards-do-you-or-someone-you-know-suffer-from-deb",
+          "urlHash": "5405c0f458bd919970f9e6ab78e1ab577d191b5b",
+          "uuid": "5405c0f4-00-66c1b56d681f30ffd9ee9dc84572cf37ac1f35a4",
+          "xpath": "/html[1]/body[1]/section[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/mild-patient-poster",
+          "urlHash": "542de73ffa70d7277f87e512965d2cdddd912807",
+          "uuid": "542de73f-00-66c1b56d681f30ffd9ee9dc84572cf37ac1f35a4",
+          "xpath": "/html[1]/body[1]/section[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/1000-025-459",
+          "urlHash": "5526b9a1de76f6d925a78528745bf059f0b3d517",
+          "uuid": "5526b9a1-00-66c1b56d681f30ffd9ee9dc84572cf37ac1f35a4",
+          "xpath": "/html[1]/body[1]/section[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/osteoporosis-brochure",
+          "urlHash": "577450bfe0899fe7db8c7bd1038db758d9639941",
+          "uuid": "577450bf-00-66c1b56d681f30ffd9ee9dc84572cf37ac1f35a4",
+          "xpath": "/html[1]/body[1]/section[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/1000-025-165",
+          "urlHash": "57a04d13c248f10e303b3988ab9bf103501a5cab",
+          "uuid": "57a04d13-00-66c1b56d681f30ffd9ee9dc84572cf37ac1f35a4",
+          "xpath": "/html[1]/body[1]/section[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/pain-med-news-july-2021",
+          "urlHash": "5a94b42dc57b490f45fb60c2d188108aea795e31",
+          "uuid": "5a94b42d-00-66c1b56d681f30ffd9ee9dc84572cf37ac1f35a4",
+          "xpath": "/html[1]/body[1]/section[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/back-pain-osteoporosis-magazine",
+          "urlHash": "5f8c72f4c58e4366f7e3871f533b91b55f536b6e",
+          "uuid": "5f8c72f4-00-66c1b56d681f30ffd9ee9dc84572cf37ac1f35a4",
+          "xpath": "/html[1]/body[1]/section[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/bta-patient-brochure",
+          "urlHash": "63183401cb8898cf8e576671055188b0bf90b110",
+          "uuid": "63183401-00-66c1b56d681f30ffd9ee9dc84572cf37ac1f35a4",
+          "xpath": "/html[1]/body[1]/section[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/back-pain-va-poster",
+          "urlHash": "6355fbe214074f90b37feeffe37b54aeeb86ec2f",
+          "uuid": "6355fbe2-00-66c1b56d681f30ffd9ee9dc84572cf37ac1f35a4",
+          "xpath": "/html[1]/body[1]/section[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/back-pain-osteoporosis-magazine-physician",
+          "urlHash": "64aba0e7542e7c62fd71f2d1c6add53c017cddea",
+          "uuid": "64aba0e7-00-66c1b56d681f30ffd9ee9dc84572cf37ac1f35a4",
+          "xpath": "/html[1]/body[1]/section[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/1000-025-768",
+          "urlHash": "682b7a7c56e4fed05aec00410187f224b42fb589",
+          "uuid": "682b7a7c-00-66c1b56d681f30ffd9ee9dc84572cf37ac1f35a4",
+          "xpath": "/html[1]/body[1]/section[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/va-vprf-postcard-physician",
+          "urlHash": "69da7a37386534fc6b07423bd4cbec5298cda28f",
+          "uuid": "69da7a37-00-66c1b56d681f30ffd9ee9dc84572cf37ac1f35a4",
+          "xpath": "/html[1]/body[1]/section[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/rf-patient-brochure-3-physician-customized",
+          "urlHash": "6bfec38734edc447e00378d028dd1e7fc5fe1fba",
+          "uuid": "6bfec387-00-66c1b56d681f30ffd9ee9dc84572cf37ac1f35a4",
+          "xpath": "/html[1]/body[1]/section[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/beckers-spine-2015",
+          "urlHash": "6e22da4dc99a04764bcf0be80546b1769b8a23b5",
+          "uuid": "6e22da4d-00-66c1b56d681f30ffd9ee9dc84572cf37ac1f35a4",
+          "xpath": "/html[1]/body[1]/section[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://strykerivs.com/articles/stryker-receives-fda-clearance-for-optablate-bone-tumor-ablation-system",
+          "urlHash": "70e850e7b23a57e2c72dfd6caec10c751db5ef72",
+          "uuid": "70e850e7-00-66c1b56d681f30ffd9ee9dc84572cf37ac1f35a4",
+          "xpath": "/html[1]/body[1]/section[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/spinejack-systems-patient-brochure",
+          "urlHash": "71ace023eb26f91b0fa2e25f4ca232ea8def124b",
+          "uuid": "71ace023-00-66c1b56d681f30ffd9ee9dc84572cf37ac1f35a4",
+          "xpath": "/html[1]/body[1]/section[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/back-pain-rf-postcard-rep",
+          "urlHash": "7ccbaa0b62ac4eb6418927e03d798609d278b5a6",
+          "uuid": "7ccbaa0b-00-66c1b56d681f30ffd9ee9dc84572cf37ac1f35a4",
+          "xpath": "/html[1]/body[1]/section[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/1000-025-572",
+          "urlHash": "7d98163dae895bf6d19b745211c29e7973c6db2c",
+          "uuid": "7d98163d-00-66c1b56d681f30ffd9ee9dc84572cf37ac1f35a4",
+          "xpath": "/html[1]/body[1]/section[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/1000-001-358",
+          "urlHash": "80199424aa090de750b2c44a461494b8357b30cb",
+          "uuid": "80199424-00-66c1b56d681f30ffd9ee9dc84572cf37ac1f35a4",
+          "xpath": "/html[1]/body[1]/section[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://strykerivs.com/conditions-and-treatments/back-pain/sacral-insufficiency-fracture/sacroplasty",
+          "urlHash": "81d0b3a09469a7951db321ecd6060040164c2a87",
+          "uuid": "81d0b3a0-00-66c1b56d681f30ffd9ee9dc84572cf37ac1f35a4",
+          "xpath": "/html[1]/body[1]/section[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://strykerivs.com/contact",
+          "urlHash": "81ed8a8c10abdf328a7bf09dad34b35dc4023e1b",
+          "uuid": "81ed8a8c-00-66c1b56d681f30ffd9ee9dc84572cf37ac1f35a4",
+          "xpath": "/html[1]/body[1]/section[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://strykerivs.com/conditions-and-treatments/back-pain/vertebral-compression-fracture/vertebroplasty",
+          "urlHash": "84d3571f705f1f348cadb2819d191d374b678515",
+          "uuid": "84d3571f-00-66c1b56d681f30ffd9ee9dc84572cf37ac1f35a4",
+          "xpath": "/html[1]/body[1]/section[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/radiofrequency-patient-brochure",
+          "urlHash": "88051a4663c4916e319330a44f2e7e8923dd4899",
+          "uuid": "88051a46-00-66c1b56d681f30ffd9ee9dc84572cf37ac1f35a4",
+          "xpath": "/html[1]/body[1]/section[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/jvir-november-ad",
+          "urlHash": "8b24f6062042ed32e93b3db45831c898a9c79e5a",
+          "uuid": "8b24f606-00-66c1b56d681f30ffd9ee9dc84572cf37ac1f35a4",
+          "xpath": "/html[1]/body[1]/section[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/mild-patient-flip-chart",
+          "urlHash": "8b71e18f52591219b95ebcc7a19487e29341e00f",
+          "uuid": "8b71e18f-00-66c1b56d681f30ffd9ee9dc84572cf37ac1f35a4",
+          "xpath": "/html[1]/body[1]/section[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://strykerivs.com/conditions-and-treatments/back-pain",
+          "urlHash": "8c369112b390c53eab01a442d4c9beb38122a294",
+          "uuid": "8c369112-00-66c1b56d681f30ffd9ee9dc84572cf37ac1f35a4",
+          "xpath": "/html[1]/body[1]/section[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/living-with-back-pain-poster",
+          "urlHash": "8cda8052785b2284100f208a70224ceeca7e60ea",
+          "uuid": "8cda8052-00-66c1b56d681f30ffd9ee9dc84572cf37ac1f35a4",
+          "xpath": "/html[1]/body[1]/section[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/1000-001-320",
+          "urlHash": "90021b9de11145aa364c5805f526da97b2ec5153",
+          "uuid": "90021b9d-00-66c1b56d681f30ffd9ee9dc84572cf37ac1f35a4",
+          "xpath": "/html[1]/body[1]/section[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://strykerivs.com/conditions-and-treatments/back-pain/metastatic-vertebral-compression-fracture/bone-tumor-ablation",
+          "urlHash": "92ee359a46e9614cb7e952288ddf199014946855",
+          "uuid": "92ee359a-00-66c1b56d681f30ffd9ee9dc84572cf37ac1f35a4",
+          "xpath": "/html[1]/body[1]/section[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/pain-med-news-june-2021",
+          "urlHash": "956fa9b3732c4d90a1f42dec07d3ec6cfc60cd7c",
+          "uuid": "956fa9b3-00-66c1b56d681f30ffd9ee9dc84572cf37ac1f35a4",
+          "xpath": "/html[1]/body[1]/section[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/suffering-from-back-pain-rf-postcard",
+          "urlHash": "998de023cb49e27ba3dbe6125893bf7b33cafd6c",
+          "uuid": "998de023-00-66c1b56d681f30ffd9ee9dc84572cf37ac1f35a4",
+          "xpath": "/html[1]/body[1]/section[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/cortoss-newsletter-template",
+          "urlHash": "9a44a7e01629467c1303e9d62a9c42c3fc762585",
+          "uuid": "9a44a7e0-00-66c1b56d681f30ffd9ee9dc84572cf37ac1f35a4",
+          "xpath": "/html[1]/body[1]/section[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/D0000061168",
+          "urlHash": "9a73f581b26b070721d82aa6a17b709812f4b8ca",
+          "uuid": "9a73f581-00-66c1b56d681f30ffd9ee9dc84572cf37ac1f35a4",
+          "xpath": "/html[1]/body[1]/section[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/1000-001-040",
+          "urlHash": "9bb21d92b4e43b83d19a458b7e21428b4d706fd9",
+          "uuid": "9bb21d92-00-66c1b56d681f30ffd9ee9dc84572cf37ac1f35a4",
+          "xpath": "/html[1]/body[1]/section[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/100-025-789",
+          "urlHash": "9f465498da7871e4cd4ed2dc44fe64401d783cca",
+          "uuid": "9f465498-00-66c1b56d681f30ffd9ee9dc84572cf37ac1f35a4",
+          "xpath": "/html[1]/body[1]/section[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/consumer-ad",
+          "urlHash": "aa3fb6a29c1249eec8a37af6ebbee02fba2716cf",
+          "uuid": "aa3fb6a2-00-66c1b56d681f30ffd9ee9dc84572cf37ac1f35a4",
+          "xpath": "/html[1]/body[1]/section[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/genicular-patient-postcard",
+          "urlHash": "acaf56b9cea8c43678b19692eab3d91f41c2d887",
+          "uuid": "acaf56b9-00-66c1b56d681f30ffd9ee9dc84572cf37ac1f35a4",
+          "xpath": "/html[1]/body[1]/section[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/1000-025-458",
+          "urlHash": "aeedad736d5899ec7d5138aa92104d89ffe20c4c",
+          "uuid": "aeedad73-00-66c1b56d681f30ffd9ee9dc84572cf37ac1f35a4",
+          "xpath": "/html[1]/body[1]/section[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://strykerivs.com/cookie-policy",
+          "urlHash": "b3a96639f919fab1fcb3fe5b1cfdeff48296f4cf",
+          "uuid": "b3a96639-00-66c1b56d681f30ffd9ee9dc84572cf37ac1f35a4",
+          "xpath": "/html[1]/body[1]/section[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes",
+          "urlHash": "b472092539a0bcb484a30f6cf228f85e66a8660c",
+          "uuid": "b4720925-00-66c1b56d681f30ffd9ee9dc84572cf37ac1f35a4",
+          "xpath": "/html[1]/body[1]/section[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://strykerivs.com/faqs",
+          "urlHash": "b47939007bf2091e96dbbd38bf4840f9e78e5816",
+          "uuid": "b4793900-00-66c1b56d681f30ffd9ee9dc84572cf37ac1f35a4",
+          "xpath": "/html[1]/body[1]/section[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/osteoporosis-risk-poster",
+          "urlHash": "b64dc0c7be529f3d6c483cd7890b227f39fa04f1",
+          "uuid": "b64dc0c7-00-66c1b56d681f30ffd9ee9dc84572cf37ac1f35a4",
+          "xpath": "/html[1]/body[1]/section[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/disc-decompression-patient-brochure-for-military-personnel",
+          "urlHash": "b720daa99c6389a61b038d81d5075f3a56d5c2d5",
+          "uuid": "b720daa9-00-66c1b56d681f30ffd9ee9dc84572cf37ac1f35a4",
+          "xpath": "/html[1]/body[1]/section[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/physician-rf-brochure",
+          "urlHash": "bacefea0820356e04e959c2e77b293c7c9fffa8c",
+          "uuid": "bacefea0-00-66c1b56d681f30ffd9ee9dc84572cf37ac1f35a4",
+          "xpath": "/html[1]/body[1]/section[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/d0000014701",
+          "urlHash": "bbae6349b9c049f731b40bc41c4ac65ff0f252d4",
+          "uuid": "bbae6349-00-66c1b56d681f30ffd9ee9dc84572cf37ac1f35a4",
+          "xpath": "/html[1]/body[1]/section[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/genicular-rf-patient-brochure",
+          "urlHash": "c4b5b743178fb24a809a1e0814cdd847d72a1619",
+          "uuid": "c4b5b743-00-66c1b56d681f30ffd9ee9dc84572cf37ac1f35a4",
+          "xpath": "/html[1]/body[1]/section[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://strykerivs.com/conditions-and-treatments/hip-pain",
+          "urlHash": "c79fbcd60e233e324d6dc5eb83367ea919fe6d18",
+          "uuid": "c79fbcd6-00-66c1b56d681f30ffd9ee9dc84572cf37ac1f35a4",
+          "xpath": "/html[1]/body[1]/section[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/1000-025-758",
+          "urlHash": "c81319c670c852c53a34b64a301efc65f4bc4aa7",
+          "uuid": "c81319c6-00-66c1b56d681f30ffd9ee9dc84572cf37ac1f35a4",
+          "xpath": "/html[1]/body[1]/section[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://strykerivs.com/articles/stryker-announces-trauma-indication-for-the-spinejack-system",
+          "urlHash": "c933b8532bc91adb41661dc6b3806dc5dddca1bd",
+          "uuid": "c933b853-00-66c1b56d681f30ffd9ee9dc84572cf37ac1f35a4",
+          "xpath": "/html[1]/body[1]/section[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://strykerivs.com/conditions-and-treatments/knee-pain/genicular-radiofrequency-ablation",
+          "urlHash": "ce57537093a560681999a5de17ce7b3a1cfe5cde",
+          "uuid": "ce575370-00-66c1b56d681f30ffd9ee9dc84572cf37ac1f35a4",
+          "xpath": "/html[1]/body[1]/section[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/sir-gala-ad",
+          "urlHash": "d746c5570415d6c6a56c26008dfdba134e8d2c2e",
+          "uuid": "d746c557-00-66c1b56d681f30ffd9ee9dc84572cf37ac1f35a4",
+          "xpath": "/html[1]/body[1]/section[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/D0000023001",
+          "urlHash": "d782e1653a19e34518fb5cfde03fe1970592126d",
+          "uuid": "d782e165-00-66c1b56d681f30ffd9ee9dc84572cf37ac1f35a4",
+          "xpath": "/html[1]/body[1]/section[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/vcf-pain-brochure-3-physician-customized",
+          "urlHash": "dd492eb936f643d117db608e34b03bbb92105881",
+          "uuid": "dd492eb9-00-66c1b56d681f30ffd9ee9dc84572cf37ac1f35a4",
+          "xpath": "/html[1]/body[1]/section[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/vcf-treatment-card-referring-physician",
+          "urlHash": "de6a7d50cb11d9e6f3f9e11a8e1164f93e863f8a",
+          "uuid": "de6a7d50-00-66c1b56d681f30ffd9ee9dc84572cf37ac1f35a4",
+          "xpath": "/html[1]/body[1]/section[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/physician-locator-postcard",
+          "urlHash": "e219df895cd468526afd7e9720b5185eecd9a502",
+          "uuid": "e219df89-00-66c1b56d681f30ffd9ee9dc84572cf37ac1f35a4",
+          "xpath": "/html[1]/body[1]/section[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/rf-patient-brochure",
+          "urlHash": "e60ca1ec5bcb33afa29633a82a6000002b94fd65",
+          "uuid": "e60ca1ec-00-66c1b56d681f30ffd9ee9dc84572cf37ac1f35a4",
+          "xpath": "/html[1]/body[1]/section[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/1000-025-537",
+          "urlHash": "e66bfd6b62edf39f3e03db3e868870117ae8fb0c",
+          "uuid": "e66bfd6b-00-66c1b56d681f30ffd9ee9dc84572cf37ac1f35a4",
+          "xpath": "/html[1]/body[1]/section[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/DEK",
+          "urlHash": "e9ea2033dea8bd77cafbed907975a65d38cb6e03",
+          "uuid": "e9ea2033-00-66c1b56d681f30ffd9ee9dc84572cf37ac1f35a4",
+          "xpath": "/html[1]/body[1]/section[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/rf-treatment-postcard",
+          "urlHash": "ebd357fb10f5cbcbf9236c938a3ba3ad0cde0e65",
+          "uuid": "ebd357fb-00-66c1b56d681f30ffd9ee9dc84572cf37ac1f35a4",
+          "xpath": "/html[1]/body[1]/section[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/mild-patient-postcard",
+          "urlHash": "eec9b290c751febf1c5f2ec9a97c9d8e3f1b2e81",
+          "uuid": "eec9b290-00-66c1b56d681f30ffd9ee9dc84572cf37ac1f35a4",
+          "xpath": "/html[1]/body[1]/section[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/osteoporosis-poster",
+          "urlHash": "f4300a4dad99625bb2a404521456df9f1f6c86db",
+          "uuid": "f4300a4d-00-66c1b56d681f30ffd9ee9dc84572cf37ac1f35a4",
+          "xpath": "/html[1]/body[1]/section[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://strykerivs.com/",
+          "urlHash": "f75aa214a78355c7a1d94ada832909b2df74d1f0",
+          "uuid": "f75aa214-00-92ec9c4d34b61aaf9b50e87f053e62d6a417f816",
+          "xpath": "/html[1]/body[1]/section[1]/div[1]/main[1]/header[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/are-you-suffering-from-back-pain-postcard",
+          "urlHash": "fd37337432adc975abe3822636533dd1798fc82a",
+          "uuid": "fd373374-00-66c1b56d681f30ffd9ee9dc84572cf37ac1f35a4",
+          "xpath": "/html[1]/body[1]/section[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://strykerivs.com/facet-joint-pain/radiofrequency-ablation",
+          "urlHash": "fe226400ec1a72ce78363aef8b32d5b183d99db1",
+          "uuid": "fe226400-00-66c1b56d681f30ffd9ee9dc84572cf37ac1f35a4",
+          "xpath": "/html[1]/body[1]/section[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/vcf-solutions-brochure",
+          "urlHash": "feca5644e29223c18ae1cf5fdb5582b63a0eb90c",
+          "uuid": "feca5644-00-66c1b56d681f30ffd9ee9dc84572cf37ac1f35a4",
+          "xpath": "/html[1]/body[1]/section[1]/div[2]/header[1]"
+        }
+      ]
+    },
+    {
+      "name": "footer",
+      "path": "/footer",
+      "instances": [
+        {
+          "url": "https://strykerivs.com/footnotes/StrykerIVS-2021-ASIPP",
+          "urlHash": "004770f86db4bf5c443545a3cfdc9d7f7e6b4458",
+          "uuid": "004770f8-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/physician-back-pain-brochure",
+          "urlHash": "02d8754a12e884bc31610f1b7bc36ea42db66f4e",
+          "uuid": "02d8754a-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/va-vprf-postcard-rep",
+          "urlHash": "04754d8482dee41ebe279404b6ee5b261df2c5ec",
+          "uuid": "04754d84-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/suffering-from-back-pain-rf-poster",
+          "urlHash": "04900e594311c7e556b855e24c15b1bfafed950b",
+          "uuid": "04900e59-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/1000-025-001",
+          "urlHash": "0747c7387a678935f86df45fcaa222bf30ca77c0",
+          "uuid": "0747c738-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/spinejack-launch-slick",
+          "urlHash": "115aa28dc8968242dc34f5e1c7891e520c11fb2a",
+          "uuid": "115aa28d-03-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/d0000017804",
+          "urlHash": "11dabcb3fd5cc46e3c0d7dbc43cf3309b6724812",
+          "uuid": "11dabcb3-03-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/mild-quick-reference-guide",
+          "urlHash": "1378288a5371eb405602807ba534fdbc8ef80720",
+          "uuid": "1378288a-03-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/1000-025-835",
+          "urlHash": "19031bd776ad1a13026f1797b6908d3fbf4c91d6",
+          "uuid": "19031bd7-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/pain-relief",
+          "urlHash": "1f845900ef1bc49ee10a8924f7c954546d862ee2",
+          "uuid": "1f845900-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://strykerivs.com/conditions-and-treatments/knee-pain",
+          "urlHash": "2243ef080a18bb71e12dd79a51699618b5728bea",
+          "uuid": "2243ef08-05-62b707db4a6b4e012b707846294b489d5e0004c7",
+          "xpath": "/html[1]/body[1]/footer[1]/div[2]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/genicular-patient-postcard-customized",
+          "urlHash": "2461b666a76621cd1bb6666d61c517d13f575db3",
+          "uuid": "2461b666-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/1000-025-453",
+          "urlHash": "29eafc5d833db80effeeebd1c63b394b621398b9",
+          "uuid": "29eafc5d-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/discography-patient-brochure",
+          "urlHash": "2a1fcc24efbe2fca9663e99284fd5ec3c7e6018a",
+          "uuid": "2a1fcc24-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/back-pain-specialist-postcard",
+          "urlHash": "2ba0ed47a4c1dc70c6300eeb5b6600671dc532f3",
+          "uuid": "2ba0ed47-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/1000-025-416",
+          "urlHash": "2c3ffad1dc206833661ee2f21fcb9b8ec5db3b7f",
+          "uuid": "2c3ffad1-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/rf-physician-back-pain-brochure",
+          "urlHash": "304947ce9c3557457f724577a772bde0b8cc2c30",
+          "uuid": "304947ce-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/bta-patient-poster",
+          "urlHash": "32d36704edadaad66dfda9dfa6fb790525f767a6",
+          "uuid": "32d36704-03-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/D0000039011",
+          "urlHash": "3421af2b08d6ba8a5cc8d50a79ffc2b53e1f5d45",
+          "uuid": "3421af2b-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://strykerivs.com/conditions-and-treatments/back-pain/vertebral-compression-fracture/spinejack-procedure",
+          "urlHash": "372204c02ec9025063475dfde486ba7f211106ac",
+          "uuid": "372204c0-06-62b707db4a6b4e012b707846294b489d5e0004c7",
+          "xpath": "/html[1]/body[1]/footer[1]/div[2]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/1000-025-373",
+          "urlHash": "375c55f25f24116d7fe5b7ee51c48342224e1c79",
+          "uuid": "375c55f2-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/treatment-plan-postcard-physician",
+          "urlHash": "37dd82cd39da1b6ab583f60f372dace9705b1bb8",
+          "uuid": "37dd82cd-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/2019-IVS-Portfolio-Notebook",
+          "urlHash": "38f647ce30ed01c05dff358236487fd45b2b16de",
+          "uuid": "38f647ce-03-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://strykerivs.com/conditions-and-treatments/shoulder-pain",
+          "urlHash": "39090899336bc34cf9c96fd014fe71e0130e3b9f",
+          "uuid": "39090899-05-62b707db4a6b4e012b707846294b489d5e0004c7",
+          "xpath": "/html[1]/body[1]/footer[1]/div[2]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/SpineJack_SAKOS_ad",
+          "urlHash": "3b46915d592e66a925fdc85b57b7c96be6abbeac",
+          "uuid": "3b46915d-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/rf-venom-coffee-cup-sleeve",
+          "urlHash": "3b9a37b529672b76281f65e69747602aa5f5f52b",
+          "uuid": "3b9a37b5-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/ivas-patient-brochure",
+          "urlHash": "3ff900d92d8a09c71c2bf23e3c040c1c90b15ce4",
+          "uuid": "3ff900d9-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/rf-pain-postcard-rep",
+          "urlHash": "435e1a9a88b59b91d97331c7bdd6ce204d261e0c",
+          "uuid": "435e1a9a-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/spinejack-patient-poster",
+          "urlHash": "44c2e035c8955b482ac203ed4621765d6c92bc8f",
+          "uuid": "44c2e035-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/vcf-poster",
+          "urlHash": "46c965b5208da9faa55276f8d632a3286a6404dc",
+          "uuid": "46c965b5-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://strykerivs.com/conditions-and-treatments/back-pain/vertebral-compression-fracture/Balloon-kyphoplasty",
+          "urlHash": "4b414bd994768c08c5d0c315856a6b093f0104d9",
+          "uuid": "4b414bd9-06-62b707db4a6b4e012b707846294b489d5e0004c7",
+          "xpath": "/html[1]/body[1]/footer[1]/div[2]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/mild-patient-brochure",
+          "urlHash": "4b9c193a91a199d2a502a1ee98a40e2e433789a4",
+          "uuid": "4b9c193a-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/back-pain-osteoporosis-magazine-sales-rep",
+          "urlHash": "4c32f1a6a7dc7d42455482b7fe4991aceac30dc8",
+          "uuid": "4c32f1a6-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/1000-025-456",
+          "urlHash": "4e55a415c03b9e8de54b1ec3c4e3668c574c2dea",
+          "uuid": "4e55a415-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/bvn-patient-brochure",
+          "urlHash": "51fc092a24a1f0254ef106a904eba44a8bf8dec1",
+          "uuid": "51fc092a-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/office-tent-cards-do-you-or-someone-you-know-suffer-from-deb",
+          "urlHash": "5405c0f458bd919970f9e6ab78e1ab577d191b5b",
+          "uuid": "5405c0f4-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/mild-patient-poster",
+          "urlHash": "542de73ffa70d7277f87e512965d2cdddd912807",
+          "uuid": "542de73f-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/1000-025-459",
+          "urlHash": "5526b9a1de76f6d925a78528745bf059f0b3d517",
+          "uuid": "5526b9a1-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/osteoporosis-brochure",
+          "urlHash": "577450bfe0899fe7db8c7bd1038db758d9639941",
+          "uuid": "577450bf-03-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/1000-025-165",
+          "urlHash": "57a04d13c248f10e303b3988ab9bf103501a5cab",
+          "uuid": "57a04d13-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/pain-med-news-july-2021",
+          "urlHash": "5a94b42dc57b490f45fb60c2d188108aea795e31",
+          "uuid": "5a94b42d-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/back-pain-osteoporosis-magazine",
+          "urlHash": "5f8c72f4c58e4366f7e3871f533b91b55f536b6e",
+          "uuid": "5f8c72f4-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/bta-patient-brochure",
+          "urlHash": "63183401cb8898cf8e576671055188b0bf90b110",
+          "uuid": "63183401-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/back-pain-va-poster",
+          "urlHash": "6355fbe214074f90b37feeffe37b54aeeb86ec2f",
+          "uuid": "6355fbe2-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/back-pain-osteoporosis-magazine-physician",
+          "urlHash": "64aba0e7542e7c62fd71f2d1c6add53c017cddea",
+          "uuid": "64aba0e7-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/1000-025-768",
+          "urlHash": "682b7a7c56e4fed05aec00410187f224b42fb589",
+          "uuid": "682b7a7c-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/va-vprf-postcard-physician",
+          "urlHash": "69da7a37386534fc6b07423bd4cbec5298cda28f",
+          "uuid": "69da7a37-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/rf-patient-brochure-3-physician-customized",
+          "urlHash": "6bfec38734edc447e00378d028dd1e7fc5fe1fba",
+          "uuid": "6bfec387-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/beckers-spine-2015",
+          "urlHash": "6e22da4dc99a04764bcf0be80546b1769b8a23b5",
+          "uuid": "6e22da4d-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://strykerivs.com/articles/stryker-receives-fda-clearance-for-optablate-bone-tumor-ablation-system",
+          "urlHash": "70e850e7b23a57e2c72dfd6caec10c751db5ef72",
+          "uuid": "70e850e7-08-62b707db4a6b4e012b707846294b489d5e0004c7",
+          "xpath": "/html[1]/body[1]/footer[1]/div[2]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/spinejack-systems-patient-brochure",
+          "urlHash": "71ace023eb26f91b0fa2e25f4ca232ea8def124b",
+          "uuid": "71ace023-03-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/back-pain-rf-postcard-rep",
+          "urlHash": "7ccbaa0b62ac4eb6418927e03d798609d278b5a6",
+          "uuid": "7ccbaa0b-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/1000-025-572",
+          "urlHash": "7d98163dae895bf6d19b745211c29e7973c6db2c",
+          "uuid": "7d98163d-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/1000-001-358",
+          "urlHash": "80199424aa090de750b2c44a461494b8357b30cb",
+          "uuid": "80199424-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://strykerivs.com/conditions-and-treatments/back-pain/sacral-insufficiency-fracture/sacroplasty",
+          "urlHash": "81d0b3a09469a7951db321ecd6060040164c2a87",
+          "uuid": "81d0b3a0-07-62b707db4a6b4e012b707846294b489d5e0004c7",
+          "xpath": "/html[1]/body[1]/footer[1]/div[2]"
+        },
+        {
+          "url": "https://strykerivs.com/contact",
+          "urlHash": "81ed8a8c10abdf328a7bf09dad34b35dc4023e1b",
+          "uuid": "81ed8a8c-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://strykerivs.com/conditions-and-treatments/back-pain/vertebral-compression-fracture/vertebroplasty",
+          "urlHash": "84d3571f705f1f348cadb2819d191d374b678515",
+          "uuid": "84d3571f-06-62b707db4a6b4e012b707846294b489d5e0004c7",
+          "xpath": "/html[1]/body[1]/footer[1]/div[2]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/radiofrequency-patient-brochure",
+          "urlHash": "88051a4663c4916e319330a44f2e7e8923dd4899",
+          "uuid": "88051a46-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/jvir-november-ad",
+          "urlHash": "8b24f6062042ed32e93b3db45831c898a9c79e5a",
+          "uuid": "8b24f606-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/mild-patient-flip-chart",
+          "urlHash": "8b71e18f52591219b95ebcc7a19487e29341e00f",
+          "uuid": "8b71e18f-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://strykerivs.com/conditions-and-treatments/back-pain",
+          "urlHash": "8c369112b390c53eab01a442d4c9beb38122a294",
+          "uuid": "8c369112-07-62b707db4a6b4e012b707846294b489d5e0004c7",
+          "xpath": "/html[1]/body[1]/footer[1]/div[2]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/living-with-back-pain-poster",
+          "urlHash": "8cda8052785b2284100f208a70224ceeca7e60ea",
+          "uuid": "8cda8052-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/1000-001-320",
+          "urlHash": "90021b9de11145aa364c5805f526da97b2ec5153",
+          "uuid": "90021b9d-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://strykerivs.com/conditions-and-treatments/back-pain/metastatic-vertebral-compression-fracture/bone-tumor-ablation",
+          "urlHash": "92ee359a46e9614cb7e952288ddf199014946855",
+          "uuid": "92ee359a-06-62b707db4a6b4e012b707846294b489d5e0004c7",
+          "xpath": "/html[1]/body[1]/footer[1]/div[2]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/pain-med-news-june-2021",
+          "urlHash": "956fa9b3732c4d90a1f42dec07d3ec6cfc60cd7c",
+          "uuid": "956fa9b3-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/suffering-from-back-pain-rf-postcard",
+          "urlHash": "998de023cb49e27ba3dbe6125893bf7b33cafd6c",
+          "uuid": "998de023-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/cortoss-newsletter-template",
+          "urlHash": "9a44a7e01629467c1303e9d62a9c42c3fc762585",
+          "uuid": "9a44a7e0-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/D0000061168",
+          "urlHash": "9a73f581b26b070721d82aa6a17b709812f4b8ca",
+          "uuid": "9a73f581-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/1000-001-040",
+          "urlHash": "9bb21d92b4e43b83d19a458b7e21428b4d706fd9",
+          "uuid": "9bb21d92-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/100-025-789",
+          "urlHash": "9f465498da7871e4cd4ed2dc44fe64401d783cca",
+          "uuid": "9f465498-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/consumer-ad",
+          "urlHash": "aa3fb6a29c1249eec8a37af6ebbee02fba2716cf",
+          "uuid": "aa3fb6a2-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/genicular-patient-postcard",
+          "urlHash": "acaf56b9cea8c43678b19692eab3d91f41c2d887",
+          "uuid": "acaf56b9-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/1000-025-458",
+          "urlHash": "aeedad736d5899ec7d5138aa92104d89ffe20c4c",
+          "uuid": "aeedad73-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://strykerivs.com/cookie-policy",
+          "urlHash": "b3a96639f919fab1fcb3fe5b1cfdeff48296f4cf",
+          "uuid": "b3a96639-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes",
+          "urlHash": "b472092539a0bcb484a30f6cf228f85e66a8660c",
+          "uuid": "b4720925-03-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://strykerivs.com/faqs",
+          "urlHash": "b47939007bf2091e96dbbd38bf4840f9e78e5816",
+          "uuid": "b4793900-05-62b707db4a6b4e012b707846294b489d5e0004c7",
+          "xpath": "/html[1]/body[1]/footer[1]/div[2]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/osteoporosis-risk-poster",
+          "urlHash": "b64dc0c7be529f3d6c483cd7890b227f39fa04f1",
+          "uuid": "b64dc0c7-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/disc-decompression-patient-brochure-for-military-personnel",
+          "urlHash": "b720daa99c6389a61b038d81d5075f3a56d5c2d5",
+          "uuid": "b720daa9-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/physician-rf-brochure",
+          "urlHash": "bacefea0820356e04e959c2e77b293c7c9fffa8c",
+          "uuid": "bacefea0-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/d0000014701",
+          "urlHash": "bbae6349b9c049f731b40bc41c4ac65ff0f252d4",
+          "uuid": "bbae6349-03-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/genicular-rf-patient-brochure",
+          "urlHash": "c4b5b743178fb24a809a1e0814cdd847d72a1619",
+          "uuid": "c4b5b743-04-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://strykerivs.com/conditions-and-treatments/hip-pain",
+          "urlHash": "c79fbcd60e233e324d6dc5eb83367ea919fe6d18",
+          "uuid": "c79fbcd6-05-62b707db4a6b4e012b707846294b489d5e0004c7",
+          "xpath": "/html[1]/body[1]/footer[1]/div[2]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/1000-025-758",
+          "urlHash": "c81319c670c852c53a34b64a301efc65f4bc4aa7",
+          "uuid": "c81319c6-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://strykerivs.com/articles/stryker-announces-trauma-indication-for-the-spinejack-system",
+          "urlHash": "c933b8532bc91adb41661dc6b3806dc5dddca1bd",
+          "uuid": "c933b853-05-62b707db4a6b4e012b707846294b489d5e0004c7",
+          "xpath": "/html[1]/body[1]/footer[1]/div[2]"
+        },
+        {
+          "url": "https://strykerivs.com/conditions-and-treatments/knee-pain/genicular-radiofrequency-ablation",
+          "urlHash": "ce57537093a560681999a5de17ce7b3a1cfe5cde",
+          "uuid": "ce575370-05-62b707db4a6b4e012b707846294b489d5e0004c7",
+          "xpath": "/html[1]/body[1]/footer[1]/div[2]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/sir-gala-ad",
+          "urlHash": "d746c5570415d6c6a56c26008dfdba134e8d2c2e",
+          "uuid": "d746c557-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/D0000023001",
+          "urlHash": "d782e1653a19e34518fb5cfde03fe1970592126d",
+          "uuid": "d782e165-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/vcf-pain-brochure-3-physician-customized",
+          "urlHash": "dd492eb936f643d117db608e34b03bbb92105881",
+          "uuid": "dd492eb9-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/vcf-treatment-card-referring-physician",
+          "urlHash": "de6a7d50cb11d9e6f3f9e11a8e1164f93e863f8a",
+          "uuid": "de6a7d50-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/physician-locator-postcard",
+          "urlHash": "e219df895cd468526afd7e9720b5185eecd9a502",
+          "uuid": "e219df89-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/rf-patient-brochure",
+          "urlHash": "e60ca1ec5bcb33afa29633a82a6000002b94fd65",
+          "uuid": "e60ca1ec-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/1000-025-537",
+          "urlHash": "e66bfd6b62edf39f3e03db3e868870117ae8fb0c",
+          "uuid": "e66bfd6b-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/DEK",
+          "urlHash": "e9ea2033dea8bd77cafbed907975a65d38cb6e03",
+          "uuid": "e9ea2033-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/rf-treatment-postcard",
+          "urlHash": "ebd357fb10f5cbcbf9236c938a3ba3ad0cde0e65",
+          "uuid": "ebd357fb-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/mild-patient-postcard",
+          "urlHash": "eec9b290c751febf1c5f2ec9a97c9d8e3f1b2e81",
+          "uuid": "eec9b290-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/osteoporosis-poster",
+          "urlHash": "f4300a4dad99625bb2a404521456df9f1f6c86db",
+          "uuid": "f4300a4d-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://strykerivs.com/",
+          "urlHash": "f75aa214a78355c7a1d94ada832909b2df74d1f0",
+          "uuid": "f75aa214-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/are-you-suffering-from-back-pain-postcard",
+          "urlHash": "fd37337432adc975abe3822636533dd1798fc82a",
+          "uuid": "fd373374-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://strykerivs.com/facet-joint-pain/radiofrequency-ablation",
+          "urlHash": "fe226400ec1a72ce78363aef8b32d5b183d99db1",
+          "uuid": "fe226400-06-62b707db4a6b4e012b707846294b489d5e0004c7",
+          "xpath": "/html[1]/body[1]/footer[1]/div[2]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/vcf-solutions-brochure",
+          "urlHash": "feca5644e29223c18ae1cf5fdb5582b63a0eb90c",
+          "uuid": "feca5644-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        }
+      ]
+    }
+  ],
+  "blocks": [
+    {
+      "name": "Columns",
+      "cluster": 1,
+      "source": "Columns",
+      "target": "Columns (columns1)",
+      "key": "columns1",
+      "instances": [
+        {
+          "url": "https://strykerivs.com/conditions-and-treatments/knee-pain",
+          "urlHash": "2243ef080a18bb71e12dd79a51699618b5728bea",
+          "uuid": "2243ef08-02-334a043442c53ab6ea8f01e0a99cdddc35433b02",
+          "xpath": "/html[1]/body[1]/section[1]/div[2]/section[1]/div[1]/main[1]/div[2]"
+        },
+        {
+          "url": "https://strykerivs.com/conditions-and-treatments/hip-pain",
+          "urlHash": "c79fbcd60e233e324d6dc5eb83367ea919fe6d18",
+          "uuid": "c79fbcd6-02-334a043442c53ab6ea8f01e0a99cdddc35433b02",
+          "xpath": "/html[1]/body[1]/section[1]/div[2]/section[1]/div[1]/main[1]/div[2]"
+        }
+      ]
+    },
+    {
+      "name": "Hero",
+      "cluster": 2,
+      "source": "Hero",
+      "target": "Hero (hero2)",
+      "key": "hero2",
+      "instances": [
+        {
+          "url": "https://strykerivs.com/conditions-and-treatments/back-pain/vertebral-compression-fracture/spinejack-procedure",
+          "urlHash": "372204c02ec9025063475dfde486ba7f211106ac",
+          "uuid": "372204c0-01-c1e52b24a220b9f2998dd4a6971f9f489fad06a1",
+          "xpath": "/html[1]/body[1]/section[1]/div[2]/section[1]/div[1]/main[1]/div[1]"
+        },
+        {
+          "url": "https://strykerivs.com/conditions-and-treatments/back-pain/vertebral-compression-fracture/Balloon-kyphoplasty",
+          "urlHash": "4b414bd994768c08c5d0c315856a6b093f0104d9",
+          "uuid": "4b414bd9-01-c1e52b24a220b9f2998dd4a6971f9f489fad06a1",
+          "xpath": "/html[1]/body[1]/section[1]/div[2]/section[1]/div[1]/main[1]/div[1]"
+        },
+        {
+          "url": "https://strykerivs.com/conditions-and-treatments/back-pain/sacral-insufficiency-fracture/sacroplasty",
+          "urlHash": "81d0b3a09469a7951db321ecd6060040164c2a87",
+          "uuid": "81d0b3a0-01-c1e52b24a220b9f2998dd4a6971f9f489fad06a1",
+          "xpath": "/html[1]/body[1]/section[1]/div[2]/section[1]/div[1]/main[1]/div[1]"
+        },
+        {
+          "url": "https://strykerivs.com/conditions-and-treatments/back-pain/vertebral-compression-fracture/vertebroplasty",
+          "urlHash": "84d3571f705f1f348cadb2819d191d374b678515",
+          "uuid": "84d3571f-01-c1e52b24a220b9f2998dd4a6971f9f489fad06a1",
+          "xpath": "/html[1]/body[1]/section[1]/div[2]/section[1]/div[1]/main[1]/div[1]"
+        },
+        {
+          "url": "https://strykerivs.com/conditions-and-treatments/back-pain/metastatic-vertebral-compression-fracture/bone-tumor-ablation",
+          "urlHash": "92ee359a46e9614cb7e952288ddf199014946855",
+          "uuid": "92ee359a-01-c1e52b24a220b9f2998dd4a6971f9f489fad06a1",
+          "xpath": "/html[1]/body[1]/section[1]/div[2]/section[1]/div[1]/main[1]/div[1]"
+        },
+        {
+          "url": "https://strykerivs.com/conditions-and-treatments/knee-pain/genicular-radiofrequency-ablation",
+          "urlHash": "ce57537093a560681999a5de17ce7b3a1cfe5cde",
+          "uuid": "ce575370-01-c1e52b24a220b9f2998dd4a6971f9f489fad06a1",
+          "xpath": "/html[1]/body[1]/section[1]/div[2]/section[1]/div[1]/main[1]/div[1]"
+        },
+        {
+          "url": "https://strykerivs.com/facet-joint-pain/radiofrequency-ablation",
+          "urlHash": "fe226400ec1a72ce78363aef8b32d5b183d99db1",
+          "uuid": "fe226400-01-c1e52b24a220b9f2998dd4a6971f9f489fad06a1",
+          "xpath": "/html[1]/body[1]/section[1]/div[2]/section[1]/div[1]/main[1]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "unknown",
+      "cluster": 3,
+      "instances": [
+        {
+          "url": "https://strykerivs.com/footnotes/StrykerIVS-2021-ASIPP",
+          "urlHash": "004770f86db4bf5c443545a3cfdc9d7f7e6b4458",
+          "uuid": "004770f8-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/physician-back-pain-brochure",
+          "urlHash": "02d8754a12e884bc31610f1b7bc36ea42db66f4e",
+          "uuid": "02d8754a-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/va-vprf-postcard-rep",
+          "urlHash": "04754d8482dee41ebe279404b6ee5b261df2c5ec",
+          "uuid": "04754d84-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/suffering-from-back-pain-rf-poster",
+          "urlHash": "04900e594311c7e556b855e24c15b1bfafed950b",
+          "uuid": "04900e59-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/1000-025-001",
+          "urlHash": "0747c7387a678935f86df45fcaa222bf30ca77c0",
+          "uuid": "0747c738-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/spinejack-launch-slick",
+          "urlHash": "115aa28dc8968242dc34f5e1c7891e520c11fb2a",
+          "uuid": "115aa28d-03-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/d0000017804",
+          "urlHash": "11dabcb3fd5cc46e3c0d7dbc43cf3309b6724812",
+          "uuid": "11dabcb3-03-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/mild-quick-reference-guide",
+          "urlHash": "1378288a5371eb405602807ba534fdbc8ef80720",
+          "uuid": "1378288a-03-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/1000-025-835",
+          "urlHash": "19031bd776ad1a13026f1797b6908d3fbf4c91d6",
+          "uuid": "19031bd7-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/pain-relief",
+          "urlHash": "1f845900ef1bc49ee10a8924f7c954546d862ee2",
+          "uuid": "1f845900-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/genicular-patient-postcard-customized",
+          "urlHash": "2461b666a76621cd1bb6666d61c517d13f575db3",
+          "uuid": "2461b666-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/1000-025-453",
+          "urlHash": "29eafc5d833db80effeeebd1c63b394b621398b9",
+          "uuid": "29eafc5d-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/discography-patient-brochure",
+          "urlHash": "2a1fcc24efbe2fca9663e99284fd5ec3c7e6018a",
+          "uuid": "2a1fcc24-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/back-pain-specialist-postcard",
+          "urlHash": "2ba0ed47a4c1dc70c6300eeb5b6600671dc532f3",
+          "uuid": "2ba0ed47-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/1000-025-416",
+          "urlHash": "2c3ffad1dc206833661ee2f21fcb9b8ec5db3b7f",
+          "uuid": "2c3ffad1-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/rf-physician-back-pain-brochure",
+          "urlHash": "304947ce9c3557457f724577a772bde0b8cc2c30",
+          "uuid": "304947ce-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/bta-patient-poster",
+          "urlHash": "32d36704edadaad66dfda9dfa6fb790525f767a6",
+          "uuid": "32d36704-03-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/D0000039011",
+          "urlHash": "3421af2b08d6ba8a5cc8d50a79ffc2b53e1f5d45",
+          "uuid": "3421af2b-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/1000-025-373",
+          "urlHash": "375c55f25f24116d7fe5b7ee51c48342224e1c79",
+          "uuid": "375c55f2-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/treatment-plan-postcard-physician",
+          "urlHash": "37dd82cd39da1b6ab583f60f372dace9705b1bb8",
+          "uuid": "37dd82cd-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/2019-IVS-Portfolio-Notebook",
+          "urlHash": "38f647ce30ed01c05dff358236487fd45b2b16de",
+          "uuid": "38f647ce-03-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/SpineJack_SAKOS_ad",
+          "urlHash": "3b46915d592e66a925fdc85b57b7c96be6abbeac",
+          "uuid": "3b46915d-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/rf-venom-coffee-cup-sleeve",
+          "urlHash": "3b9a37b529672b76281f65e69747602aa5f5f52b",
+          "uuid": "3b9a37b5-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/ivas-patient-brochure",
+          "urlHash": "3ff900d92d8a09c71c2bf23e3c040c1c90b15ce4",
+          "uuid": "3ff900d9-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/rf-pain-postcard-rep",
+          "urlHash": "435e1a9a88b59b91d97331c7bdd6ce204d261e0c",
+          "uuid": "435e1a9a-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/spinejack-patient-poster",
+          "urlHash": "44c2e035c8955b482ac203ed4621765d6c92bc8f",
+          "uuid": "44c2e035-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/vcf-poster",
+          "urlHash": "46c965b5208da9faa55276f8d632a3286a6404dc",
+          "uuid": "46c965b5-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/mild-patient-brochure",
+          "urlHash": "4b9c193a91a199d2a502a1ee98a40e2e433789a4",
+          "uuid": "4b9c193a-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/back-pain-osteoporosis-magazine-sales-rep",
+          "urlHash": "4c32f1a6a7dc7d42455482b7fe4991aceac30dc8",
+          "uuid": "4c32f1a6-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/1000-025-456",
+          "urlHash": "4e55a415c03b9e8de54b1ec3c4e3668c574c2dea",
+          "uuid": "4e55a415-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/bvn-patient-brochure",
+          "urlHash": "51fc092a24a1f0254ef106a904eba44a8bf8dec1",
+          "uuid": "51fc092a-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/office-tent-cards-do-you-or-someone-you-know-suffer-from-deb",
+          "urlHash": "5405c0f458bd919970f9e6ab78e1ab577d191b5b",
+          "uuid": "5405c0f4-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/mild-patient-poster",
+          "urlHash": "542de73ffa70d7277f87e512965d2cdddd912807",
+          "uuid": "542de73f-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/1000-025-459",
+          "urlHash": "5526b9a1de76f6d925a78528745bf059f0b3d517",
+          "uuid": "5526b9a1-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/osteoporosis-brochure",
+          "urlHash": "577450bfe0899fe7db8c7bd1038db758d9639941",
+          "uuid": "577450bf-03-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/1000-025-165",
+          "urlHash": "57a04d13c248f10e303b3988ab9bf103501a5cab",
+          "uuid": "57a04d13-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/pain-med-news-july-2021",
+          "urlHash": "5a94b42dc57b490f45fb60c2d188108aea795e31",
+          "uuid": "5a94b42d-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/back-pain-osteoporosis-magazine",
+          "urlHash": "5f8c72f4c58e4366f7e3871f533b91b55f536b6e",
+          "uuid": "5f8c72f4-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/bta-patient-brochure",
+          "urlHash": "63183401cb8898cf8e576671055188b0bf90b110",
+          "uuid": "63183401-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/back-pain-va-poster",
+          "urlHash": "6355fbe214074f90b37feeffe37b54aeeb86ec2f",
+          "uuid": "6355fbe2-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/back-pain-osteoporosis-magazine-physician",
+          "urlHash": "64aba0e7542e7c62fd71f2d1c6add53c017cddea",
+          "uuid": "64aba0e7-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/1000-025-768",
+          "urlHash": "682b7a7c56e4fed05aec00410187f224b42fb589",
+          "uuid": "682b7a7c-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/va-vprf-postcard-physician",
+          "urlHash": "69da7a37386534fc6b07423bd4cbec5298cda28f",
+          "uuid": "69da7a37-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/rf-patient-brochure-3-physician-customized",
+          "urlHash": "6bfec38734edc447e00378d028dd1e7fc5fe1fba",
+          "uuid": "6bfec387-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/beckers-spine-2015",
+          "urlHash": "6e22da4dc99a04764bcf0be80546b1769b8a23b5",
+          "uuid": "6e22da4d-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/spinejack-systems-patient-brochure",
+          "urlHash": "71ace023eb26f91b0fa2e25f4ca232ea8def124b",
+          "uuid": "71ace023-03-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/back-pain-rf-postcard-rep",
+          "urlHash": "7ccbaa0b62ac4eb6418927e03d798609d278b5a6",
+          "uuid": "7ccbaa0b-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/1000-025-572",
+          "urlHash": "7d98163dae895bf6d19b745211c29e7973c6db2c",
+          "uuid": "7d98163d-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/1000-001-358",
+          "urlHash": "80199424aa090de750b2c44a461494b8357b30cb",
+          "uuid": "80199424-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://strykerivs.com/contact",
+          "urlHash": "81ed8a8c10abdf328a7bf09dad34b35dc4023e1b",
+          "uuid": "81ed8a8c-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/radiofrequency-patient-brochure",
+          "urlHash": "88051a4663c4916e319330a44f2e7e8923dd4899",
+          "uuid": "88051a46-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/jvir-november-ad",
+          "urlHash": "8b24f6062042ed32e93b3db45831c898a9c79e5a",
+          "uuid": "8b24f606-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/mild-patient-flip-chart",
+          "urlHash": "8b71e18f52591219b95ebcc7a19487e29341e00f",
+          "uuid": "8b71e18f-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/living-with-back-pain-poster",
+          "urlHash": "8cda8052785b2284100f208a70224ceeca7e60ea",
+          "uuid": "8cda8052-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/1000-001-320",
+          "urlHash": "90021b9de11145aa364c5805f526da97b2ec5153",
+          "uuid": "90021b9d-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/pain-med-news-june-2021",
+          "urlHash": "956fa9b3732c4d90a1f42dec07d3ec6cfc60cd7c",
+          "uuid": "956fa9b3-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/suffering-from-back-pain-rf-postcard",
+          "urlHash": "998de023cb49e27ba3dbe6125893bf7b33cafd6c",
+          "uuid": "998de023-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/cortoss-newsletter-template",
+          "urlHash": "9a44a7e01629467c1303e9d62a9c42c3fc762585",
+          "uuid": "9a44a7e0-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/D0000061168",
+          "urlHash": "9a73f581b26b070721d82aa6a17b709812f4b8ca",
+          "uuid": "9a73f581-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/1000-001-040",
+          "urlHash": "9bb21d92b4e43b83d19a458b7e21428b4d706fd9",
+          "uuid": "9bb21d92-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/100-025-789",
+          "urlHash": "9f465498da7871e4cd4ed2dc44fe64401d783cca",
+          "uuid": "9f465498-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/consumer-ad",
+          "urlHash": "aa3fb6a29c1249eec8a37af6ebbee02fba2716cf",
+          "uuid": "aa3fb6a2-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/genicular-patient-postcard",
+          "urlHash": "acaf56b9cea8c43678b19692eab3d91f41c2d887",
+          "uuid": "acaf56b9-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/1000-025-458",
+          "urlHash": "aeedad736d5899ec7d5138aa92104d89ffe20c4c",
+          "uuid": "aeedad73-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://strykerivs.com/cookie-policy",
+          "urlHash": "b3a96639f919fab1fcb3fe5b1cfdeff48296f4cf",
+          "uuid": "b3a96639-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes",
+          "urlHash": "b472092539a0bcb484a30f6cf228f85e66a8660c",
+          "uuid": "b4720925-03-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/osteoporosis-risk-poster",
+          "urlHash": "b64dc0c7be529f3d6c483cd7890b227f39fa04f1",
+          "uuid": "b64dc0c7-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/disc-decompression-patient-brochure-for-military-personnel",
+          "urlHash": "b720daa99c6389a61b038d81d5075f3a56d5c2d5",
+          "uuid": "b720daa9-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/physician-rf-brochure",
+          "urlHash": "bacefea0820356e04e959c2e77b293c7c9fffa8c",
+          "uuid": "bacefea0-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/d0000014701",
+          "urlHash": "bbae6349b9c049f731b40bc41c4ac65ff0f252d4",
+          "uuid": "bbae6349-03-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/genicular-rf-patient-brochure",
+          "urlHash": "c4b5b743178fb24a809a1e0814cdd847d72a1619",
+          "uuid": "c4b5b743-04-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/1000-025-758",
+          "urlHash": "c81319c670c852c53a34b64a301efc65f4bc4aa7",
+          "uuid": "c81319c6-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/sir-gala-ad",
+          "urlHash": "d746c5570415d6c6a56c26008dfdba134e8d2c2e",
+          "uuid": "d746c557-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/D0000023001",
+          "urlHash": "d782e1653a19e34518fb5cfde03fe1970592126d",
+          "uuid": "d782e165-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/vcf-pain-brochure-3-physician-customized",
+          "urlHash": "dd492eb936f643d117db608e34b03bbb92105881",
+          "uuid": "dd492eb9-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/vcf-treatment-card-referring-physician",
+          "urlHash": "de6a7d50cb11d9e6f3f9e11a8e1164f93e863f8a",
+          "uuid": "de6a7d50-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/physician-locator-postcard",
+          "urlHash": "e219df895cd468526afd7e9720b5185eecd9a502",
+          "uuid": "e219df89-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/rf-patient-brochure",
+          "urlHash": "e60ca1ec5bcb33afa29633a82a6000002b94fd65",
+          "uuid": "e60ca1ec-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/1000-025-537",
+          "urlHash": "e66bfd6b62edf39f3e03db3e868870117ae8fb0c",
+          "uuid": "e66bfd6b-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/DEK",
+          "urlHash": "e9ea2033dea8bd77cafbed907975a65d38cb6e03",
+          "uuid": "e9ea2033-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/rf-treatment-postcard",
+          "urlHash": "ebd357fb10f5cbcbf9236c938a3ba3ad0cde0e65",
+          "uuid": "ebd357fb-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/mild-patient-postcard",
+          "urlHash": "eec9b290c751febf1c5f2ec9a97c9d8e3f1b2e81",
+          "uuid": "eec9b290-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/osteoporosis-poster",
+          "urlHash": "f4300a4dad99625bb2a404521456df9f1f6c86db",
+          "uuid": "f4300a4d-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://strykerivs.com/",
+          "urlHash": "f75aa214a78355c7a1d94ada832909b2df74d1f0",
+          "uuid": "f75aa214-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/are-you-suffering-from-back-pain-postcard",
+          "urlHash": "fd37337432adc975abe3822636533dd1798fc82a",
+          "uuid": "fd373374-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/vcf-solutions-brochure",
+          "urlHash": "feca5644e29223c18ae1cf5fdb5582b63a0eb90c",
+          "uuid": "feca5644-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        }
+      ]
+    },
+    {
+      "name": "Accordion",
+      "cluster": 4,
+      "source": "Accordion",
+      "target": "Accordion (accordion4)",
+      "key": "accordion4",
+      "instances": [
+        {
+          "url": "https://strykerivs.com/conditions-and-treatments/back-pain",
+          "urlHash": "8c369112b390c53eab01a442d4c9beb38122a294",
+          "uuid": "8c369112-02-9fb7e9d092c4803cf3df5f604466a0b77ba217e5",
+          "xpath": "/html[1]/body[1]/section[1]/div[2]/section[1]/div[1]/main[1]/div[4]"
+        },
+        {
+          "url": "https://strykerivs.com/conditions-and-treatments/back-pain",
+          "urlHash": "8c369112b390c53eab01a442d4c9beb38122a294",
+          "uuid": "8c369112-03-d62fc2410043b69b842fde296fa2d3d1c3400555",
+          "xpath": "/html[1]/body[1]/section[1]/div[2]/section[1]/div[1]/main[1]/div[7]"
+        }
+      ]
+    },
+    {
+      "name": "Hero",
+      "cluster": 5,
+      "source": "Hero",
+      "target": "Hero (hero5)",
+      "key": "hero5",
+      "instances": [
+        {
+          "url": "https://strykerivs.com/conditions-and-treatments/back-pain/metastatic-vertebral-compression-fracture/bone-tumor-ablation",
+          "urlHash": "92ee359a46e9614cb7e952288ddf199014946855",
+          "uuid": "92ee359a-03-dea0fd2a4b10de5ed27c046c61d231e5ea9d8da0",
+          "xpath": "/html[1]/body[1]/section[1]/div[2]/section[1]/div[1]/main[1]/div[3]"
+        },
+        {
+          "url": "https://strykerivs.com/facet-joint-pain/radiofrequency-ablation",
+          "urlHash": "fe226400ec1a72ce78363aef8b32d5b183d99db1",
+          "uuid": "fe226400-03-dea0fd2a4b10de5ed27c046c61d231e5ea9d8da0",
+          "xpath": "/html[1]/body[1]/section[1]/div[2]/section[1]/div[1]/main[1]/div[3]"
+        }
+      ]
+    },
+    {
+      "name": "Hero",
+      "cluster": 6,
+      "source": "Hero",
+      "target": "Hero (hero6)",
+      "key": "hero6",
+      "instances": [
+        {
+          "url": "https://strykerivs.com/conditions-and-treatments/knee-pain",
+          "urlHash": "2243ef080a18bb71e12dd79a51699618b5728bea",
+          "uuid": "2243ef08-01-c1e52b24a220b9f2998dd4a6971f9f489fad06a1",
+          "xpath": "/html[1]/body[1]/section[1]/div[2]/section[1]/div[1]/main[1]/div[1]"
+        },
+        {
+          "url": "https://strykerivs.com/conditions-and-treatments/shoulder-pain",
+          "urlHash": "39090899336bc34cf9c96fd014fe71e0130e3b9f",
+          "uuid": "39090899-01-c1e52b24a220b9f2998dd4a6971f9f489fad06a1",
+          "xpath": "/html[1]/body[1]/section[1]/div[2]/section[1]/div[1]/main[1]/div[1]"
+        },
+        {
+          "url": "https://strykerivs.com/conditions-and-treatments/hip-pain",
+          "urlHash": "c79fbcd60e233e324d6dc5eb83367ea919fe6d18",
+          "uuid": "c79fbcd6-01-c1e52b24a220b9f2998dd4a6971f9f489fad06a1",
+          "xpath": "/html[1]/body[1]/section[1]/div[2]/section[1]/div[1]/main[1]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "unknown",
+      "cluster": 7,
+      "instances": [
+        {
+          "url": "https://strykerivs.com/contact",
+          "urlHash": "81ed8a8c10abdf328a7bf09dad34b35dc4023e1b",
+          "uuid": "81ed8a8c-01-7415c3af5705d47d6f87e93721876f96811e2318",
+          "xpath": "/html[1]/body[1]/section[1]/div[2]/section[1]"
+        }
+      ]
+    },
+    {
+      "name": "Hero",
+      "cluster": 8,
+      "source": "Hero",
+      "target": "Hero (hero8)",
+      "key": "hero8",
+      "instances": [
+        {
+          "url": "https://strykerivs.com/conditions-and-treatments/back-pain/vertebral-compression-fracture/spinejack-procedure",
+          "urlHash": "372204c02ec9025063475dfde486ba7f211106ac",
+          "uuid": "372204c0-02-334a043442c53ab6ea8f01e0a99cdddc35433b02",
+          "xpath": "/html[1]/body[1]/section[1]/div[2]/section[1]/div[1]/main[1]/div[2]"
+        },
+        {
+          "url": "https://strykerivs.com/conditions-and-treatments/back-pain/vertebral-compression-fracture/Balloon-kyphoplasty",
+          "urlHash": "4b414bd994768c08c5d0c315856a6b093f0104d9",
+          "uuid": "4b414bd9-02-334a043442c53ab6ea8f01e0a99cdddc35433b02",
+          "xpath": "/html[1]/body[1]/section[1]/div[2]/section[1]/div[1]/main[1]/div[2]"
+        },
+        {
+          "url": "https://strykerivs.com/conditions-and-treatments/back-pain/sacral-insufficiency-fracture/sacroplasty",
+          "urlHash": "81d0b3a09469a7951db321ecd6060040164c2a87",
+          "uuid": "81d0b3a0-02-334a043442c53ab6ea8f01e0a99cdddc35433b02",
+          "xpath": "/html[1]/body[1]/section[1]/div[2]/section[1]/div[1]/main[1]/div[2]"
+        },
+        {
+          "url": "https://strykerivs.com/conditions-and-treatments/back-pain/metastatic-vertebral-compression-fracture/bone-tumor-ablation",
+          "urlHash": "92ee359a46e9614cb7e952288ddf199014946855",
+          "uuid": "92ee359a-02-334a043442c53ab6ea8f01e0a99cdddc35433b02",
+          "xpath": "/html[1]/body[1]/section[1]/div[2]/section[1]/div[1]/main[1]/div[2]"
+        },
+        {
+          "url": "https://strykerivs.com/facet-joint-pain/radiofrequency-ablation",
+          "urlHash": "fe226400ec1a72ce78363aef8b32d5b183d99db1",
+          "uuid": "fe226400-02-334a043442c53ab6ea8f01e0a99cdddc35433b02",
+          "xpath": "/html[1]/body[1]/section[1]/div[2]/section[1]/div[1]/main[1]/div[2]"
+        }
+      ]
+    },
+    {
+      "name": "Hero",
+      "cluster": 9,
+      "source": "Hero",
+      "target": "Hero (hero9)",
+      "key": "hero9",
+      "instances": [
+        {
+          "url": "https://strykerivs.com/conditions-and-treatments/back-pain/vertebral-compression-fracture/spinejack-procedure",
+          "urlHash": "372204c02ec9025063475dfde486ba7f211106ac",
+          "uuid": "372204c0-03-dea0fd2a4b10de5ed27c046c61d231e5ea9d8da0",
+          "xpath": "/html[1]/body[1]/section[1]/div[2]/section[1]/div[1]/main[1]/div[3]"
+        },
+        {
+          "url": "https://strykerivs.com/conditions-and-treatments/back-pain/vertebral-compression-fracture/Balloon-kyphoplasty",
+          "urlHash": "4b414bd994768c08c5d0c315856a6b093f0104d9",
+          "uuid": "4b414bd9-03-dea0fd2a4b10de5ed27c046c61d231e5ea9d8da0",
+          "xpath": "/html[1]/body[1]/section[1]/div[2]/section[1]/div[1]/main[1]/div[3]"
+        },
+        {
+          "url": "https://strykerivs.com/conditions-and-treatments/back-pain/sacral-insufficiency-fracture/sacroplasty",
+          "urlHash": "81d0b3a09469a7951db321ecd6060040164c2a87",
+          "uuid": "81d0b3a0-04-9fb7e9d092c4803cf3df5f604466a0b77ba217e5",
+          "xpath": "/html[1]/body[1]/section[1]/div[2]/section[1]/div[1]/main[1]/div[4]"
+        },
+        {
+          "url": "https://strykerivs.com/conditions-and-treatments/back-pain/vertebral-compression-fracture/vertebroplasty",
+          "urlHash": "84d3571f705f1f348cadb2819d191d374b678515",
+          "uuid": "84d3571f-03-dea0fd2a4b10de5ed27c046c61d231e5ea9d8da0",
+          "xpath": "/html[1]/body[1]/section[1]/div[2]/section[1]/div[1]/main[1]/div[3]"
+        }
+      ]
+    },
+    {
+      "name": "Embed (video)",
+      "cluster": 10,
+      "source": "Embed",
+      "target": "Embed (embedVideo10)",
+      "key": "embedVideo10",
+      "instances": [
+        {
+          "url": "https://strykerivs.com/conditions-and-treatments/knee-pain",
+          "urlHash": "2243ef080a18bb71e12dd79a51699618b5728bea",
+          "uuid": "2243ef08-04-8432047a6065c3f16241857848a3c7b0988274fc",
+          "xpath": "/html[1]/body[1]/footer[1]/div[1]"
+        },
+        {
+          "url": "https://strykerivs.com/conditions-and-treatments/back-pain/vertebral-compression-fracture/spinejack-procedure",
+          "urlHash": "372204c02ec9025063475dfde486ba7f211106ac",
+          "uuid": "372204c0-05-8432047a6065c3f16241857848a3c7b0988274fc",
+          "xpath": "/html[1]/body[1]/footer[1]/div[1]"
+        },
+        {
+          "url": "https://strykerivs.com/conditions-and-treatments/shoulder-pain",
+          "urlHash": "39090899336bc34cf9c96fd014fe71e0130e3b9f",
+          "uuid": "39090899-04-8432047a6065c3f16241857848a3c7b0988274fc",
+          "xpath": "/html[1]/body[1]/footer[1]/div[1]"
+        },
+        {
+          "url": "https://strykerivs.com/conditions-and-treatments/back-pain/vertebral-compression-fracture/Balloon-kyphoplasty",
+          "urlHash": "4b414bd994768c08c5d0c315856a6b093f0104d9",
+          "uuid": "4b414bd9-05-8432047a6065c3f16241857848a3c7b0988274fc",
+          "xpath": "/html[1]/body[1]/footer[1]/div[1]"
+        },
+        {
+          "url": "https://strykerivs.com/articles/stryker-receives-fda-clearance-for-optablate-bone-tumor-ablation-system",
+          "urlHash": "70e850e7b23a57e2c72dfd6caec10c751db5ef72",
+          "uuid": "70e850e7-07-8432047a6065c3f16241857848a3c7b0988274fc",
+          "xpath": "/html[1]/body[1]/footer[1]/div[1]"
+        },
+        {
+          "url": "https://strykerivs.com/conditions-and-treatments/back-pain/sacral-insufficiency-fracture/sacroplasty",
+          "urlHash": "81d0b3a09469a7951db321ecd6060040164c2a87",
+          "uuid": "81d0b3a0-06-8432047a6065c3f16241857848a3c7b0988274fc",
+          "xpath": "/html[1]/body[1]/footer[1]/div[1]"
+        },
+        {
+          "url": "https://strykerivs.com/conditions-and-treatments/back-pain/vertebral-compression-fracture/vertebroplasty",
+          "urlHash": "84d3571f705f1f348cadb2819d191d374b678515",
+          "uuid": "84d3571f-05-8432047a6065c3f16241857848a3c7b0988274fc",
+          "xpath": "/html[1]/body[1]/footer[1]/div[1]"
+        },
+        {
+          "url": "https://strykerivs.com/conditions-and-treatments/back-pain",
+          "urlHash": "8c369112b390c53eab01a442d4c9beb38122a294",
+          "uuid": "8c369112-06-8432047a6065c3f16241857848a3c7b0988274fc",
+          "xpath": "/html[1]/body[1]/footer[1]/div[1]"
+        },
+        {
+          "url": "https://strykerivs.com/conditions-and-treatments/back-pain/metastatic-vertebral-compression-fracture/bone-tumor-ablation",
+          "urlHash": "92ee359a46e9614cb7e952288ddf199014946855",
+          "uuid": "92ee359a-05-8432047a6065c3f16241857848a3c7b0988274fc",
+          "xpath": "/html[1]/body[1]/footer[1]/div[1]"
+        },
+        {
+          "url": "https://strykerivs.com/faqs",
+          "urlHash": "b47939007bf2091e96dbbd38bf4840f9e78e5816",
+          "uuid": "b4793900-04-8432047a6065c3f16241857848a3c7b0988274fc",
+          "xpath": "/html[1]/body[1]/footer[1]/div[1]"
+        },
+        {
+          "url": "https://strykerivs.com/conditions-and-treatments/hip-pain",
+          "urlHash": "c79fbcd60e233e324d6dc5eb83367ea919fe6d18",
+          "uuid": "c79fbcd6-04-8432047a6065c3f16241857848a3c7b0988274fc",
+          "xpath": "/html[1]/body[1]/footer[1]/div[1]"
+        },
+        {
+          "url": "https://strykerivs.com/articles/stryker-announces-trauma-indication-for-the-spinejack-system",
+          "urlHash": "c933b8532bc91adb41661dc6b3806dc5dddca1bd",
+          "uuid": "c933b853-04-8432047a6065c3f16241857848a3c7b0988274fc",
+          "xpath": "/html[1]/body[1]/footer[1]/div[1]"
+        },
+        {
+          "url": "https://strykerivs.com/conditions-and-treatments/knee-pain/genicular-radiofrequency-ablation",
+          "urlHash": "ce57537093a560681999a5de17ce7b3a1cfe5cde",
+          "uuid": "ce575370-04-8432047a6065c3f16241857848a3c7b0988274fc",
+          "xpath": "/html[1]/body[1]/footer[1]/div[1]"
+        },
+        {
+          "url": "https://strykerivs.com/facet-joint-pain/radiofrequency-ablation",
+          "urlHash": "fe226400ec1a72ce78363aef8b32d5b183d99db1",
+          "uuid": "fe226400-05-8432047a6065c3f16241857848a3c7b0988274fc",
+          "xpath": "/html[1]/body[1]/footer[1]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "Table (striped & bordered)",
+      "cluster": 11,
+      "source": "Table (striped, bordered)",
+      "target": "Table (striped, bordered, tableStripedBordered11)",
+      "key": "tableStripedBordered11",
+      "instances": [
+        {
+          "url": "https://strykerivs.com/footnotes/genicular-rf-patient-brochure",
+          "urlHash": "c4b5b743178fb24a809a1e0814cdd847d72a1619",
+          "uuid": "c4b5b743-02-474439dc970d1b4d0ebcf0db9a9397199d9587ea",
+          "xpath": "/html[1]/body[1]/section[1]/div[2]/div[1]/div[1]/main[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/genicular-rf-patient-brochure",
+          "urlHash": "c4b5b743178fb24a809a1e0814cdd847d72a1619",
+          "uuid": "c4b5b743-03-90296cc06ad36195ebcae60dae42932175710e93",
+          "xpath": "/html[1]/body[1]/section[1]/div[2]/div[1]/div[1]/main[1]/div[1]/div[1]/div[2]"
+        }
+      ]
+    },
+    {
+      "name": "unknown",
+      "cluster": 12,
+      "instances": [
+        {
+          "url": "https://strykerivs.com/conditions-and-treatments/back-pain/vertebral-compression-fracture/vertebroplasty",
+          "urlHash": "84d3571f705f1f348cadb2819d191d374b678515",
+          "uuid": "84d3571f-02-334a043442c53ab6ea8f01e0a99cdddc35433b02",
+          "xpath": "/html[1]/body[1]/section[1]/div[2]/section[1]/div[1]/main[1]/div[2]"
+        },
+        {
+          "url": "https://strykerivs.com/conditions-and-treatments/knee-pain/genicular-radiofrequency-ablation",
+          "urlHash": "ce57537093a560681999a5de17ce7b3a1cfe5cde",
+          "uuid": "ce575370-02-334a043442c53ab6ea8f01e0a99cdddc35433b02",
+          "xpath": "/html[1]/body[1]/section[1]/div[2]/section[1]/div[1]/main[1]/div[2]"
+        }
+      ]
+    },
+    {
+      "name": "Hero",
+      "cluster": 13,
+      "source": "Hero",
+      "target": "Hero (hero13)",
+      "key": "hero13",
+      "instances": [
+        {
+          "url": "https://strykerivs.com/footnotes/StrykerIVS-2021-ASIPP",
+          "urlHash": "004770f86db4bf5c443545a3cfdc9d7f7e6b4458",
+          "uuid": "004770f8-00-66c1b56d681f30ffd9ee9dc84572cf37ac1f35a4",
+          "xpath": "/html[1]/body[1]/section[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/physician-back-pain-brochure",
+          "urlHash": "02d8754a12e884bc31610f1b7bc36ea42db66f4e",
+          "uuid": "02d8754a-00-66c1b56d681f30ffd9ee9dc84572cf37ac1f35a4",
+          "xpath": "/html[1]/body[1]/section[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/va-vprf-postcard-rep",
+          "urlHash": "04754d8482dee41ebe279404b6ee5b261df2c5ec",
+          "uuid": "04754d84-00-66c1b56d681f30ffd9ee9dc84572cf37ac1f35a4",
+          "xpath": "/html[1]/body[1]/section[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/suffering-from-back-pain-rf-poster",
+          "urlHash": "04900e594311c7e556b855e24c15b1bfafed950b",
+          "uuid": "04900e59-00-66c1b56d681f30ffd9ee9dc84572cf37ac1f35a4",
+          "xpath": "/html[1]/body[1]/section[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/1000-025-001",
+          "urlHash": "0747c7387a678935f86df45fcaa222bf30ca77c0",
+          "uuid": "0747c738-00-66c1b56d681f30ffd9ee9dc84572cf37ac1f35a4",
+          "xpath": "/html[1]/body[1]/section[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/spinejack-launch-slick",
+          "urlHash": "115aa28dc8968242dc34f5e1c7891e520c11fb2a",
+          "uuid": "115aa28d-00-66c1b56d681f30ffd9ee9dc84572cf37ac1f35a4",
+          "xpath": "/html[1]/body[1]/section[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/d0000017804",
+          "urlHash": "11dabcb3fd5cc46e3c0d7dbc43cf3309b6724812",
+          "uuid": "11dabcb3-00-66c1b56d681f30ffd9ee9dc84572cf37ac1f35a4",
+          "xpath": "/html[1]/body[1]/section[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/mild-quick-reference-guide",
+          "urlHash": "1378288a5371eb405602807ba534fdbc8ef80720",
+          "uuid": "1378288a-00-66c1b56d681f30ffd9ee9dc84572cf37ac1f35a4",
+          "xpath": "/html[1]/body[1]/section[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/1000-025-835",
+          "urlHash": "19031bd776ad1a13026f1797b6908d3fbf4c91d6",
+          "uuid": "19031bd7-00-66c1b56d681f30ffd9ee9dc84572cf37ac1f35a4",
+          "xpath": "/html[1]/body[1]/section[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/pain-relief",
+          "urlHash": "1f845900ef1bc49ee10a8924f7c954546d862ee2",
+          "uuid": "1f845900-00-66c1b56d681f30ffd9ee9dc84572cf37ac1f35a4",
+          "xpath": "/html[1]/body[1]/section[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://strykerivs.com/conditions-and-treatments/knee-pain",
+          "urlHash": "2243ef080a18bb71e12dd79a51699618b5728bea",
+          "uuid": "2243ef08-00-66c1b56d681f30ffd9ee9dc84572cf37ac1f35a4",
+          "xpath": "/html[1]/body[1]/section[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/genicular-patient-postcard-customized",
+          "urlHash": "2461b666a76621cd1bb6666d61c517d13f575db3",
+          "uuid": "2461b666-00-66c1b56d681f30ffd9ee9dc84572cf37ac1f35a4",
+          "xpath": "/html[1]/body[1]/section[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/1000-025-453",
+          "urlHash": "29eafc5d833db80effeeebd1c63b394b621398b9",
+          "uuid": "29eafc5d-00-66c1b56d681f30ffd9ee9dc84572cf37ac1f35a4",
+          "xpath": "/html[1]/body[1]/section[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/discography-patient-brochure",
+          "urlHash": "2a1fcc24efbe2fca9663e99284fd5ec3c7e6018a",
+          "uuid": "2a1fcc24-00-66c1b56d681f30ffd9ee9dc84572cf37ac1f35a4",
+          "xpath": "/html[1]/body[1]/section[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/back-pain-specialist-postcard",
+          "urlHash": "2ba0ed47a4c1dc70c6300eeb5b6600671dc532f3",
+          "uuid": "2ba0ed47-00-66c1b56d681f30ffd9ee9dc84572cf37ac1f35a4",
+          "xpath": "/html[1]/body[1]/section[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/1000-025-416",
+          "urlHash": "2c3ffad1dc206833661ee2f21fcb9b8ec5db3b7f",
+          "uuid": "2c3ffad1-00-66c1b56d681f30ffd9ee9dc84572cf37ac1f35a4",
+          "xpath": "/html[1]/body[1]/section[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/rf-physician-back-pain-brochure",
+          "urlHash": "304947ce9c3557457f724577a772bde0b8cc2c30",
+          "uuid": "304947ce-00-66c1b56d681f30ffd9ee9dc84572cf37ac1f35a4",
+          "xpath": "/html[1]/body[1]/section[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/bta-patient-poster",
+          "urlHash": "32d36704edadaad66dfda9dfa6fb790525f767a6",
+          "uuid": "32d36704-00-66c1b56d681f30ffd9ee9dc84572cf37ac1f35a4",
+          "xpath": "/html[1]/body[1]/section[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/D0000039011",
+          "urlHash": "3421af2b08d6ba8a5cc8d50a79ffc2b53e1f5d45",
+          "uuid": "3421af2b-00-66c1b56d681f30ffd9ee9dc84572cf37ac1f35a4",
+          "xpath": "/html[1]/body[1]/section[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://strykerivs.com/conditions-and-treatments/back-pain/vertebral-compression-fracture/spinejack-procedure",
+          "urlHash": "372204c02ec9025063475dfde486ba7f211106ac",
+          "uuid": "372204c0-00-66c1b56d681f30ffd9ee9dc84572cf37ac1f35a4",
+          "xpath": "/html[1]/body[1]/section[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/1000-025-373",
+          "urlHash": "375c55f25f24116d7fe5b7ee51c48342224e1c79",
+          "uuid": "375c55f2-00-66c1b56d681f30ffd9ee9dc84572cf37ac1f35a4",
+          "xpath": "/html[1]/body[1]/section[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/treatment-plan-postcard-physician",
+          "urlHash": "37dd82cd39da1b6ab583f60f372dace9705b1bb8",
+          "uuid": "37dd82cd-00-66c1b56d681f30ffd9ee9dc84572cf37ac1f35a4",
+          "xpath": "/html[1]/body[1]/section[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/2019-IVS-Portfolio-Notebook",
+          "urlHash": "38f647ce30ed01c05dff358236487fd45b2b16de",
+          "uuid": "38f647ce-00-66c1b56d681f30ffd9ee9dc84572cf37ac1f35a4",
+          "xpath": "/html[1]/body[1]/section[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://strykerivs.com/conditions-and-treatments/shoulder-pain",
+          "urlHash": "39090899336bc34cf9c96fd014fe71e0130e3b9f",
+          "uuid": "39090899-00-66c1b56d681f30ffd9ee9dc84572cf37ac1f35a4",
+          "xpath": "/html[1]/body[1]/section[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/SpineJack_SAKOS_ad",
+          "urlHash": "3b46915d592e66a925fdc85b57b7c96be6abbeac",
+          "uuid": "3b46915d-00-66c1b56d681f30ffd9ee9dc84572cf37ac1f35a4",
+          "xpath": "/html[1]/body[1]/section[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/rf-venom-coffee-cup-sleeve",
+          "urlHash": "3b9a37b529672b76281f65e69747602aa5f5f52b",
+          "uuid": "3b9a37b5-00-66c1b56d681f30ffd9ee9dc84572cf37ac1f35a4",
+          "xpath": "/html[1]/body[1]/section[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/ivas-patient-brochure",
+          "urlHash": "3ff900d92d8a09c71c2bf23e3c040c1c90b15ce4",
+          "uuid": "3ff900d9-00-66c1b56d681f30ffd9ee9dc84572cf37ac1f35a4",
+          "xpath": "/html[1]/body[1]/section[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/rf-pain-postcard-rep",
+          "urlHash": "435e1a9a88b59b91d97331c7bdd6ce204d261e0c",
+          "uuid": "435e1a9a-00-66c1b56d681f30ffd9ee9dc84572cf37ac1f35a4",
+          "xpath": "/html[1]/body[1]/section[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/spinejack-patient-poster",
+          "urlHash": "44c2e035c8955b482ac203ed4621765d6c92bc8f",
+          "uuid": "44c2e035-00-66c1b56d681f30ffd9ee9dc84572cf37ac1f35a4",
+          "xpath": "/html[1]/body[1]/section[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/vcf-poster",
+          "urlHash": "46c965b5208da9faa55276f8d632a3286a6404dc",
+          "uuid": "46c965b5-00-66c1b56d681f30ffd9ee9dc84572cf37ac1f35a4",
+          "xpath": "/html[1]/body[1]/section[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://strykerivs.com/conditions-and-treatments/back-pain/vertebral-compression-fracture/Balloon-kyphoplasty",
+          "urlHash": "4b414bd994768c08c5d0c315856a6b093f0104d9",
+          "uuid": "4b414bd9-00-66c1b56d681f30ffd9ee9dc84572cf37ac1f35a4",
+          "xpath": "/html[1]/body[1]/section[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/mild-patient-brochure",
+          "urlHash": "4b9c193a91a199d2a502a1ee98a40e2e433789a4",
+          "uuid": "4b9c193a-00-66c1b56d681f30ffd9ee9dc84572cf37ac1f35a4",
+          "xpath": "/html[1]/body[1]/section[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/back-pain-osteoporosis-magazine-sales-rep",
+          "urlHash": "4c32f1a6a7dc7d42455482b7fe4991aceac30dc8",
+          "uuid": "4c32f1a6-00-66c1b56d681f30ffd9ee9dc84572cf37ac1f35a4",
+          "xpath": "/html[1]/body[1]/section[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/1000-025-456",
+          "urlHash": "4e55a415c03b9e8de54b1ec3c4e3668c574c2dea",
+          "uuid": "4e55a415-00-66c1b56d681f30ffd9ee9dc84572cf37ac1f35a4",
+          "xpath": "/html[1]/body[1]/section[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/bvn-patient-brochure",
+          "urlHash": "51fc092a24a1f0254ef106a904eba44a8bf8dec1",
+          "uuid": "51fc092a-00-66c1b56d681f30ffd9ee9dc84572cf37ac1f35a4",
+          "xpath": "/html[1]/body[1]/section[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/office-tent-cards-do-you-or-someone-you-know-suffer-from-deb",
+          "urlHash": "5405c0f458bd919970f9e6ab78e1ab577d191b5b",
+          "uuid": "5405c0f4-00-66c1b56d681f30ffd9ee9dc84572cf37ac1f35a4",
+          "xpath": "/html[1]/body[1]/section[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/mild-patient-poster",
+          "urlHash": "542de73ffa70d7277f87e512965d2cdddd912807",
+          "uuid": "542de73f-00-66c1b56d681f30ffd9ee9dc84572cf37ac1f35a4",
+          "xpath": "/html[1]/body[1]/section[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/1000-025-459",
+          "urlHash": "5526b9a1de76f6d925a78528745bf059f0b3d517",
+          "uuid": "5526b9a1-00-66c1b56d681f30ffd9ee9dc84572cf37ac1f35a4",
+          "xpath": "/html[1]/body[1]/section[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/osteoporosis-brochure",
+          "urlHash": "577450bfe0899fe7db8c7bd1038db758d9639941",
+          "uuid": "577450bf-00-66c1b56d681f30ffd9ee9dc84572cf37ac1f35a4",
+          "xpath": "/html[1]/body[1]/section[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/1000-025-165",
+          "urlHash": "57a04d13c248f10e303b3988ab9bf103501a5cab",
+          "uuid": "57a04d13-00-66c1b56d681f30ffd9ee9dc84572cf37ac1f35a4",
+          "xpath": "/html[1]/body[1]/section[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/pain-med-news-july-2021",
+          "urlHash": "5a94b42dc57b490f45fb60c2d188108aea795e31",
+          "uuid": "5a94b42d-00-66c1b56d681f30ffd9ee9dc84572cf37ac1f35a4",
+          "xpath": "/html[1]/body[1]/section[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/back-pain-osteoporosis-magazine",
+          "urlHash": "5f8c72f4c58e4366f7e3871f533b91b55f536b6e",
+          "uuid": "5f8c72f4-00-66c1b56d681f30ffd9ee9dc84572cf37ac1f35a4",
+          "xpath": "/html[1]/body[1]/section[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/bta-patient-brochure",
+          "urlHash": "63183401cb8898cf8e576671055188b0bf90b110",
+          "uuid": "63183401-00-66c1b56d681f30ffd9ee9dc84572cf37ac1f35a4",
+          "xpath": "/html[1]/body[1]/section[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/back-pain-va-poster",
+          "urlHash": "6355fbe214074f90b37feeffe37b54aeeb86ec2f",
+          "uuid": "6355fbe2-00-66c1b56d681f30ffd9ee9dc84572cf37ac1f35a4",
+          "xpath": "/html[1]/body[1]/section[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/back-pain-osteoporosis-magazine-physician",
+          "urlHash": "64aba0e7542e7c62fd71f2d1c6add53c017cddea",
+          "uuid": "64aba0e7-00-66c1b56d681f30ffd9ee9dc84572cf37ac1f35a4",
+          "xpath": "/html[1]/body[1]/section[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/1000-025-768",
+          "urlHash": "682b7a7c56e4fed05aec00410187f224b42fb589",
+          "uuid": "682b7a7c-00-66c1b56d681f30ffd9ee9dc84572cf37ac1f35a4",
+          "xpath": "/html[1]/body[1]/section[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/va-vprf-postcard-physician",
+          "urlHash": "69da7a37386534fc6b07423bd4cbec5298cda28f",
+          "uuid": "69da7a37-00-66c1b56d681f30ffd9ee9dc84572cf37ac1f35a4",
+          "xpath": "/html[1]/body[1]/section[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/rf-patient-brochure-3-physician-customized",
+          "urlHash": "6bfec38734edc447e00378d028dd1e7fc5fe1fba",
+          "uuid": "6bfec387-00-66c1b56d681f30ffd9ee9dc84572cf37ac1f35a4",
+          "xpath": "/html[1]/body[1]/section[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/beckers-spine-2015",
+          "urlHash": "6e22da4dc99a04764bcf0be80546b1769b8a23b5",
+          "uuid": "6e22da4d-00-66c1b56d681f30ffd9ee9dc84572cf37ac1f35a4",
+          "xpath": "/html[1]/body[1]/section[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://strykerivs.com/articles/stryker-receives-fda-clearance-for-optablate-bone-tumor-ablation-system",
+          "urlHash": "70e850e7b23a57e2c72dfd6caec10c751db5ef72",
+          "uuid": "70e850e7-00-66c1b56d681f30ffd9ee9dc84572cf37ac1f35a4",
+          "xpath": "/html[1]/body[1]/section[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/spinejack-systems-patient-brochure",
+          "urlHash": "71ace023eb26f91b0fa2e25f4ca232ea8def124b",
+          "uuid": "71ace023-00-66c1b56d681f30ffd9ee9dc84572cf37ac1f35a4",
+          "xpath": "/html[1]/body[1]/section[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/back-pain-rf-postcard-rep",
+          "urlHash": "7ccbaa0b62ac4eb6418927e03d798609d278b5a6",
+          "uuid": "7ccbaa0b-00-66c1b56d681f30ffd9ee9dc84572cf37ac1f35a4",
+          "xpath": "/html[1]/body[1]/section[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/1000-025-572",
+          "urlHash": "7d98163dae895bf6d19b745211c29e7973c6db2c",
+          "uuid": "7d98163d-00-66c1b56d681f30ffd9ee9dc84572cf37ac1f35a4",
+          "xpath": "/html[1]/body[1]/section[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/1000-001-358",
+          "urlHash": "80199424aa090de750b2c44a461494b8357b30cb",
+          "uuid": "80199424-00-66c1b56d681f30ffd9ee9dc84572cf37ac1f35a4",
+          "xpath": "/html[1]/body[1]/section[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://strykerivs.com/conditions-and-treatments/back-pain/sacral-insufficiency-fracture/sacroplasty",
+          "urlHash": "81d0b3a09469a7951db321ecd6060040164c2a87",
+          "uuid": "81d0b3a0-00-66c1b56d681f30ffd9ee9dc84572cf37ac1f35a4",
+          "xpath": "/html[1]/body[1]/section[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://strykerivs.com/contact",
+          "urlHash": "81ed8a8c10abdf328a7bf09dad34b35dc4023e1b",
+          "uuid": "81ed8a8c-00-66c1b56d681f30ffd9ee9dc84572cf37ac1f35a4",
+          "xpath": "/html[1]/body[1]/section[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://strykerivs.com/conditions-and-treatments/back-pain/vertebral-compression-fracture/vertebroplasty",
+          "urlHash": "84d3571f705f1f348cadb2819d191d374b678515",
+          "uuid": "84d3571f-00-66c1b56d681f30ffd9ee9dc84572cf37ac1f35a4",
+          "xpath": "/html[1]/body[1]/section[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/radiofrequency-patient-brochure",
+          "urlHash": "88051a4663c4916e319330a44f2e7e8923dd4899",
+          "uuid": "88051a46-00-66c1b56d681f30ffd9ee9dc84572cf37ac1f35a4",
+          "xpath": "/html[1]/body[1]/section[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/jvir-november-ad",
+          "urlHash": "8b24f6062042ed32e93b3db45831c898a9c79e5a",
+          "uuid": "8b24f606-00-66c1b56d681f30ffd9ee9dc84572cf37ac1f35a4",
+          "xpath": "/html[1]/body[1]/section[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/mild-patient-flip-chart",
+          "urlHash": "8b71e18f52591219b95ebcc7a19487e29341e00f",
+          "uuid": "8b71e18f-00-66c1b56d681f30ffd9ee9dc84572cf37ac1f35a4",
+          "xpath": "/html[1]/body[1]/section[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://strykerivs.com/conditions-and-treatments/back-pain",
+          "urlHash": "8c369112b390c53eab01a442d4c9beb38122a294",
+          "uuid": "8c369112-00-66c1b56d681f30ffd9ee9dc84572cf37ac1f35a4",
+          "xpath": "/html[1]/body[1]/section[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/living-with-back-pain-poster",
+          "urlHash": "8cda8052785b2284100f208a70224ceeca7e60ea",
+          "uuid": "8cda8052-00-66c1b56d681f30ffd9ee9dc84572cf37ac1f35a4",
+          "xpath": "/html[1]/body[1]/section[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/1000-001-320",
+          "urlHash": "90021b9de11145aa364c5805f526da97b2ec5153",
+          "uuid": "90021b9d-00-66c1b56d681f30ffd9ee9dc84572cf37ac1f35a4",
+          "xpath": "/html[1]/body[1]/section[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://strykerivs.com/conditions-and-treatments/back-pain/metastatic-vertebral-compression-fracture/bone-tumor-ablation",
+          "urlHash": "92ee359a46e9614cb7e952288ddf199014946855",
+          "uuid": "92ee359a-00-66c1b56d681f30ffd9ee9dc84572cf37ac1f35a4",
+          "xpath": "/html[1]/body[1]/section[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/pain-med-news-june-2021",
+          "urlHash": "956fa9b3732c4d90a1f42dec07d3ec6cfc60cd7c",
+          "uuid": "956fa9b3-00-66c1b56d681f30ffd9ee9dc84572cf37ac1f35a4",
+          "xpath": "/html[1]/body[1]/section[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/suffering-from-back-pain-rf-postcard",
+          "urlHash": "998de023cb49e27ba3dbe6125893bf7b33cafd6c",
+          "uuid": "998de023-00-66c1b56d681f30ffd9ee9dc84572cf37ac1f35a4",
+          "xpath": "/html[1]/body[1]/section[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/cortoss-newsletter-template",
+          "urlHash": "9a44a7e01629467c1303e9d62a9c42c3fc762585",
+          "uuid": "9a44a7e0-00-66c1b56d681f30ffd9ee9dc84572cf37ac1f35a4",
+          "xpath": "/html[1]/body[1]/section[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/D0000061168",
+          "urlHash": "9a73f581b26b070721d82aa6a17b709812f4b8ca",
+          "uuid": "9a73f581-00-66c1b56d681f30ffd9ee9dc84572cf37ac1f35a4",
+          "xpath": "/html[1]/body[1]/section[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/1000-001-040",
+          "urlHash": "9bb21d92b4e43b83d19a458b7e21428b4d706fd9",
+          "uuid": "9bb21d92-00-66c1b56d681f30ffd9ee9dc84572cf37ac1f35a4",
+          "xpath": "/html[1]/body[1]/section[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/100-025-789",
+          "urlHash": "9f465498da7871e4cd4ed2dc44fe64401d783cca",
+          "uuid": "9f465498-00-66c1b56d681f30ffd9ee9dc84572cf37ac1f35a4",
+          "xpath": "/html[1]/body[1]/section[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/consumer-ad",
+          "urlHash": "aa3fb6a29c1249eec8a37af6ebbee02fba2716cf",
+          "uuid": "aa3fb6a2-00-66c1b56d681f30ffd9ee9dc84572cf37ac1f35a4",
+          "xpath": "/html[1]/body[1]/section[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/genicular-patient-postcard",
+          "urlHash": "acaf56b9cea8c43678b19692eab3d91f41c2d887",
+          "uuid": "acaf56b9-00-66c1b56d681f30ffd9ee9dc84572cf37ac1f35a4",
+          "xpath": "/html[1]/body[1]/section[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/1000-025-458",
+          "urlHash": "aeedad736d5899ec7d5138aa92104d89ffe20c4c",
+          "uuid": "aeedad73-00-66c1b56d681f30ffd9ee9dc84572cf37ac1f35a4",
+          "xpath": "/html[1]/body[1]/section[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://strykerivs.com/cookie-policy",
+          "urlHash": "b3a96639f919fab1fcb3fe5b1cfdeff48296f4cf",
+          "uuid": "b3a96639-00-66c1b56d681f30ffd9ee9dc84572cf37ac1f35a4",
+          "xpath": "/html[1]/body[1]/section[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes",
+          "urlHash": "b472092539a0bcb484a30f6cf228f85e66a8660c",
+          "uuid": "b4720925-00-66c1b56d681f30ffd9ee9dc84572cf37ac1f35a4",
+          "xpath": "/html[1]/body[1]/section[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://strykerivs.com/faqs",
+          "urlHash": "b47939007bf2091e96dbbd38bf4840f9e78e5816",
+          "uuid": "b4793900-00-66c1b56d681f30ffd9ee9dc84572cf37ac1f35a4",
+          "xpath": "/html[1]/body[1]/section[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/osteoporosis-risk-poster",
+          "urlHash": "b64dc0c7be529f3d6c483cd7890b227f39fa04f1",
+          "uuid": "b64dc0c7-00-66c1b56d681f30ffd9ee9dc84572cf37ac1f35a4",
+          "xpath": "/html[1]/body[1]/section[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/disc-decompression-patient-brochure-for-military-personnel",
+          "urlHash": "b720daa99c6389a61b038d81d5075f3a56d5c2d5",
+          "uuid": "b720daa9-00-66c1b56d681f30ffd9ee9dc84572cf37ac1f35a4",
+          "xpath": "/html[1]/body[1]/section[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/physician-rf-brochure",
+          "urlHash": "bacefea0820356e04e959c2e77b293c7c9fffa8c",
+          "uuid": "bacefea0-00-66c1b56d681f30ffd9ee9dc84572cf37ac1f35a4",
+          "xpath": "/html[1]/body[1]/section[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/d0000014701",
+          "urlHash": "bbae6349b9c049f731b40bc41c4ac65ff0f252d4",
+          "uuid": "bbae6349-00-66c1b56d681f30ffd9ee9dc84572cf37ac1f35a4",
+          "xpath": "/html[1]/body[1]/section[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/genicular-rf-patient-brochure",
+          "urlHash": "c4b5b743178fb24a809a1e0814cdd847d72a1619",
+          "uuid": "c4b5b743-00-66c1b56d681f30ffd9ee9dc84572cf37ac1f35a4",
+          "xpath": "/html[1]/body[1]/section[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://strykerivs.com/conditions-and-treatments/hip-pain",
+          "urlHash": "c79fbcd60e233e324d6dc5eb83367ea919fe6d18",
+          "uuid": "c79fbcd6-00-66c1b56d681f30ffd9ee9dc84572cf37ac1f35a4",
+          "xpath": "/html[1]/body[1]/section[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/1000-025-758",
+          "urlHash": "c81319c670c852c53a34b64a301efc65f4bc4aa7",
+          "uuid": "c81319c6-00-66c1b56d681f30ffd9ee9dc84572cf37ac1f35a4",
+          "xpath": "/html[1]/body[1]/section[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://strykerivs.com/articles/stryker-announces-trauma-indication-for-the-spinejack-system",
+          "urlHash": "c933b8532bc91adb41661dc6b3806dc5dddca1bd",
+          "uuid": "c933b853-00-66c1b56d681f30ffd9ee9dc84572cf37ac1f35a4",
+          "xpath": "/html[1]/body[1]/section[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://strykerivs.com/conditions-and-treatments/knee-pain/genicular-radiofrequency-ablation",
+          "urlHash": "ce57537093a560681999a5de17ce7b3a1cfe5cde",
+          "uuid": "ce575370-00-66c1b56d681f30ffd9ee9dc84572cf37ac1f35a4",
+          "xpath": "/html[1]/body[1]/section[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/sir-gala-ad",
+          "urlHash": "d746c5570415d6c6a56c26008dfdba134e8d2c2e",
+          "uuid": "d746c557-00-66c1b56d681f30ffd9ee9dc84572cf37ac1f35a4",
+          "xpath": "/html[1]/body[1]/section[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/D0000023001",
+          "urlHash": "d782e1653a19e34518fb5cfde03fe1970592126d",
+          "uuid": "d782e165-00-66c1b56d681f30ffd9ee9dc84572cf37ac1f35a4",
+          "xpath": "/html[1]/body[1]/section[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/vcf-pain-brochure-3-physician-customized",
+          "urlHash": "dd492eb936f643d117db608e34b03bbb92105881",
+          "uuid": "dd492eb9-00-66c1b56d681f30ffd9ee9dc84572cf37ac1f35a4",
+          "xpath": "/html[1]/body[1]/section[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/vcf-treatment-card-referring-physician",
+          "urlHash": "de6a7d50cb11d9e6f3f9e11a8e1164f93e863f8a",
+          "uuid": "de6a7d50-00-66c1b56d681f30ffd9ee9dc84572cf37ac1f35a4",
+          "xpath": "/html[1]/body[1]/section[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/physician-locator-postcard",
+          "urlHash": "e219df895cd468526afd7e9720b5185eecd9a502",
+          "uuid": "e219df89-00-66c1b56d681f30ffd9ee9dc84572cf37ac1f35a4",
+          "xpath": "/html[1]/body[1]/section[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/rf-patient-brochure",
+          "urlHash": "e60ca1ec5bcb33afa29633a82a6000002b94fd65",
+          "uuid": "e60ca1ec-00-66c1b56d681f30ffd9ee9dc84572cf37ac1f35a4",
+          "xpath": "/html[1]/body[1]/section[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/1000-025-537",
+          "urlHash": "e66bfd6b62edf39f3e03db3e868870117ae8fb0c",
+          "uuid": "e66bfd6b-00-66c1b56d681f30ffd9ee9dc84572cf37ac1f35a4",
+          "xpath": "/html[1]/body[1]/section[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/DEK",
+          "urlHash": "e9ea2033dea8bd77cafbed907975a65d38cb6e03",
+          "uuid": "e9ea2033-00-66c1b56d681f30ffd9ee9dc84572cf37ac1f35a4",
+          "xpath": "/html[1]/body[1]/section[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/rf-treatment-postcard",
+          "urlHash": "ebd357fb10f5cbcbf9236c938a3ba3ad0cde0e65",
+          "uuid": "ebd357fb-00-66c1b56d681f30ffd9ee9dc84572cf37ac1f35a4",
+          "xpath": "/html[1]/body[1]/section[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/mild-patient-postcard",
+          "urlHash": "eec9b290c751febf1c5f2ec9a97c9d8e3f1b2e81",
+          "uuid": "eec9b290-00-66c1b56d681f30ffd9ee9dc84572cf37ac1f35a4",
+          "xpath": "/html[1]/body[1]/section[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/osteoporosis-poster",
+          "urlHash": "f4300a4dad99625bb2a404521456df9f1f6c86db",
+          "uuid": "f4300a4d-00-66c1b56d681f30ffd9ee9dc84572cf37ac1f35a4",
+          "xpath": "/html[1]/body[1]/section[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/are-you-suffering-from-back-pain-postcard",
+          "urlHash": "fd37337432adc975abe3822636533dd1798fc82a",
+          "uuid": "fd373374-00-66c1b56d681f30ffd9ee9dc84572cf37ac1f35a4",
+          "xpath": "/html[1]/body[1]/section[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://strykerivs.com/facet-joint-pain/radiofrequency-ablation",
+          "urlHash": "fe226400ec1a72ce78363aef8b32d5b183d99db1",
+          "uuid": "fe226400-00-66c1b56d681f30ffd9ee9dc84572cf37ac1f35a4",
+          "xpath": "/html[1]/body[1]/section[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/vcf-solutions-brochure",
+          "urlHash": "feca5644e29223c18ae1cf5fdb5582b63a0eb90c",
+          "uuid": "feca5644-00-66c1b56d681f30ffd9ee9dc84572cf37ac1f35a4",
+          "xpath": "/html[1]/body[1]/section[1]/div[2]/header[1]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 14,
+      "source": "Columns",
+      "target": "Columns (columns14)",
+      "key": "columns14",
+      "instances": [
+        {
+          "url": "https://strykerivs.com/",
+          "urlHash": "f75aa214a78355c7a1d94ada832909b2df74d1f0",
+          "uuid": "f75aa214-01-3c5345b3348c3eea328c04e2049e046bed871ef7",
+          "xpath": "/html[1]/body[1]/section[1]/div[1]/main[1]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 15,
+      "source": "Columns",
+      "target": "Columns (columns15)",
+      "key": "columns15",
+      "instances": [
+        {
+          "url": "https://strykerivs.com/conditions-and-treatments/back-pain/sacral-insufficiency-fracture/sacroplasty",
+          "urlHash": "81d0b3a09469a7951db321ecd6060040164c2a87",
+          "uuid": "81d0b3a0-03-dea0fd2a4b10de5ed27c046c61d231e5ea9d8da0",
+          "xpath": "/html[1]/body[1]/section[1]/div[2]/section[1]/div[1]/main[1]/div[3]"
+        }
+      ]
+    },
+    {
+      "name": "Tabs",
+      "cluster": 16,
+      "source": "Tabs",
+      "target": "Tabs (tabs16)",
+      "key": "tabs16",
+      "instances": [
+        {
+          "url": "https://strykerivs.com/faqs",
+          "urlHash": "b47939007bf2091e96dbbd38bf4840f9e78e5816",
+          "uuid": "b4793900-02-5142e1bb28418b34fadfe6b742f79c9265854d9e",
+          "xpath": "/html[1]/body[1]/section[1]/div[2]/section[1]/div[1]/main[1]/div[1]/div[1]/div[1]/ul[1]"
+        }
+      ]
+    },
+    {
+      "name": "Table (striped & bordered)",
+      "cluster": 17,
+      "source": "Table (striped, bordered)",
+      "target": "Table (striped, bordered, tableStripedBordered17)",
+      "key": "tableStripedBordered17",
+      "instances": [
+        {
+          "url": "https://strykerivs.com/footnotes/d0000017804",
+          "urlHash": "11dabcb3fd5cc46e3c0d7dbc43cf3309b6724812",
+          "uuid": "11dabcb3-02-98f13944a531f529e8e26871c51083e11c28c9a7",
+          "xpath": "/html[1]/body[1]/section[1]/div[2]/div[1]/div[1]/main[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/bta-patient-poster",
+          "urlHash": "32d36704edadaad66dfda9dfa6fb790525f767a6",
+          "uuid": "32d36704-02-98f13944a531f529e8e26871c51083e11c28c9a7",
+          "xpath": "/html[1]/body[1]/section[1]/div[2]/div[1]/div[1]/main[1]/div[1]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "Table (bordered)",
+      "cluster": 18,
+      "source": "Table (bordered)",
+      "target": "Table (bordered, tableBordered18)",
+      "key": "tableBordered18",
+      "instances": [
+        {
+          "url": "https://strykerivs.com/footnotes/spinejack-launch-slick",
+          "urlHash": "115aa28dc8968242dc34f5e1c7891e520c11fb2a",
+          "uuid": "115aa28d-02-98f13944a531f529e8e26871c51083e11c28c9a7",
+          "xpath": "/html[1]/body[1]/section[1]/div[2]/div[1]/div[1]/main[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/mild-quick-reference-guide",
+          "urlHash": "1378288a5371eb405602807ba534fdbc8ef80720",
+          "uuid": "1378288a-02-98f13944a531f529e8e26871c51083e11c28c9a7",
+          "xpath": "/html[1]/body[1]/section[1]/div[2]/div[1]/div[1]/main[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/2019-IVS-Portfolio-Notebook",
+          "urlHash": "38f647ce30ed01c05dff358236487fd45b2b16de",
+          "uuid": "38f647ce-02-98f13944a531f529e8e26871c51083e11c28c9a7",
+          "xpath": "/html[1]/body[1]/section[1]/div[2]/div[1]/div[1]/main[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/osteoporosis-brochure",
+          "urlHash": "577450bfe0899fe7db8c7bd1038db758d9639941",
+          "uuid": "577450bf-02-98f13944a531f529e8e26871c51083e11c28c9a7",
+          "xpath": "/html[1]/body[1]/section[1]/div[2]/div[1]/div[1]/main[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/spinejack-systems-patient-brochure",
+          "urlHash": "71ace023eb26f91b0fa2e25f4ca232ea8def124b",
+          "uuid": "71ace023-02-98f13944a531f529e8e26871c51083e11c28c9a7",
+          "xpath": "/html[1]/body[1]/section[1]/div[2]/div[1]/div[1]/main[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://strykerivs.com/footnotes/d0000014701",
+          "urlHash": "bbae6349b9c049f731b40bc41c4ac65ff0f252d4",
+          "uuid": "bbae6349-02-98f13944a531f529e8e26871c51083e11c28c9a7",
+          "xpath": "/html[1]/body[1]/section[1]/div[2]/div[1]/div[1]/main[1]/div[1]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "Hero",
+      "cluster": 19,
+      "source": "Hero",
+      "target": "Hero (hero19)",
+      "key": "hero19",
+      "instances": [
+        {
+          "url": "https://strykerivs.com/conditions-and-treatments/back-pain",
+          "urlHash": "8c369112b390c53eab01a442d4c9beb38122a294",
+          "uuid": "8c369112-01-c1e52b24a220b9f2998dd4a6971f9f489fad06a1",
+          "xpath": "/html[1]/body[1]/section[1]/div[2]/section[1]/div[1]/main[1]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "Table (no header)",
+      "cluster": 20,
+      "source": "Table (no header)",
+      "target": "Table (no header, tableNoHeader20)",
+      "key": "tableNoHeader20",
+      "instances": [
+        {
+          "url": "https://strykerivs.com/footnotes",
+          "urlHash": "b472092539a0bcb484a30f6cf228f85e66a8660c",
+          "uuid": "b4720925-02-04a2f0cec417c7b1ee4f83a1ebbf18f3ff7783e8",
+          "xpath": "/html[1]/body[1]/section[1]/div[2]/section[1]/div[1]/main[1]/div[1]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 21,
+      "source": "Columns",
+      "target": "Columns (columns21)",
+      "key": "columns21",
+      "instances": [
+        {
+          "url": "https://strykerivs.com/articles/stryker-receives-fda-clearance-for-optablate-bone-tumor-ablation-system",
+          "urlHash": "70e850e7b23a57e2c72dfd6caec10c751db5ef72",
+          "uuid": "70e850e7-02-e60724c25b4715e95dcc1a10ddc6df3b6480ea98",
+          "xpath": "/html[1]/body[1]/section[1]/div[2]/div[1]/div[1]/main[1]/div[1]/div[1]/div[2]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 22,
+      "source": "Columns",
+      "target": "Columns (columns22)",
+      "key": "columns22",
+      "instances": [
+        {
+          "url": "https://strykerivs.com/articles/stryker-announces-trauma-indication-for-the-spinejack-system",
+          "urlHash": "c933b8532bc91adb41661dc6b3806dc5dddca1bd",
+          "uuid": "c933b853-02-e60724c25b4715e95dcc1a10ddc6df3b6480ea98",
+          "xpath": "/html[1]/body[1]/section[1]/div[2]/div[1]/div[1]/main[1]/div[1]/div[1]/div[2]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "unknown",
+      "cluster": 23,
+      "instances": [
+        {
+          "url": "https://strykerivs.com/footnotes/SpineJack_SAKOS_ad",
+          "urlHash": "3b46915d592e66a925fdc85b57b7c96be6abbeac",
+          "uuid": "3b46915d-01-59774e807dff89308e6d860f8b21984ea6abf3d3",
+          "xpath": "/html[1]/body[1]/section[1]/div[2]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "Accordion",
+      "cluster": 24,
+      "source": "Accordion",
+      "target": "Accordion (accordion24)",
+      "key": "accordion24",
+      "instances": [
+        {
+          "url": "https://strykerivs.com/faqs",
+          "urlHash": "b47939007bf2091e96dbbd38bf4840f9e78e5816",
+          "uuid": "b4793900-03-74ddeaa5182fc96eb64ed876ae1a55241ea1cdcf",
+          "xpath": "/html[1]/body[1]/section[1]/div[2]/section[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "Accordion",
+      "cluster": 25,
+      "source": "Accordion",
+      "target": "Accordion (accordion25)",
+      "key": "accordion25",
+      "instances": [
+        {
+          "url": "https://strykerivs.com/conditions-and-treatments/back-pain",
+          "urlHash": "8c369112b390c53eab01a442d4c9beb38122a294",
+          "uuid": "8c369112-04-ec45ca8b09ff4c5d58f6b678fc76b28b31f5be7e",
+          "xpath": "/html[1]/body[1]/section[1]/div[2]/section[1]/div[1]/main[1]/div[9]"
+        }
+      ]
+    },
+    {
+      "name": "Cards (no images)",
+      "cluster": 26,
+      "source": "Cards",
+      "target": "Cards (cardsNoImages26)",
+      "key": "cardsNoImages26",
+      "instances": [
+        {
+          "url": "https://strykerivs.com/conditions-and-treatments/shoulder-pain",
+          "urlHash": "39090899336bc34cf9c96fd014fe71e0130e3b9f",
+          "uuid": "39090899-02-334a043442c53ab6ea8f01e0a99cdddc35433b02",
+          "xpath": "/html[1]/body[1]/section[1]/div[2]/section[1]/div[1]/main[1]/div[2]"
+        }
+      ]
+    }
+  ],
+  "outliers": [
+    {
+      "url": "https://strykerivs.com/footnotes/StrykerIVS-2021-ASIPP",
+      "urlHash": "004770f86db4bf5c443545a3cfdc9d7f7e6b4458",
+      "uuid": "004770f8-01-59774e807dff89308e6d860f8b21984ea6abf3d3",
+      "xpath": "/html[1]/body[1]/section[1]/div[2]/div[1]"
+    },
+    {
+      "url": "https://strykerivs.com/footnotes/physician-back-pain-brochure",
+      "urlHash": "02d8754a12e884bc31610f1b7bc36ea42db66f4e",
+      "uuid": "02d8754a-01-59774e807dff89308e6d860f8b21984ea6abf3d3",
+      "xpath": "/html[1]/body[1]/section[1]/div[2]/div[1]"
+    },
+    {
+      "url": "https://strykerivs.com/footnotes/va-vprf-postcard-rep",
+      "urlHash": "04754d8482dee41ebe279404b6ee5b261df2c5ec",
+      "uuid": "04754d84-01-59774e807dff89308e6d860f8b21984ea6abf3d3",
+      "xpath": "/html[1]/body[1]/section[1]/div[2]/div[1]"
+    },
+    {
+      "url": "https://strykerivs.com/footnotes/suffering-from-back-pain-rf-poster",
+      "urlHash": "04900e594311c7e556b855e24c15b1bfafed950b",
+      "uuid": "04900e59-01-59774e807dff89308e6d860f8b21984ea6abf3d3",
+      "xpath": "/html[1]/body[1]/section[1]/div[2]/div[1]"
+    },
+    {
+      "url": "https://strykerivs.com/footnotes/1000-025-001",
+      "urlHash": "0747c7387a678935f86df45fcaa222bf30ca77c0",
+      "uuid": "0747c738-01-59774e807dff89308e6d860f8b21984ea6abf3d3",
+      "xpath": "/html[1]/body[1]/section[1]/div[2]/div[1]"
+    },
+    {
+      "url": "https://strykerivs.com/footnotes/spinejack-launch-slick",
+      "urlHash": "115aa28dc8968242dc34f5e1c7891e520c11fb2a",
+      "uuid": "115aa28d-01-d142d9e370b947f826ffc24d3c4ef925e8669f6b",
+      "xpath": "/html[1]/body[1]/section[1]/div[2]/div[1]/div[1]/main[1]/div[1]/h1[1]"
+    },
+    {
+      "url": "https://strykerivs.com/footnotes/d0000017804",
+      "urlHash": "11dabcb3fd5cc46e3c0d7dbc43cf3309b6724812",
+      "uuid": "11dabcb3-01-d142d9e370b947f826ffc24d3c4ef925e8669f6b",
+      "xpath": "/html[1]/body[1]/section[1]/div[2]/div[1]/div[1]/main[1]/div[1]/h1[1]"
+    },
+    {
+      "url": "https://strykerivs.com/footnotes/mild-quick-reference-guide",
+      "urlHash": "1378288a5371eb405602807ba534fdbc8ef80720",
+      "uuid": "1378288a-01-d142d9e370b947f826ffc24d3c4ef925e8669f6b",
+      "xpath": "/html[1]/body[1]/section[1]/div[2]/div[1]/div[1]/main[1]/div[1]/h1[1]"
+    },
+    {
+      "url": "https://strykerivs.com/footnotes/1000-025-835",
+      "urlHash": "19031bd776ad1a13026f1797b6908d3fbf4c91d6",
+      "uuid": "19031bd7-01-59774e807dff89308e6d860f8b21984ea6abf3d3",
+      "xpath": "/html[1]/body[1]/section[1]/div[2]/div[1]"
+    },
+    {
+      "url": "https://strykerivs.com/footnotes/pain-relief",
+      "urlHash": "1f845900ef1bc49ee10a8924f7c954546d862ee2",
+      "uuid": "1f845900-01-59774e807dff89308e6d860f8b21984ea6abf3d3",
+      "xpath": "/html[1]/body[1]/section[1]/div[2]/div[1]"
+    },
+    {
+      "url": "https://strykerivs.com/conditions-and-treatments/knee-pain",
+      "urlHash": "2243ef080a18bb71e12dd79a51699618b5728bea",
+      "uuid": "2243ef08-03-dea0fd2a4b10de5ed27c046c61d231e5ea9d8da0",
+      "xpath": "/html[1]/body[1]/section[1]/div[2]/section[1]/div[1]/main[1]/div[3]"
+    },
+    {
+      "url": "https://strykerivs.com/conditions-and-treatments/knee-pain",
+      "urlHash": "2243ef080a18bb71e12dd79a51699618b5728bea",
+      "uuid": "2243ef08-05-62b707db4a6b4e012b707846294b489d5e0004c7",
+      "xpath": "/html[1]/body[1]/footer[1]/div[2]"
+    },
+    {
+      "url": "https://strykerivs.com/footnotes/genicular-patient-postcard-customized",
+      "urlHash": "2461b666a76621cd1bb6666d61c517d13f575db3",
+      "uuid": "2461b666-01-59774e807dff89308e6d860f8b21984ea6abf3d3",
+      "xpath": "/html[1]/body[1]/section[1]/div[2]/div[1]"
+    },
+    {
+      "url": "https://strykerivs.com/footnotes/1000-025-453",
+      "urlHash": "29eafc5d833db80effeeebd1c63b394b621398b9",
+      "uuid": "29eafc5d-01-59774e807dff89308e6d860f8b21984ea6abf3d3",
+      "xpath": "/html[1]/body[1]/section[1]/div[2]/div[1]"
+    },
+    {
+      "url": "https://strykerivs.com/footnotes/discography-patient-brochure",
+      "urlHash": "2a1fcc24efbe2fca9663e99284fd5ec3c7e6018a",
+      "uuid": "2a1fcc24-01-59774e807dff89308e6d860f8b21984ea6abf3d3",
+      "xpath": "/html[1]/body[1]/section[1]/div[2]/div[1]"
+    },
+    {
+      "url": "https://strykerivs.com/footnotes/back-pain-specialist-postcard",
+      "urlHash": "2ba0ed47a4c1dc70c6300eeb5b6600671dc532f3",
+      "uuid": "2ba0ed47-01-59774e807dff89308e6d860f8b21984ea6abf3d3",
+      "xpath": "/html[1]/body[1]/section[1]/div[2]/div[1]"
+    },
+    {
+      "url": "https://strykerivs.com/footnotes/1000-025-416",
+      "urlHash": "2c3ffad1dc206833661ee2f21fcb9b8ec5db3b7f",
+      "uuid": "2c3ffad1-01-59774e807dff89308e6d860f8b21984ea6abf3d3",
+      "xpath": "/html[1]/body[1]/section[1]/div[2]/div[1]"
+    },
+    {
+      "url": "https://strykerivs.com/footnotes/rf-physician-back-pain-brochure",
+      "urlHash": "304947ce9c3557457f724577a772bde0b8cc2c30",
+      "uuid": "304947ce-01-59774e807dff89308e6d860f8b21984ea6abf3d3",
+      "xpath": "/html[1]/body[1]/section[1]/div[2]/div[1]"
+    },
+    {
+      "url": "https://strykerivs.com/footnotes/bta-patient-poster",
+      "urlHash": "32d36704edadaad66dfda9dfa6fb790525f767a6",
+      "uuid": "32d36704-01-d142d9e370b947f826ffc24d3c4ef925e8669f6b",
+      "xpath": "/html[1]/body[1]/section[1]/div[2]/div[1]/div[1]/main[1]/div[1]/h1[1]"
+    },
+    {
+      "url": "https://strykerivs.com/footnotes/D0000039011",
+      "urlHash": "3421af2b08d6ba8a5cc8d50a79ffc2b53e1f5d45",
+      "uuid": "3421af2b-01-59774e807dff89308e6d860f8b21984ea6abf3d3",
+      "xpath": "/html[1]/body[1]/section[1]/div[2]/div[1]"
+    },
+    {
+      "url": "https://strykerivs.com/conditions-and-treatments/back-pain/vertebral-compression-fracture/spinejack-procedure",
+      "urlHash": "372204c02ec9025063475dfde486ba7f211106ac",
+      "uuid": "372204c0-04-9fb7e9d092c4803cf3df5f604466a0b77ba217e5",
+      "xpath": "/html[1]/body[1]/section[1]/div[2]/section[1]/div[1]/main[1]/div[4]"
+    },
+    {
+      "url": "https://strykerivs.com/conditions-and-treatments/back-pain/vertebral-compression-fracture/spinejack-procedure",
+      "urlHash": "372204c02ec9025063475dfde486ba7f211106ac",
+      "uuid": "372204c0-06-62b707db4a6b4e012b707846294b489d5e0004c7",
+      "xpath": "/html[1]/body[1]/footer[1]/div[2]"
+    },
+    {
+      "url": "https://strykerivs.com/footnotes/1000-025-373",
+      "urlHash": "375c55f25f24116d7fe5b7ee51c48342224e1c79",
+      "uuid": "375c55f2-01-59774e807dff89308e6d860f8b21984ea6abf3d3",
+      "xpath": "/html[1]/body[1]/section[1]/div[2]/div[1]"
+    },
+    {
+      "url": "https://strykerivs.com/footnotes/treatment-plan-postcard-physician",
+      "urlHash": "37dd82cd39da1b6ab583f60f372dace9705b1bb8",
+      "uuid": "37dd82cd-01-59774e807dff89308e6d860f8b21984ea6abf3d3",
+      "xpath": "/html[1]/body[1]/section[1]/div[2]/div[1]"
+    },
+    {
+      "url": "https://strykerivs.com/footnotes/2019-IVS-Portfolio-Notebook",
+      "urlHash": "38f647ce30ed01c05dff358236487fd45b2b16de",
+      "uuid": "38f647ce-01-d142d9e370b947f826ffc24d3c4ef925e8669f6b",
+      "xpath": "/html[1]/body[1]/section[1]/div[2]/div[1]/div[1]/main[1]/div[1]/h1[1]"
+    },
+    {
+      "url": "https://strykerivs.com/conditions-and-treatments/shoulder-pain",
+      "urlHash": "39090899336bc34cf9c96fd014fe71e0130e3b9f",
+      "uuid": "39090899-03-dea0fd2a4b10de5ed27c046c61d231e5ea9d8da0",
+      "xpath": "/html[1]/body[1]/section[1]/div[2]/section[1]/div[1]/main[1]/div[3]"
+    },
+    {
+      "url": "https://strykerivs.com/conditions-and-treatments/shoulder-pain",
+      "urlHash": "39090899336bc34cf9c96fd014fe71e0130e3b9f",
+      "uuid": "39090899-05-62b707db4a6b4e012b707846294b489d5e0004c7",
+      "xpath": "/html[1]/body[1]/footer[1]/div[2]"
+    },
+    {
+      "url": "https://strykerivs.com/footnotes/rf-venom-coffee-cup-sleeve",
+      "urlHash": "3b9a37b529672b76281f65e69747602aa5f5f52b",
+      "uuid": "3b9a37b5-01-59774e807dff89308e6d860f8b21984ea6abf3d3",
+      "xpath": "/html[1]/body[1]/section[1]/div[2]/div[1]"
+    },
+    {
+      "url": "https://strykerivs.com/footnotes/ivas-patient-brochure",
+      "urlHash": "3ff900d92d8a09c71c2bf23e3c040c1c90b15ce4",
+      "uuid": "3ff900d9-01-59774e807dff89308e6d860f8b21984ea6abf3d3",
+      "xpath": "/html[1]/body[1]/section[1]/div[2]/div[1]"
+    },
+    {
+      "url": "https://strykerivs.com/footnotes/rf-pain-postcard-rep",
+      "urlHash": "435e1a9a88b59b91d97331c7bdd6ce204d261e0c",
+      "uuid": "435e1a9a-01-59774e807dff89308e6d860f8b21984ea6abf3d3",
+      "xpath": "/html[1]/body[1]/section[1]/div[2]/div[1]"
+    },
+    {
+      "url": "https://strykerivs.com/footnotes/spinejack-patient-poster",
+      "urlHash": "44c2e035c8955b482ac203ed4621765d6c92bc8f",
+      "uuid": "44c2e035-01-59774e807dff89308e6d860f8b21984ea6abf3d3",
+      "xpath": "/html[1]/body[1]/section[1]/div[2]/div[1]"
+    },
+    {
+      "url": "https://strykerivs.com/footnotes/vcf-poster",
+      "urlHash": "46c965b5208da9faa55276f8d632a3286a6404dc",
+      "uuid": "46c965b5-01-59774e807dff89308e6d860f8b21984ea6abf3d3",
+      "xpath": "/html[1]/body[1]/section[1]/div[2]/div[1]"
+    },
+    {
+      "url": "https://strykerivs.com/conditions-and-treatments/back-pain/vertebral-compression-fracture/Balloon-kyphoplasty",
+      "urlHash": "4b414bd994768c08c5d0c315856a6b093f0104d9",
+      "uuid": "4b414bd9-04-9fb7e9d092c4803cf3df5f604466a0b77ba217e5",
+      "xpath": "/html[1]/body[1]/section[1]/div[2]/section[1]/div[1]/main[1]/div[4]"
+    },
+    {
+      "url": "https://strykerivs.com/conditions-and-treatments/back-pain/vertebral-compression-fracture/Balloon-kyphoplasty",
+      "urlHash": "4b414bd994768c08c5d0c315856a6b093f0104d9",
+      "uuid": "4b414bd9-06-62b707db4a6b4e012b707846294b489d5e0004c7",
+      "xpath": "/html[1]/body[1]/footer[1]/div[2]"
+    },
+    {
+      "url": "https://strykerivs.com/footnotes/mild-patient-brochure",
+      "urlHash": "4b9c193a91a199d2a502a1ee98a40e2e433789a4",
+      "uuid": "4b9c193a-01-59774e807dff89308e6d860f8b21984ea6abf3d3",
+      "xpath": "/html[1]/body[1]/section[1]/div[2]/div[1]"
+    },
+    {
+      "url": "https://strykerivs.com/footnotes/back-pain-osteoporosis-magazine-sales-rep",
+      "urlHash": "4c32f1a6a7dc7d42455482b7fe4991aceac30dc8",
+      "uuid": "4c32f1a6-01-59774e807dff89308e6d860f8b21984ea6abf3d3",
+      "xpath": "/html[1]/body[1]/section[1]/div[2]/div[1]"
+    },
+    {
+      "url": "https://strykerivs.com/footnotes/1000-025-456",
+      "urlHash": "4e55a415c03b9e8de54b1ec3c4e3668c574c2dea",
+      "uuid": "4e55a415-01-59774e807dff89308e6d860f8b21984ea6abf3d3",
+      "xpath": "/html[1]/body[1]/section[1]/div[2]/div[1]"
+    },
+    {
+      "url": "https://strykerivs.com/footnotes/bvn-patient-brochure",
+      "urlHash": "51fc092a24a1f0254ef106a904eba44a8bf8dec1",
+      "uuid": "51fc092a-01-59774e807dff89308e6d860f8b21984ea6abf3d3",
+      "xpath": "/html[1]/body[1]/section[1]/div[2]/div[1]"
+    },
+    {
+      "url": "https://strykerivs.com/footnotes/office-tent-cards-do-you-or-someone-you-know-suffer-from-deb",
+      "urlHash": "5405c0f458bd919970f9e6ab78e1ab577d191b5b",
+      "uuid": "5405c0f4-01-59774e807dff89308e6d860f8b21984ea6abf3d3",
+      "xpath": "/html[1]/body[1]/section[1]/div[2]/div[1]"
+    },
+    {
+      "url": "https://strykerivs.com/footnotes/mild-patient-poster",
+      "urlHash": "542de73ffa70d7277f87e512965d2cdddd912807",
+      "uuid": "542de73f-01-59774e807dff89308e6d860f8b21984ea6abf3d3",
+      "xpath": "/html[1]/body[1]/section[1]/div[2]/div[1]"
+    },
+    {
+      "url": "https://strykerivs.com/footnotes/1000-025-459",
+      "urlHash": "5526b9a1de76f6d925a78528745bf059f0b3d517",
+      "uuid": "5526b9a1-01-59774e807dff89308e6d860f8b21984ea6abf3d3",
+      "xpath": "/html[1]/body[1]/section[1]/div[2]/div[1]"
+    },
+    {
+      "url": "https://strykerivs.com/footnotes/osteoporosis-brochure",
+      "urlHash": "577450bfe0899fe7db8c7bd1038db758d9639941",
+      "uuid": "577450bf-01-d142d9e370b947f826ffc24d3c4ef925e8669f6b",
+      "xpath": "/html[1]/body[1]/section[1]/div[2]/div[1]/div[1]/main[1]/div[1]/h1[1]"
+    },
+    {
+      "url": "https://strykerivs.com/footnotes/1000-025-165",
+      "urlHash": "57a04d13c248f10e303b3988ab9bf103501a5cab",
+      "uuid": "57a04d13-01-59774e807dff89308e6d860f8b21984ea6abf3d3",
+      "xpath": "/html[1]/body[1]/section[1]/div[2]/div[1]"
+    },
+    {
+      "url": "https://strykerivs.com/footnotes/pain-med-news-july-2021",
+      "urlHash": "5a94b42dc57b490f45fb60c2d188108aea795e31",
+      "uuid": "5a94b42d-01-59774e807dff89308e6d860f8b21984ea6abf3d3",
+      "xpath": "/html[1]/body[1]/section[1]/div[2]/div[1]"
+    },
+    {
+      "url": "https://strykerivs.com/footnotes/back-pain-osteoporosis-magazine",
+      "urlHash": "5f8c72f4c58e4366f7e3871f533b91b55f536b6e",
+      "uuid": "5f8c72f4-01-59774e807dff89308e6d860f8b21984ea6abf3d3",
+      "xpath": "/html[1]/body[1]/section[1]/div[2]/div[1]"
+    },
+    {
+      "url": "https://strykerivs.com/footnotes/bta-patient-brochure",
+      "urlHash": "63183401cb8898cf8e576671055188b0bf90b110",
+      "uuid": "63183401-01-59774e807dff89308e6d860f8b21984ea6abf3d3",
+      "xpath": "/html[1]/body[1]/section[1]/div[2]/div[1]"
+    },
+    {
+      "url": "https://strykerivs.com/footnotes/back-pain-va-poster",
+      "urlHash": "6355fbe214074f90b37feeffe37b54aeeb86ec2f",
+      "uuid": "6355fbe2-01-59774e807dff89308e6d860f8b21984ea6abf3d3",
+      "xpath": "/html[1]/body[1]/section[1]/div[2]/div[1]"
+    },
+    {
+      "url": "https://strykerivs.com/footnotes/back-pain-osteoporosis-magazine-physician",
+      "urlHash": "64aba0e7542e7c62fd71f2d1c6add53c017cddea",
+      "uuid": "64aba0e7-01-59774e807dff89308e6d860f8b21984ea6abf3d3",
+      "xpath": "/html[1]/body[1]/section[1]/div[2]/div[1]"
+    },
+    {
+      "url": "https://strykerivs.com/footnotes/1000-025-768",
+      "urlHash": "682b7a7c56e4fed05aec00410187f224b42fb589",
+      "uuid": "682b7a7c-01-59774e807dff89308e6d860f8b21984ea6abf3d3",
+      "xpath": "/html[1]/body[1]/section[1]/div[2]/div[1]"
+    },
+    {
+      "url": "https://strykerivs.com/footnotes/va-vprf-postcard-physician",
+      "urlHash": "69da7a37386534fc6b07423bd4cbec5298cda28f",
+      "uuid": "69da7a37-01-59774e807dff89308e6d860f8b21984ea6abf3d3",
+      "xpath": "/html[1]/body[1]/section[1]/div[2]/div[1]"
+    },
+    {
+      "url": "https://strykerivs.com/footnotes/rf-patient-brochure-3-physician-customized",
+      "urlHash": "6bfec38734edc447e00378d028dd1e7fc5fe1fba",
+      "uuid": "6bfec387-01-59774e807dff89308e6d860f8b21984ea6abf3d3",
+      "xpath": "/html[1]/body[1]/section[1]/div[2]/div[1]"
+    },
+    {
+      "url": "https://strykerivs.com/footnotes/beckers-spine-2015",
+      "urlHash": "6e22da4dc99a04764bcf0be80546b1769b8a23b5",
+      "uuid": "6e22da4d-01-59774e807dff89308e6d860f8b21984ea6abf3d3",
+      "xpath": "/html[1]/body[1]/section[1]/div[2]/div[1]"
+    },
+    {
+      "url": "https://strykerivs.com/articles/stryker-receives-fda-clearance-for-optablate-bone-tumor-ablation-system",
+      "urlHash": "70e850e7b23a57e2c72dfd6caec10c751db5ef72",
+      "uuid": "70e850e7-01-474439dc970d1b4d0ebcf0db9a9397199d9587ea",
+      "xpath": "/html[1]/body[1]/section[1]/div[2]/div[1]/div[1]/main[1]/div[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://strykerivs.com/articles/stryker-receives-fda-clearance-for-optablate-bone-tumor-ablation-system",
+      "urlHash": "70e850e7b23a57e2c72dfd6caec10c751db5ef72",
+      "uuid": "70e850e7-03-153eae4de41b106c607b4d6aab03421a69adf902",
+      "xpath": "/html[1]/body[1]/section[1]/div[2]/div[1]/div[1]/main[1]/div[1]/div[1]/div[2]/div[2]"
+    },
+    {
+      "url": "https://strykerivs.com/articles/stryker-receives-fda-clearance-for-optablate-bone-tumor-ablation-system",
+      "urlHash": "70e850e7b23a57e2c72dfd6caec10c751db5ef72",
+      "uuid": "70e850e7-04-54270ab410794ef0c5bd835d358c97b436c9408b",
+      "xpath": "/html[1]/body[1]/section[1]/div[2]/div[1]/div[1]/main[1]/div[1]/div[1]/div[2]/div[3]"
+    },
+    {
+      "url": "https://strykerivs.com/articles/stryker-receives-fda-clearance-for-optablate-bone-tumor-ablation-system",
+      "urlHash": "70e850e7b23a57e2c72dfd6caec10c751db5ef72",
+      "uuid": "70e850e7-05-2eba70e83fc9d94078fbeb7ac979063663e58d54",
+      "xpath": "/html[1]/body[1]/section[1]/div[2]/div[1]/div[1]/main[1]/div[1]/div[1]/div[2]/div[4]"
+    },
+    {
+      "url": "https://strykerivs.com/articles/stryker-receives-fda-clearance-for-optablate-bone-tumor-ablation-system",
+      "urlHash": "70e850e7b23a57e2c72dfd6caec10c751db5ef72",
+      "uuid": "70e850e7-06-f65c0754fcd7954cc1ce1fe955ec300e65949dd9",
+      "xpath": "/html[1]/body[1]/section[1]/div[2]/div[1]/div[1]/main[1]/div[1]/div[1]/div[2]/div[5]"
+    },
+    {
+      "url": "https://strykerivs.com/articles/stryker-receives-fda-clearance-for-optablate-bone-tumor-ablation-system",
+      "urlHash": "70e850e7b23a57e2c72dfd6caec10c751db5ef72",
+      "uuid": "70e850e7-08-62b707db4a6b4e012b707846294b489d5e0004c7",
+      "xpath": "/html[1]/body[1]/footer[1]/div[2]"
+    },
+    {
+      "url": "https://strykerivs.com/footnotes/spinejack-systems-patient-brochure",
+      "urlHash": "71ace023eb26f91b0fa2e25f4ca232ea8def124b",
+      "uuid": "71ace023-01-d142d9e370b947f826ffc24d3c4ef925e8669f6b",
+      "xpath": "/html[1]/body[1]/section[1]/div[2]/div[1]/div[1]/main[1]/div[1]/h1[1]"
+    },
+    {
+      "url": "https://strykerivs.com/footnotes/back-pain-rf-postcard-rep",
+      "urlHash": "7ccbaa0b62ac4eb6418927e03d798609d278b5a6",
+      "uuid": "7ccbaa0b-01-59774e807dff89308e6d860f8b21984ea6abf3d3",
+      "xpath": "/html[1]/body[1]/section[1]/div[2]/div[1]"
+    },
+    {
+      "url": "https://strykerivs.com/footnotes/1000-025-572",
+      "urlHash": "7d98163dae895bf6d19b745211c29e7973c6db2c",
+      "uuid": "7d98163d-01-59774e807dff89308e6d860f8b21984ea6abf3d3",
+      "xpath": "/html[1]/body[1]/section[1]/div[2]/div[1]"
+    },
+    {
+      "url": "https://strykerivs.com/footnotes/1000-001-358",
+      "urlHash": "80199424aa090de750b2c44a461494b8357b30cb",
+      "uuid": "80199424-01-59774e807dff89308e6d860f8b21984ea6abf3d3",
+      "xpath": "/html[1]/body[1]/section[1]/div[2]/div[1]"
+    },
+    {
+      "url": "https://strykerivs.com/conditions-and-treatments/back-pain/sacral-insufficiency-fracture/sacroplasty",
+      "urlHash": "81d0b3a09469a7951db321ecd6060040164c2a87",
+      "uuid": "81d0b3a0-05-8c7c7ee3991a7aee0ed13a30f5e80ec493ea8944",
+      "xpath": "/html[1]/body[1]/section[1]/div[2]/section[1]/div[1]/main[1]/div[5]"
+    },
+    {
+      "url": "https://strykerivs.com/conditions-and-treatments/back-pain/sacral-insufficiency-fracture/sacroplasty",
+      "urlHash": "81d0b3a09469a7951db321ecd6060040164c2a87",
+      "uuid": "81d0b3a0-07-62b707db4a6b4e012b707846294b489d5e0004c7",
+      "xpath": "/html[1]/body[1]/footer[1]/div[2]"
+    },
+    {
+      "url": "https://strykerivs.com/conditions-and-treatments/back-pain/vertebral-compression-fracture/vertebroplasty",
+      "urlHash": "84d3571f705f1f348cadb2819d191d374b678515",
+      "uuid": "84d3571f-04-9fb7e9d092c4803cf3df5f604466a0b77ba217e5",
+      "xpath": "/html[1]/body[1]/section[1]/div[2]/section[1]/div[1]/main[1]/div[4]"
+    },
+    {
+      "url": "https://strykerivs.com/conditions-and-treatments/back-pain/vertebral-compression-fracture/vertebroplasty",
+      "urlHash": "84d3571f705f1f348cadb2819d191d374b678515",
+      "uuid": "84d3571f-06-62b707db4a6b4e012b707846294b489d5e0004c7",
+      "xpath": "/html[1]/body[1]/footer[1]/div[2]"
+    },
+    {
+      "url": "https://strykerivs.com/footnotes/radiofrequency-patient-brochure",
+      "urlHash": "88051a4663c4916e319330a44f2e7e8923dd4899",
+      "uuid": "88051a46-01-59774e807dff89308e6d860f8b21984ea6abf3d3",
+      "xpath": "/html[1]/body[1]/section[1]/div[2]/div[1]"
+    },
+    {
+      "url": "https://strykerivs.com/footnotes/jvir-november-ad",
+      "urlHash": "8b24f6062042ed32e93b3db45831c898a9c79e5a",
+      "uuid": "8b24f606-01-59774e807dff89308e6d860f8b21984ea6abf3d3",
+      "xpath": "/html[1]/body[1]/section[1]/div[2]/div[1]"
+    },
+    {
+      "url": "https://strykerivs.com/footnotes/mild-patient-flip-chart",
+      "urlHash": "8b71e18f52591219b95ebcc7a19487e29341e00f",
+      "uuid": "8b71e18f-01-59774e807dff89308e6d860f8b21984ea6abf3d3",
+      "xpath": "/html[1]/body[1]/section[1]/div[2]/div[1]"
+    },
+    {
+      "url": "https://strykerivs.com/conditions-and-treatments/back-pain",
+      "urlHash": "8c369112b390c53eab01a442d4c9beb38122a294",
+      "uuid": "8c369112-05-6bf6b464b645196ffa5827459e7644e7bff993c3",
+      "xpath": "/html[1]/body[1]/section[1]/div[2]/section[1]/div[1]/main[1]/div[10]"
+    },
+    {
+      "url": "https://strykerivs.com/conditions-and-treatments/back-pain",
+      "urlHash": "8c369112b390c53eab01a442d4c9beb38122a294",
+      "uuid": "8c369112-07-62b707db4a6b4e012b707846294b489d5e0004c7",
+      "xpath": "/html[1]/body[1]/footer[1]/div[2]"
+    },
+    {
+      "url": "https://strykerivs.com/footnotes/living-with-back-pain-poster",
+      "urlHash": "8cda8052785b2284100f208a70224ceeca7e60ea",
+      "uuid": "8cda8052-01-59774e807dff89308e6d860f8b21984ea6abf3d3",
+      "xpath": "/html[1]/body[1]/section[1]/div[2]/div[1]"
+    },
+    {
+      "url": "https://strykerivs.com/footnotes/1000-001-320",
+      "urlHash": "90021b9de11145aa364c5805f526da97b2ec5153",
+      "uuid": "90021b9d-01-59774e807dff89308e6d860f8b21984ea6abf3d3",
+      "xpath": "/html[1]/body[1]/section[1]/div[2]/div[1]"
+    },
+    {
+      "url": "https://strykerivs.com/conditions-and-treatments/back-pain/metastatic-vertebral-compression-fracture/bone-tumor-ablation",
+      "urlHash": "92ee359a46e9614cb7e952288ddf199014946855",
+      "uuid": "92ee359a-04-9fb7e9d092c4803cf3df5f604466a0b77ba217e5",
+      "xpath": "/html[1]/body[1]/section[1]/div[2]/section[1]/div[1]/main[1]/div[4]"
+    },
+    {
+      "url": "https://strykerivs.com/conditions-and-treatments/back-pain/metastatic-vertebral-compression-fracture/bone-tumor-ablation",
+      "urlHash": "92ee359a46e9614cb7e952288ddf199014946855",
+      "uuid": "92ee359a-06-62b707db4a6b4e012b707846294b489d5e0004c7",
+      "xpath": "/html[1]/body[1]/footer[1]/div[2]"
+    },
+    {
+      "url": "https://strykerivs.com/footnotes/pain-med-news-june-2021",
+      "urlHash": "956fa9b3732c4d90a1f42dec07d3ec6cfc60cd7c",
+      "uuid": "956fa9b3-01-59774e807dff89308e6d860f8b21984ea6abf3d3",
+      "xpath": "/html[1]/body[1]/section[1]/div[2]/div[1]"
+    },
+    {
+      "url": "https://strykerivs.com/footnotes/suffering-from-back-pain-rf-postcard",
+      "urlHash": "998de023cb49e27ba3dbe6125893bf7b33cafd6c",
+      "uuid": "998de023-01-59774e807dff89308e6d860f8b21984ea6abf3d3",
+      "xpath": "/html[1]/body[1]/section[1]/div[2]/div[1]"
+    },
+    {
+      "url": "https://strykerivs.com/footnotes/cortoss-newsletter-template",
+      "urlHash": "9a44a7e01629467c1303e9d62a9c42c3fc762585",
+      "uuid": "9a44a7e0-01-59774e807dff89308e6d860f8b21984ea6abf3d3",
+      "xpath": "/html[1]/body[1]/section[1]/div[2]/div[1]"
+    },
+    {
+      "url": "https://strykerivs.com/footnotes/D0000061168",
+      "urlHash": "9a73f581b26b070721d82aa6a17b709812f4b8ca",
+      "uuid": "9a73f581-01-59774e807dff89308e6d860f8b21984ea6abf3d3",
+      "xpath": "/html[1]/body[1]/section[1]/div[2]/div[1]"
+    },
+    {
+      "url": "https://strykerivs.com/footnotes/1000-001-040",
+      "urlHash": "9bb21d92b4e43b83d19a458b7e21428b4d706fd9",
+      "uuid": "9bb21d92-01-59774e807dff89308e6d860f8b21984ea6abf3d3",
+      "xpath": "/html[1]/body[1]/section[1]/div[2]/div[1]"
+    },
+    {
+      "url": "https://strykerivs.com/footnotes/100-025-789",
+      "urlHash": "9f465498da7871e4cd4ed2dc44fe64401d783cca",
+      "uuid": "9f465498-01-59774e807dff89308e6d860f8b21984ea6abf3d3",
+      "xpath": "/html[1]/body[1]/section[1]/div[2]/div[1]"
+    },
+    {
+      "url": "https://strykerivs.com/footnotes/consumer-ad",
+      "urlHash": "aa3fb6a29c1249eec8a37af6ebbee02fba2716cf",
+      "uuid": "aa3fb6a2-01-59774e807dff89308e6d860f8b21984ea6abf3d3",
+      "xpath": "/html[1]/body[1]/section[1]/div[2]/div[1]"
+    },
+    {
+      "url": "https://strykerivs.com/footnotes/genicular-patient-postcard",
+      "urlHash": "acaf56b9cea8c43678b19692eab3d91f41c2d887",
+      "uuid": "acaf56b9-01-59774e807dff89308e6d860f8b21984ea6abf3d3",
+      "xpath": "/html[1]/body[1]/section[1]/div[2]/div[1]"
+    },
+    {
+      "url": "https://strykerivs.com/footnotes/1000-025-458",
+      "urlHash": "aeedad736d5899ec7d5138aa92104d89ffe20c4c",
+      "uuid": "aeedad73-01-59774e807dff89308e6d860f8b21984ea6abf3d3",
+      "xpath": "/html[1]/body[1]/section[1]/div[2]/div[1]"
+    },
+    {
+      "url": "https://strykerivs.com/cookie-policy",
+      "urlHash": "b3a96639f919fab1fcb3fe5b1cfdeff48296f4cf",
+      "uuid": "b3a96639-01-7415c3af5705d47d6f87e93721876f96811e2318",
+      "xpath": "/html[1]/body[1]/section[1]/div[2]/section[1]"
+    },
+    {
+      "url": "https://strykerivs.com/footnotes",
+      "urlHash": "b472092539a0bcb484a30f6cf228f85e66a8660c",
+      "uuid": "b4720925-01-b2c8a26f66b44b038b0243b32d537de8f85d416e",
+      "xpath": "/html[1]/body[1]/section[1]/div[2]/section[1]/div[1]/main[1]/div[1]/h1[1]"
+    },
+    {
+      "url": "https://strykerivs.com/faqs",
+      "urlHash": "b47939007bf2091e96dbbd38bf4840f9e78e5816",
+      "uuid": "b4793900-01-b2c8a26f66b44b038b0243b32d537de8f85d416e",
+      "xpath": "/html[1]/body[1]/section[1]/div[2]/section[1]/div[1]/main[1]/div[1]/h1[1]"
+    },
+    {
+      "url": "https://strykerivs.com/faqs",
+      "urlHash": "b47939007bf2091e96dbbd38bf4840f9e78e5816",
+      "uuid": "b4793900-05-62b707db4a6b4e012b707846294b489d5e0004c7",
+      "xpath": "/html[1]/body[1]/footer[1]/div[2]"
+    },
+    {
+      "url": "https://strykerivs.com/footnotes/osteoporosis-risk-poster",
+      "urlHash": "b64dc0c7be529f3d6c483cd7890b227f39fa04f1",
+      "uuid": "b64dc0c7-01-59774e807dff89308e6d860f8b21984ea6abf3d3",
+      "xpath": "/html[1]/body[1]/section[1]/div[2]/div[1]"
+    },
+    {
+      "url": "https://strykerivs.com/footnotes/disc-decompression-patient-brochure-for-military-personnel",
+      "urlHash": "b720daa99c6389a61b038d81d5075f3a56d5c2d5",
+      "uuid": "b720daa9-01-59774e807dff89308e6d860f8b21984ea6abf3d3",
+      "xpath": "/html[1]/body[1]/section[1]/div[2]/div[1]"
+    },
+    {
+      "url": "https://strykerivs.com/footnotes/physician-rf-brochure",
+      "urlHash": "bacefea0820356e04e959c2e77b293c7c9fffa8c",
+      "uuid": "bacefea0-01-59774e807dff89308e6d860f8b21984ea6abf3d3",
+      "xpath": "/html[1]/body[1]/section[1]/div[2]/div[1]"
+    },
+    {
+      "url": "https://strykerivs.com/footnotes/d0000014701",
+      "urlHash": "bbae6349b9c049f731b40bc41c4ac65ff0f252d4",
+      "uuid": "bbae6349-01-d142d9e370b947f826ffc24d3c4ef925e8669f6b",
+      "xpath": "/html[1]/body[1]/section[1]/div[2]/div[1]/div[1]/main[1]/div[1]/h1[1]"
+    },
+    {
+      "url": "https://strykerivs.com/footnotes/genicular-rf-patient-brochure",
+      "urlHash": "c4b5b743178fb24a809a1e0814cdd847d72a1619",
+      "uuid": "c4b5b743-01-d142d9e370b947f826ffc24d3c4ef925e8669f6b",
+      "xpath": "/html[1]/body[1]/section[1]/div[2]/div[1]/div[1]/main[1]/div[1]/h1[1]"
+    },
+    {
+      "url": "https://strykerivs.com/conditions-and-treatments/hip-pain",
+      "urlHash": "c79fbcd60e233e324d6dc5eb83367ea919fe6d18",
+      "uuid": "c79fbcd6-03-dea0fd2a4b10de5ed27c046c61d231e5ea9d8da0",
+      "xpath": "/html[1]/body[1]/section[1]/div[2]/section[1]/div[1]/main[1]/div[3]"
+    },
+    {
+      "url": "https://strykerivs.com/conditions-and-treatments/hip-pain",
+      "urlHash": "c79fbcd60e233e324d6dc5eb83367ea919fe6d18",
+      "uuid": "c79fbcd6-05-62b707db4a6b4e012b707846294b489d5e0004c7",
+      "xpath": "/html[1]/body[1]/footer[1]/div[2]"
+    },
+    {
+      "url": "https://strykerivs.com/footnotes/1000-025-758",
+      "urlHash": "c81319c670c852c53a34b64a301efc65f4bc4aa7",
+      "uuid": "c81319c6-01-59774e807dff89308e6d860f8b21984ea6abf3d3",
+      "xpath": "/html[1]/body[1]/section[1]/div[2]/div[1]"
+    },
+    {
+      "url": "https://strykerivs.com/articles/stryker-announces-trauma-indication-for-the-spinejack-system",
+      "urlHash": "c933b8532bc91adb41661dc6b3806dc5dddca1bd",
+      "uuid": "c933b853-01-474439dc970d1b4d0ebcf0db9a9397199d9587ea",
+      "xpath": "/html[1]/body[1]/section[1]/div[2]/div[1]/div[1]/main[1]/div[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://strykerivs.com/articles/stryker-announces-trauma-indication-for-the-spinejack-system",
+      "urlHash": "c933b8532bc91adb41661dc6b3806dc5dddca1bd",
+      "uuid": "c933b853-03-153eae4de41b106c607b4d6aab03421a69adf902",
+      "xpath": "/html[1]/body[1]/section[1]/div[2]/div[1]/div[1]/main[1]/div[1]/div[1]/div[2]/div[2]"
+    },
+    {
+      "url": "https://strykerivs.com/articles/stryker-announces-trauma-indication-for-the-spinejack-system",
+      "urlHash": "c933b8532bc91adb41661dc6b3806dc5dddca1bd",
+      "uuid": "c933b853-05-62b707db4a6b4e012b707846294b489d5e0004c7",
+      "xpath": "/html[1]/body[1]/footer[1]/div[2]"
+    },
+    {
+      "url": "https://strykerivs.com/conditions-and-treatments/knee-pain/genicular-radiofrequency-ablation",
+      "urlHash": "ce57537093a560681999a5de17ce7b3a1cfe5cde",
+      "uuid": "ce575370-03-dea0fd2a4b10de5ed27c046c61d231e5ea9d8da0",
+      "xpath": "/html[1]/body[1]/section[1]/div[2]/section[1]/div[1]/main[1]/div[3]"
+    },
+    {
+      "url": "https://strykerivs.com/conditions-and-treatments/knee-pain/genicular-radiofrequency-ablation",
+      "urlHash": "ce57537093a560681999a5de17ce7b3a1cfe5cde",
+      "uuid": "ce575370-05-62b707db4a6b4e012b707846294b489d5e0004c7",
+      "xpath": "/html[1]/body[1]/footer[1]/div[2]"
+    },
+    {
+      "url": "https://strykerivs.com/footnotes/sir-gala-ad",
+      "urlHash": "d746c5570415d6c6a56c26008dfdba134e8d2c2e",
+      "uuid": "d746c557-01-59774e807dff89308e6d860f8b21984ea6abf3d3",
+      "xpath": "/html[1]/body[1]/section[1]/div[2]/div[1]"
+    },
+    {
+      "url": "https://strykerivs.com/footnotes/D0000023001",
+      "urlHash": "d782e1653a19e34518fb5cfde03fe1970592126d",
+      "uuid": "d782e165-01-59774e807dff89308e6d860f8b21984ea6abf3d3",
+      "xpath": "/html[1]/body[1]/section[1]/div[2]/div[1]"
+    },
+    {
+      "url": "https://strykerivs.com/footnotes/vcf-pain-brochure-3-physician-customized",
+      "urlHash": "dd492eb936f643d117db608e34b03bbb92105881",
+      "uuid": "dd492eb9-01-59774e807dff89308e6d860f8b21984ea6abf3d3",
+      "xpath": "/html[1]/body[1]/section[1]/div[2]/div[1]"
+    },
+    {
+      "url": "https://strykerivs.com/footnotes/vcf-treatment-card-referring-physician",
+      "urlHash": "de6a7d50cb11d9e6f3f9e11a8e1164f93e863f8a",
+      "uuid": "de6a7d50-01-59774e807dff89308e6d860f8b21984ea6abf3d3",
+      "xpath": "/html[1]/body[1]/section[1]/div[2]/div[1]"
+    },
+    {
+      "url": "https://strykerivs.com/footnotes/physician-locator-postcard",
+      "urlHash": "e219df895cd468526afd7e9720b5185eecd9a502",
+      "uuid": "e219df89-01-59774e807dff89308e6d860f8b21984ea6abf3d3",
+      "xpath": "/html[1]/body[1]/section[1]/div[2]/div[1]"
+    },
+    {
+      "url": "https://strykerivs.com/footnotes/rf-patient-brochure",
+      "urlHash": "e60ca1ec5bcb33afa29633a82a6000002b94fd65",
+      "uuid": "e60ca1ec-01-59774e807dff89308e6d860f8b21984ea6abf3d3",
+      "xpath": "/html[1]/body[1]/section[1]/div[2]/div[1]"
+    },
+    {
+      "url": "https://strykerivs.com/footnotes/1000-025-537",
+      "urlHash": "e66bfd6b62edf39f3e03db3e868870117ae8fb0c",
+      "uuid": "e66bfd6b-01-59774e807dff89308e6d860f8b21984ea6abf3d3",
+      "xpath": "/html[1]/body[1]/section[1]/div[2]/div[1]"
+    },
+    {
+      "url": "https://strykerivs.com/footnotes/DEK",
+      "urlHash": "e9ea2033dea8bd77cafbed907975a65d38cb6e03",
+      "uuid": "e9ea2033-01-59774e807dff89308e6d860f8b21984ea6abf3d3",
+      "xpath": "/html[1]/body[1]/section[1]/div[2]/div[1]"
+    },
+    {
+      "url": "https://strykerivs.com/footnotes/rf-treatment-postcard",
+      "urlHash": "ebd357fb10f5cbcbf9236c938a3ba3ad0cde0e65",
+      "uuid": "ebd357fb-01-59774e807dff89308e6d860f8b21984ea6abf3d3",
+      "xpath": "/html[1]/body[1]/section[1]/div[2]/div[1]"
+    },
+    {
+      "url": "https://strykerivs.com/footnotes/mild-patient-postcard",
+      "urlHash": "eec9b290c751febf1c5f2ec9a97c9d8e3f1b2e81",
+      "uuid": "eec9b290-01-59774e807dff89308e6d860f8b21984ea6abf3d3",
+      "xpath": "/html[1]/body[1]/section[1]/div[2]/div[1]"
+    },
+    {
+      "url": "https://strykerivs.com/footnotes/osteoporosis-poster",
+      "urlHash": "f4300a4dad99625bb2a404521456df9f1f6c86db",
+      "uuid": "f4300a4d-01-59774e807dff89308e6d860f8b21984ea6abf3d3",
+      "xpath": "/html[1]/body[1]/section[1]/div[2]/div[1]"
+    },
+    {
+      "url": "https://strykerivs.com/",
+      "urlHash": "f75aa214a78355c7a1d94ada832909b2df74d1f0",
+      "uuid": "f75aa214-00-92ec9c4d34b61aaf9b50e87f053e62d6a417f816",
+      "xpath": "/html[1]/body[1]/section[1]/div[1]/main[1]/header[1]"
+    },
+    {
+      "url": "https://strykerivs.com/footnotes/are-you-suffering-from-back-pain-postcard",
+      "urlHash": "fd37337432adc975abe3822636533dd1798fc82a",
+      "uuid": "fd373374-01-59774e807dff89308e6d860f8b21984ea6abf3d3",
+      "xpath": "/html[1]/body[1]/section[1]/div[2]/div[1]"
+    },
+    {
+      "url": "https://strykerivs.com/facet-joint-pain/radiofrequency-ablation",
+      "urlHash": "fe226400ec1a72ce78363aef8b32d5b183d99db1",
+      "uuid": "fe226400-04-9fb7e9d092c4803cf3df5f604466a0b77ba217e5",
+      "xpath": "/html[1]/body[1]/section[1]/div[2]/section[1]/div[1]/main[1]/div[4]"
+    },
+    {
+      "url": "https://strykerivs.com/facet-joint-pain/radiofrequency-ablation",
+      "urlHash": "fe226400ec1a72ce78363aef8b32d5b183d99db1",
+      "uuid": "fe226400-06-62b707db4a6b4e012b707846294b489d5e0004c7",
+      "xpath": "/html[1]/body[1]/footer[1]/div[2]"
+    },
+    {
+      "url": "https://strykerivs.com/footnotes/vcf-solutions-brochure",
+      "urlHash": "feca5644e29223c18ae1cf5fdb5582b63a0eb90c",
+      "uuid": "feca5644-01-59774e807dff89308e6d860f8b21984ea6abf3d3",
+      "xpath": "/html[1]/body[1]/section[1]/div[2]/div[1]"
+    }
+  ]
+}
