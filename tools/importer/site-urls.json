@@ -1,0 +1,734 @@
+{
+  "originUrl": "https://strykerivs.com",
+  "lastCrawled": "https://strykerivs.com/",
+  "urls": [
+    {
+      "url": "https://strykerivs.com/",
+      "source": "CRAWL",
+      "targetPath": "/index",
+      "id": "f75aa214a78355c7a1d94ada832909b2df74d1f0"
+    },
+    {
+      "url": "https://strykerivs.com/articles/stryker-announces-trauma-indication-for-the-spinejack-system",
+      "source": "SITEMAPS",
+      "targetPath": "/articles/stryker-announces-trauma-indication-for-the-spinejack-system",
+      "id": "c933b8532bc91adb41661dc6b3806dc5dddca1bd"
+    },
+    {
+      "url": "https://strykerivs.com/articles/stryker-receives-fda-clearance-for-optablate-bone-tumor-ablation-system",
+      "source": "SITEMAPS",
+      "targetPath": "/articles/stryker-receives-fda-clearance-for-optablate-bone-tumor-ablation-system",
+      "id": "70e850e7b23a57e2c72dfd6caec10c751db5ef72"
+    },
+    {
+      "url": "https://strykerivs.com/conditions-and-treatments/back-pain",
+      "source": "CRAWL",
+      "targetPath": "/conditions-and-treatments/back-pain",
+      "id": "8c369112b390c53eab01a442d4c9beb38122a294"
+    },
+    {
+      "url": "https://strykerivs.com/conditions-and-treatments/back-pain/metastatic-vertebral-compression-fracture/bone-tumor-ablation",
+      "source": "CRAWL",
+      "targetPath": "/conditions-and-treatments/back-pain/metastatic-vertebral-compression-fracture/bone-tumor-ablation",
+      "id": "92ee359a46e9614cb7e952288ddf199014946855"
+    },
+    {
+      "url": "https://strykerivs.com/conditions-and-treatments/back-pain/sacral-insufficiency-fracture/sacroplasty",
+      "source": "CRAWL",
+      "targetPath": "/conditions-and-treatments/back-pain/sacral-insufficiency-fracture/sacroplasty",
+      "id": "81d0b3a09469a7951db321ecd6060040164c2a87"
+    },
+    {
+      "url": "https://strykerivs.com/conditions-and-treatments/back-pain/vertebral-compression-fracture/Balloon-kyphoplasty",
+      "source": "CRAWL",
+      "targetPath": "/conditions-and-treatments/back-pain/vertebral-compression-fracture/balloon-kyphoplasty",
+      "id": "4b414bd994768c08c5d0c315856a6b093f0104d9"
+    },
+    {
+      "url": "https://strykerivs.com/conditions-and-treatments/back-pain/vertebral-compression-fracture/spinejack-procedure",
+      "source": "CRAWL",
+      "targetPath": "/conditions-and-treatments/back-pain/vertebral-compression-fracture/spinejack-procedure",
+      "id": "372204c02ec9025063475dfde486ba7f211106ac"
+    },
+    {
+      "url": "https://strykerivs.com/conditions-and-treatments/back-pain/vertebral-compression-fracture/vertebroplasty",
+      "source": "CRAWL",
+      "targetPath": "/conditions-and-treatments/back-pain/vertebral-compression-fracture/vertebroplasty",
+      "id": "84d3571f705f1f348cadb2819d191d374b678515"
+    },
+    {
+      "url": "https://strykerivs.com/conditions-and-treatments/hip-pain",
+      "source": "CRAWL",
+      "targetPath": "/conditions-and-treatments/hip-pain",
+      "id": "c79fbcd60e233e324d6dc5eb83367ea919fe6d18"
+    },
+    {
+      "url": "https://strykerivs.com/conditions-and-treatments/knee-pain",
+      "source": "CRAWL",
+      "targetPath": "/conditions-and-treatments/knee-pain",
+      "id": "2243ef080a18bb71e12dd79a51699618b5728bea"
+    },
+    {
+      "url": "https://strykerivs.com/conditions-and-treatments/knee-pain/genicular-radiofrequency-ablation",
+      "source": "CRAWL",
+      "targetPath": "/conditions-and-treatments/knee-pain/genicular-radiofrequency-ablation",
+      "id": "ce57537093a560681999a5de17ce7b3a1cfe5cde"
+    },
+    {
+      "url": "https://strykerivs.com/conditions-and-treatments/shoulder-pain",
+      "source": "CRAWL",
+      "targetPath": "/conditions-and-treatments/shoulder-pain",
+      "id": "39090899336bc34cf9c96fd014fe71e0130e3b9f"
+    },
+    {
+      "url": "https://strykerivs.com/contact",
+      "source": "CRAWL",
+      "targetPath": "/contact",
+      "id": "81ed8a8c10abdf328a7bf09dad34b35dc4023e1b"
+    },
+    {
+      "url": "https://strykerivs.com/cookie-policy",
+      "source": "CRAWL",
+      "targetPath": "/cookie-policy",
+      "id": "b3a96639f919fab1fcb3fe5b1cfdeff48296f4cf"
+    },
+    {
+      "url": "https://strykerivs.com/facet-joint-pain/radiofrequency-ablation",
+      "source": "CRAWL",
+      "targetPath": "/facet-joint-pain/radiofrequency-ablation",
+      "id": "fe226400ec1a72ce78363aef8b32d5b183d99db1"
+    },
+    {
+      "url": "https://strykerivs.com/faqs",
+      "source": "CRAWL",
+      "targetPath": "/faqs",
+      "id": "b47939007bf2091e96dbbd38bf4840f9e78e5816"
+    },
+    {
+      "url": "https://strykerivs.com/footnotes",
+      "source": "SITEMAPS",
+      "targetPath": "/footnotes",
+      "id": "b472092539a0bcb484a30f6cf228f85e66a8660c"
+    },
+    {
+      "url": "https://strykerivs.com/footnotes/100-025-789",
+      "source": "SITEMAPS",
+      "targetPath": "/footnotes/100-025-789",
+      "id": "9f465498da7871e4cd4ed2dc44fe64401d783cca"
+    },
+    {
+      "url": "https://strykerivs.com/footnotes/1000-001-040",
+      "source": "SITEMAPS",
+      "targetPath": "/footnotes/1000-001-040",
+      "id": "9bb21d92b4e43b83d19a458b7e21428b4d706fd9"
+    },
+    {
+      "url": "https://strykerivs.com/footnotes/1000-001-320",
+      "source": "SITEMAPS",
+      "targetPath": "/footnotes/1000-001-320",
+      "id": "90021b9de11145aa364c5805f526da97b2ec5153"
+    },
+    {
+      "url": "https://strykerivs.com/footnotes/1000-001-358",
+      "source": "SITEMAPS",
+      "targetPath": "/footnotes/1000-001-358",
+      "id": "80199424aa090de750b2c44a461494b8357b30cb"
+    },
+    {
+      "url": "https://strykerivs.com/footnotes/1000-025-001",
+      "source": "SITEMAPS",
+      "targetPath": "/footnotes/1000-025-001",
+      "id": "0747c7387a678935f86df45fcaa222bf30ca77c0"
+    },
+    {
+      "url": "https://strykerivs.com/footnotes/1000-025-165",
+      "source": "SITEMAPS",
+      "targetPath": "/footnotes/1000-025-165",
+      "id": "57a04d13c248f10e303b3988ab9bf103501a5cab"
+    },
+    {
+      "url": "https://strykerivs.com/footnotes/1000-025-373",
+      "source": "SITEMAPS",
+      "targetPath": "/footnotes/1000-025-373",
+      "id": "375c55f25f24116d7fe5b7ee51c48342224e1c79"
+    },
+    {
+      "url": "https://strykerivs.com/footnotes/1000-025-416",
+      "source": "SITEMAPS",
+      "targetPath": "/footnotes/1000-025-416",
+      "id": "2c3ffad1dc206833661ee2f21fcb9b8ec5db3b7f"
+    },
+    {
+      "url": "https://strykerivs.com/footnotes/1000-025-453",
+      "source": "SITEMAPS",
+      "targetPath": "/footnotes/1000-025-453",
+      "id": "29eafc5d833db80effeeebd1c63b394b621398b9"
+    },
+    {
+      "url": "https://strykerivs.com/footnotes/1000-025-456",
+      "source": "SITEMAPS",
+      "targetPath": "/footnotes/1000-025-456",
+      "id": "4e55a415c03b9e8de54b1ec3c4e3668c574c2dea"
+    },
+    {
+      "url": "https://strykerivs.com/footnotes/1000-025-458",
+      "source": "SITEMAPS",
+      "targetPath": "/footnotes/1000-025-458",
+      "id": "aeedad736d5899ec7d5138aa92104d89ffe20c4c"
+    },
+    {
+      "url": "https://strykerivs.com/footnotes/1000-025-459",
+      "source": "SITEMAPS",
+      "targetPath": "/footnotes/1000-025-459",
+      "id": "5526b9a1de76f6d925a78528745bf059f0b3d517"
+    },
+    {
+      "url": "https://strykerivs.com/footnotes/1000-025-537",
+      "source": "SITEMAPS",
+      "targetPath": "/footnotes/1000-025-537",
+      "id": "e66bfd6b62edf39f3e03db3e868870117ae8fb0c"
+    },
+    {
+      "url": "https://strykerivs.com/footnotes/1000-025-572",
+      "source": "SITEMAPS",
+      "targetPath": "/footnotes/1000-025-572",
+      "id": "7d98163dae895bf6d19b745211c29e7973c6db2c"
+    },
+    {
+      "url": "https://strykerivs.com/footnotes/1000-025-758",
+      "source": "SITEMAPS",
+      "targetPath": "/footnotes/1000-025-758",
+      "id": "c81319c670c852c53a34b64a301efc65f4bc4aa7"
+    },
+    {
+      "url": "https://strykerivs.com/footnotes/1000-025-768",
+      "source": "SITEMAPS",
+      "targetPath": "/footnotes/1000-025-768",
+      "id": "682b7a7c56e4fed05aec00410187f224b42fb589"
+    },
+    {
+      "url": "https://strykerivs.com/footnotes/1000-025-835",
+      "source": "SITEMAPS",
+      "targetPath": "/footnotes/1000-025-835",
+      "id": "19031bd776ad1a13026f1797b6908d3fbf4c91d6"
+    },
+    {
+      "url": "https://strykerivs.com/footnotes/2019-IVS-Portfolio-Notebook",
+      "source": "SITEMAPS",
+      "targetPath": "/footnotes/2019-ivs-portfolio-notebook",
+      "id": "38f647ce30ed01c05dff358236487fd45b2b16de"
+    },
+    {
+      "url": "https://strykerivs.com/footnotes/are-you-suffering-from-back-pain-postcard",
+      "source": "SITEMAPS",
+      "targetPath": "/footnotes/are-you-suffering-from-back-pain-postcard",
+      "id": "fd37337432adc975abe3822636533dd1798fc82a"
+    },
+    {
+      "url": "https://strykerivs.com/footnotes/back-pain-osteoporosis-magazine",
+      "source": "SITEMAPS",
+      "targetPath": "/footnotes/back-pain-osteoporosis-magazine",
+      "id": "5f8c72f4c58e4366f7e3871f533b91b55f536b6e"
+    },
+    {
+      "url": "https://strykerivs.com/footnotes/back-pain-osteoporosis-magazine-physician",
+      "source": "SITEMAPS",
+      "targetPath": "/footnotes/back-pain-osteoporosis-magazine-physician",
+      "id": "64aba0e7542e7c62fd71f2d1c6add53c017cddea"
+    },
+    {
+      "url": "https://strykerivs.com/footnotes/back-pain-osteoporosis-magazine-sales-rep",
+      "source": "SITEMAPS",
+      "targetPath": "/footnotes/back-pain-osteoporosis-magazine-sales-rep",
+      "id": "4c32f1a6a7dc7d42455482b7fe4991aceac30dc8"
+    },
+    {
+      "url": "https://strykerivs.com/footnotes/back-pain-rf-postcard-rep",
+      "source": "SITEMAPS",
+      "targetPath": "/footnotes/back-pain-rf-postcard-rep",
+      "id": "7ccbaa0b62ac4eb6418927e03d798609d278b5a6"
+    },
+    {
+      "url": "https://strykerivs.com/footnotes/back-pain-specialist-postcard",
+      "source": "SITEMAPS",
+      "targetPath": "/footnotes/back-pain-specialist-postcard",
+      "id": "2ba0ed47a4c1dc70c6300eeb5b6600671dc532f3"
+    },
+    {
+      "url": "https://strykerivs.com/footnotes/back-pain-va-poster",
+      "source": "SITEMAPS",
+      "targetPath": "/footnotes/back-pain-va-poster",
+      "id": "6355fbe214074f90b37feeffe37b54aeeb86ec2f"
+    },
+    {
+      "url": "https://strykerivs.com/footnotes/beckers-spine-2015",
+      "source": "SITEMAPS",
+      "targetPath": "/footnotes/beckers-spine-2015",
+      "id": "6e22da4dc99a04764bcf0be80546b1769b8a23b5"
+    },
+    {
+      "url": "https://strykerivs.com/footnotes/bta-patient-brochure",
+      "source": "SITEMAPS",
+      "targetPath": "/footnotes/bta-patient-brochure",
+      "id": "63183401cb8898cf8e576671055188b0bf90b110"
+    },
+    {
+      "url": "https://strykerivs.com/footnotes/bta-patient-poster",
+      "source": "SITEMAPS",
+      "targetPath": "/footnotes/bta-patient-poster",
+      "id": "32d36704edadaad66dfda9dfa6fb790525f767a6"
+    },
+    {
+      "url": "https://strykerivs.com/footnotes/bvn-patient-brochure",
+      "source": "SITEMAPS",
+      "targetPath": "/footnotes/bvn-patient-brochure",
+      "id": "51fc092a24a1f0254ef106a904eba44a8bf8dec1"
+    },
+    {
+      "url": "https://strykerivs.com/footnotes/consumer-ad",
+      "source": "SITEMAPS",
+      "targetPath": "/footnotes/consumer-ad",
+      "id": "aa3fb6a29c1249eec8a37af6ebbee02fba2716cf"
+    },
+    {
+      "url": "https://strykerivs.com/footnotes/cortoss-newsletter-template",
+      "source": "SITEMAPS",
+      "targetPath": "/footnotes/cortoss-newsletter-template",
+      "id": "9a44a7e01629467c1303e9d62a9c42c3fc762585"
+    },
+    {
+      "url": "https://strykerivs.com/footnotes/d0000014701",
+      "source": "SITEMAPS",
+      "targetPath": "/footnotes/d0000014701",
+      "id": "bbae6349b9c049f731b40bc41c4ac65ff0f252d4"
+    },
+    {
+      "url": "https://strykerivs.com/footnotes/d0000017804",
+      "source": "SITEMAPS",
+      "targetPath": "/footnotes/d0000017804",
+      "id": "11dabcb3fd5cc46e3c0d7dbc43cf3309b6724812"
+    },
+    {
+      "url": "https://strykerivs.com/footnotes/D0000023001",
+      "source": "SITEMAPS",
+      "targetPath": "/footnotes/d0000023001",
+      "id": "d782e1653a19e34518fb5cfde03fe1970592126d"
+    },
+    {
+      "url": "https://strykerivs.com/footnotes/D0000039011",
+      "source": "SITEMAPS",
+      "targetPath": "/footnotes/d0000039011",
+      "id": "3421af2b08d6ba8a5cc8d50a79ffc2b53e1f5d45"
+    },
+    {
+      "url": "https://strykerivs.com/footnotes/D0000061168",
+      "source": "SITEMAPS",
+      "targetPath": "/footnotes/d0000061168",
+      "id": "9a73f581b26b070721d82aa6a17b709812f4b8ca"
+    },
+    {
+      "url": "https://strykerivs.com/footnotes/DEK",
+      "source": "SITEMAPS",
+      "targetPath": "/footnotes/dek",
+      "id": "e9ea2033dea8bd77cafbed907975a65d38cb6e03"
+    },
+    {
+      "url": "https://strykerivs.com/footnotes/disc-decompression-patient-brochure-for-military-personnel",
+      "source": "SITEMAPS",
+      "targetPath": "/footnotes/disc-decompression-patient-brochure-for-military-personnel",
+      "id": "b720daa99c6389a61b038d81d5075f3a56d5c2d5"
+    },
+    {
+      "url": "https://strykerivs.com/footnotes/discography-patient-brochure",
+      "source": "SITEMAPS",
+      "targetPath": "/footnotes/discography-patient-brochure",
+      "id": "2a1fcc24efbe2fca9663e99284fd5ec3c7e6018a"
+    },
+    {
+      "url": "https://strykerivs.com/footnotes/genicular-patient-postcard",
+      "source": "SITEMAPS",
+      "targetPath": "/footnotes/genicular-patient-postcard",
+      "id": "acaf56b9cea8c43678b19692eab3d91f41c2d887"
+    },
+    {
+      "url": "https://strykerivs.com/footnotes/genicular-patient-postcard-customized",
+      "source": "SITEMAPS",
+      "targetPath": "/footnotes/genicular-patient-postcard-customized",
+      "id": "2461b666a76621cd1bb6666d61c517d13f575db3"
+    },
+    {
+      "url": "https://strykerivs.com/footnotes/genicular-rf-patient-brochure",
+      "source": "SITEMAPS",
+      "targetPath": "/footnotes/genicular-rf-patient-brochure",
+      "id": "c4b5b743178fb24a809a1e0814cdd847d72a1619"
+    },
+    {
+      "url": "https://strykerivs.com/footnotes/ivas-patient-brochure",
+      "source": "SITEMAPS",
+      "targetPath": "/footnotes/ivas-patient-brochure",
+      "id": "3ff900d92d8a09c71c2bf23e3c040c1c90b15ce4"
+    },
+    {
+      "url": "https://strykerivs.com/footnotes/jvir-november-ad",
+      "source": "SITEMAPS",
+      "targetPath": "/footnotes/jvir-november-ad",
+      "id": "8b24f6062042ed32e93b3db45831c898a9c79e5a"
+    },
+    {
+      "url": "https://strykerivs.com/footnotes/living-with-back-pain-poster",
+      "source": "SITEMAPS",
+      "targetPath": "/footnotes/living-with-back-pain-poster",
+      "id": "8cda8052785b2284100f208a70224ceeca7e60ea"
+    },
+    {
+      "url": "https://strykerivs.com/footnotes/mild-patient-brochure",
+      "source": "SITEMAPS",
+      "targetPath": "/footnotes/mild-patient-brochure",
+      "id": "4b9c193a91a199d2a502a1ee98a40e2e433789a4"
+    },
+    {
+      "url": "https://strykerivs.com/footnotes/mild-patient-flip-chart",
+      "source": "SITEMAPS",
+      "targetPath": "/footnotes/mild-patient-flip-chart",
+      "id": "8b71e18f52591219b95ebcc7a19487e29341e00f"
+    },
+    {
+      "url": "https://strykerivs.com/footnotes/mild-patient-postcard",
+      "source": "SITEMAPS",
+      "targetPath": "/footnotes/mild-patient-postcard",
+      "id": "eec9b290c751febf1c5f2ec9a97c9d8e3f1b2e81"
+    },
+    {
+      "url": "https://strykerivs.com/footnotes/mild-patient-poster",
+      "source": "SITEMAPS",
+      "targetPath": "/footnotes/mild-patient-poster",
+      "id": "542de73ffa70d7277f87e512965d2cdddd912807"
+    },
+    {
+      "url": "https://strykerivs.com/footnotes/mild-quick-reference-guide",
+      "source": "SITEMAPS",
+      "targetPath": "/footnotes/mild-quick-reference-guide",
+      "id": "1378288a5371eb405602807ba534fdbc8ef80720"
+    },
+    {
+      "url": "https://strykerivs.com/footnotes/office-tent-cards-do-you-or-someone-you-know-suffer-from-deb",
+      "source": "SITEMAPS",
+      "targetPath": "/footnotes/office-tent-cards-do-you-or-someone-you-know-suffer-from-deb",
+      "id": "5405c0f458bd919970f9e6ab78e1ab577d191b5b"
+    },
+    {
+      "url": "https://strykerivs.com/footnotes/osteoporosis-brochure",
+      "source": "SITEMAPS",
+      "targetPath": "/footnotes/osteoporosis-brochure",
+      "id": "577450bfe0899fe7db8c7bd1038db758d9639941"
+    },
+    {
+      "url": "https://strykerivs.com/footnotes/osteoporosis-poster",
+      "source": "SITEMAPS",
+      "targetPath": "/footnotes/osteoporosis-poster",
+      "id": "f4300a4dad99625bb2a404521456df9f1f6c86db"
+    },
+    {
+      "url": "https://strykerivs.com/footnotes/osteoporosis-risk-poster",
+      "source": "SITEMAPS",
+      "targetPath": "/footnotes/osteoporosis-risk-poster",
+      "id": "b64dc0c7be529f3d6c483cd7890b227f39fa04f1"
+    },
+    {
+      "url": "https://strykerivs.com/footnotes/pain-med-news-july-2021",
+      "source": "SITEMAPS",
+      "targetPath": "/footnotes/pain-med-news-july-2021",
+      "id": "5a94b42dc57b490f45fb60c2d188108aea795e31"
+    },
+    {
+      "url": "https://strykerivs.com/footnotes/pain-med-news-june-2021",
+      "source": "SITEMAPS",
+      "targetPath": "/footnotes/pain-med-news-june-2021",
+      "id": "956fa9b3732c4d90a1f42dec07d3ec6cfc60cd7c"
+    },
+    {
+      "url": "https://strykerivs.com/footnotes/pain-relief",
+      "source": "SITEMAPS",
+      "targetPath": "/footnotes/pain-relief",
+      "id": "1f845900ef1bc49ee10a8924f7c954546d862ee2"
+    },
+    {
+      "url": "https://strykerivs.com/footnotes/physician-back-pain-brochure",
+      "source": "SITEMAPS",
+      "targetPath": "/footnotes/physician-back-pain-brochure",
+      "id": "02d8754a12e884bc31610f1b7bc36ea42db66f4e"
+    },
+    {
+      "url": "https://strykerivs.com/footnotes/physician-locator-postcard",
+      "source": "SITEMAPS",
+      "targetPath": "/footnotes/physician-locator-postcard",
+      "id": "e219df895cd468526afd7e9720b5185eecd9a502"
+    },
+    {
+      "url": "https://strykerivs.com/footnotes/physician-rf-brochure",
+      "source": "SITEMAPS",
+      "targetPath": "/footnotes/physician-rf-brochure",
+      "id": "bacefea0820356e04e959c2e77b293c7c9fffa8c"
+    },
+    {
+      "url": "https://strykerivs.com/footnotes/radiofrequency-patient-brochure",
+      "source": "SITEMAPS",
+      "targetPath": "/footnotes/radiofrequency-patient-brochure",
+      "id": "88051a4663c4916e319330a44f2e7e8923dd4899"
+    },
+    {
+      "url": "https://strykerivs.com/footnotes/rf-pain-postcard-rep",
+      "source": "SITEMAPS",
+      "targetPath": "/footnotes/rf-pain-postcard-rep",
+      "id": "435e1a9a88b59b91d97331c7bdd6ce204d261e0c"
+    },
+    {
+      "url": "https://strykerivs.com/footnotes/rf-patient-brochure",
+      "source": "SITEMAPS",
+      "targetPath": "/footnotes/rf-patient-brochure",
+      "id": "e60ca1ec5bcb33afa29633a82a6000002b94fd65"
+    },
+    {
+      "url": "https://strykerivs.com/footnotes/rf-patient-brochure-3-physician-customized",
+      "source": "SITEMAPS",
+      "targetPath": "/footnotes/rf-patient-brochure-3-physician-customized",
+      "id": "6bfec38734edc447e00378d028dd1e7fc5fe1fba"
+    },
+    {
+      "url": "https://strykerivs.com/footnotes/rf-physician-back-pain-brochure",
+      "source": "SITEMAPS",
+      "targetPath": "/footnotes/rf-physician-back-pain-brochure",
+      "id": "304947ce9c3557457f724577a772bde0b8cc2c30"
+    },
+    {
+      "url": "https://strykerivs.com/footnotes/rf-treatment-postcard",
+      "source": "SITEMAPS",
+      "targetPath": "/footnotes/rf-treatment-postcard",
+      "id": "ebd357fb10f5cbcbf9236c938a3ba3ad0cde0e65"
+    },
+    {
+      "url": "https://strykerivs.com/footnotes/rf-venom-coffee-cup-sleeve",
+      "source": "SITEMAPS",
+      "targetPath": "/footnotes/rf-venom-coffee-cup-sleeve",
+      "id": "3b9a37b529672b76281f65e69747602aa5f5f52b"
+    },
+    {
+      "url": "https://strykerivs.com/footnotes/sir-gala-ad",
+      "source": "SITEMAPS",
+      "targetPath": "/footnotes/sir-gala-ad",
+      "id": "d746c5570415d6c6a56c26008dfdba134e8d2c2e"
+    },
+    {
+      "url": "https://strykerivs.com/footnotes/SpineJack_SAKOS_ad",
+      "source": "SITEMAPS",
+      "targetPath": "/footnotes/spinejack-sakos-ad",
+      "id": "3b46915d592e66a925fdc85b57b7c96be6abbeac"
+    },
+    {
+      "url": "https://strykerivs.com/footnotes/spinejack-launch-slick",
+      "source": "SITEMAPS",
+      "targetPath": "/footnotes/spinejack-launch-slick",
+      "id": "115aa28dc8968242dc34f5e1c7891e520c11fb2a"
+    },
+    {
+      "url": "https://strykerivs.com/footnotes/spinejack-patient-poster",
+      "source": "SITEMAPS",
+      "targetPath": "/footnotes/spinejack-patient-poster",
+      "id": "44c2e035c8955b482ac203ed4621765d6c92bc8f"
+    },
+    {
+      "url": "https://strykerivs.com/footnotes/spinejack-systems-patient-brochure",
+      "source": "SITEMAPS",
+      "targetPath": "/footnotes/spinejack-systems-patient-brochure",
+      "id": "71ace023eb26f91b0fa2e25f4ca232ea8def124b"
+    },
+    {
+      "url": "https://strykerivs.com/footnotes/StrykerIVS-2021-ASIPP",
+      "source": "SITEMAPS",
+      "targetPath": "/footnotes/strykerivs-2021-asipp",
+      "id": "004770f86db4bf5c443545a3cfdc9d7f7e6b4458"
+    },
+    {
+      "url": "https://strykerivs.com/footnotes/suffering-from-back-pain-rf-postcard",
+      "source": "SITEMAPS",
+      "targetPath": "/footnotes/suffering-from-back-pain-rf-postcard",
+      "id": "998de023cb49e27ba3dbe6125893bf7b33cafd6c"
+    },
+    {
+      "url": "https://strykerivs.com/footnotes/suffering-from-back-pain-rf-poster",
+      "source": "SITEMAPS",
+      "targetPath": "/footnotes/suffering-from-back-pain-rf-poster",
+      "id": "04900e594311c7e556b855e24c15b1bfafed950b"
+    },
+    {
+      "url": "https://strykerivs.com/footnotes/treatment-plan-postcard-physician",
+      "source": "SITEMAPS",
+      "targetPath": "/footnotes/treatment-plan-postcard-physician",
+      "id": "37dd82cd39da1b6ab583f60f372dace9705b1bb8"
+    },
+    {
+      "url": "https://strykerivs.com/footnotes/va-vprf-postcard-physician",
+      "source": "SITEMAPS",
+      "targetPath": "/footnotes/va-vprf-postcard-physician",
+      "id": "69da7a37386534fc6b07423bd4cbec5298cda28f"
+    },
+    {
+      "url": "https://strykerivs.com/footnotes/va-vprf-postcard-rep",
+      "source": "SITEMAPS",
+      "targetPath": "/footnotes/va-vprf-postcard-rep",
+      "id": "04754d8482dee41ebe279404b6ee5b261df2c5ec"
+    },
+    {
+      "url": "https://strykerivs.com/footnotes/vcf-pain-brochure-3-physician-customized",
+      "source": "SITEMAPS",
+      "targetPath": "/footnotes/vcf-pain-brochure-3-physician-customized",
+      "id": "dd492eb936f643d117db608e34b03bbb92105881"
+    },
+    {
+      "url": "https://strykerivs.com/footnotes/vcf-poster",
+      "source": "SITEMAPS",
+      "targetPath": "/footnotes/vcf-poster",
+      "id": "46c965b5208da9faa55276f8d632a3286a6404dc"
+    },
+    {
+      "url": "https://strykerivs.com/footnotes/vcf-solutions-brochure",
+      "source": "SITEMAPS",
+      "targetPath": "/footnotes/vcf-solutions-brochure",
+      "id": "feca5644e29223c18ae1cf5fdb5582b63a0eb90c"
+    },
+    {
+      "url": "https://strykerivs.com/footnotes/vcf-treatment-card-referring-physician",
+      "source": "SITEMAPS",
+      "targetPath": "/footnotes/vcf-treatment-card-referring-physician",
+      "id": "de6a7d50cb11d9e6f3f9e11a8e1164f93e863f8a"
+    },
+    {
+      "url": "https://strykerivs.com/footnotes/vcf-treatment-postcard",
+      "source": "SITEMAPS",
+      "targetPath": "/footnotes/vcf-treatment-postcard",
+      "id": "511d9d49a7f2b4a9ca14d8889cd8160f3310a903"
+    },
+    {
+      "url": "https://strykerivs.com/footnotes/vertebral-augmentation-back-pain-postcard-physician",
+      "source": "SITEMAPS",
+      "targetPath": "/footnotes/vertebral-augmentation-back-pain-postcard-physician",
+      "id": "e563a1652020d4b9aece371090f26e4a4e21e4af"
+    },
+    {
+      "url": "https://strykerivs.com/footnotes/vertebral-augmentation-back-pain-postcard-rep",
+      "source": "SITEMAPS",
+      "targetPath": "/footnotes/vertebral-augmentation-back-pain-postcard-rep",
+      "id": "8d044fd30f2b415202d6b7c8ad194e7156526a41"
+    },
+    {
+      "url": "https://strykerivs.com/footnotes/vertebral-augmentation-postcard-physician",
+      "source": "SITEMAPS",
+      "targetPath": "/footnotes/vertebral-augmentation-postcard-physician",
+      "id": "272244c83383793b4cbe14e8a1065f23e70b5b1d"
+    },
+    {
+      "url": "https://strykerivs.com/footnotes/vertebral-augmentation-poster",
+      "source": "SITEMAPS",
+      "targetPath": "/footnotes/vertebral-augmentation-poster",
+      "id": "12f7092ce3532752ae2e1e30171b7c96be3c19ef"
+    },
+    {
+      "url": "https://strykerivs.com/footnotes/vertebral-augmentation-poster-customized",
+      "source": "SITEMAPS",
+      "targetPath": "/footnotes/vertebral-augmentation-poster-customized",
+      "id": "327889b2e251f3fcc31b98fffac0a72f0591af25"
+    },
+    {
+      "url": "https://strykerivs.com/footnotes/vertebralaugmentationpatient",
+      "source": "SITEMAPS",
+      "targetPath": "/footnotes/vertebralaugmentationpatient",
+      "id": "edb0213cea260d052a993e628c3325e069d5b75f"
+    },
+    {
+      "url": "https://strykerivs.com/footnotes/vertebroplasty-specialist-consultation-information",
+      "source": "SITEMAPS",
+      "targetPath": "/footnotes/vertebroplasty-specialist-consultation-information",
+      "id": "81946876609966e4be11517e6f6c70a8ebf2c81c"
+    },
+    {
+      "url": "https://strykerivs.com/get-the-facts",
+      "source": "CRAWL",
+      "targetPath": "/get-the-facts",
+      "id": "839ff8d1adea8b493246697ed4a81a7e9133555d"
+    },
+    {
+      "url": "https://strykerivs.com/herniated-disc/disc-decompression",
+      "source": "CRAWL",
+      "targetPath": "/herniated-disc/disc-decompression",
+      "id": "8f2f5b9b00076ce00f81237a256ceec2f0496058"
+    },
+    {
+      "url": "https://strykerivs.com/herniated-disc/discography",
+      "source": "CRAWL",
+      "targetPath": "/herniated-disc/discography",
+      "id": "bf82cfdd614925bb0509eee2ee8800e53a3ee5d5"
+    },
+    {
+      "url": "https://strykerivs.com/patient-resources",
+      "source": "CRAWL",
+      "targetPath": "/patient-resources",
+      "id": "4d777abb7f07445643473db9bb1d07933c3abb2b"
+    },
+    {
+      "url": "https://strykerivs.com/physician-locator",
+      "source": "CRAWL",
+      "targetPath": "/physician-locator",
+      "id": "d2372f70790cd100f5ac0615f8318c3c987a3355"
+    },
+    {
+      "url": "https://strykerivs.com/privacy-policy",
+      "source": "CRAWL",
+      "targetPath": "/privacy-policy",
+      "id": "d480f9e1a8b14ef4f1f9524877f7385e91e2366f"
+    },
+    {
+      "url": "https://strykerivs.com/search",
+      "source": "SITEMAPS",
+      "targetPath": "/search",
+      "id": "d77153f3cf94f3f0b16498e6666cbf4dc2ba166c"
+    },
+    {
+      "url": "https://strykerivs.com/terms-of-use",
+      "source": "CRAWL",
+      "targetPath": "/terms-of-use",
+      "id": "fef3ace175b15a41d1dd0dd62b9aa47fc2da5960"
+    }
+  ],
+  "crawlOptions": {
+    "timeout": 64800000,
+    "inclusionPatterns": [],
+    "exclusionPatterns": [],
+    "limit": -1,
+    "sameDomain": true,
+    "keepHash": false,
+    "strategy": "crawl",
+    "logger": {}
+  },
+  "extractionErrors": [
+    {
+      "url": "https://strykerivs.com/talk-to-your-doctor",
+      "status": "301 Moved Permanently Redirect: https://strykerivs.com/assets/files/7/ivs_patient_doctordiscussionguide_ivs-gsnps-othd-852284_rev-0-updated_client-provided-110623.pdf"
+    },
+    {
+      "url": "https://strykerivs.com/about",
+      "status": "301 Moved Permanently Redirect: https://www.stryker.com/us/en/about.html"
+    },
+    {
+      "url": "https://strykerivs.com/login?formAction=logout",
+      "status": "302 Found Redirect: https://strykerivs.com/"
+    },
+    {
+      "url": "https://strykerivs.com/physician-resources/physician-locator",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://strykerivs.com/assets/files/7/ivs_patient_doctordiscussionguide_ivs-gsnps-othd-852284_rev-0-updated_client-provided-110623.pdf",
+      "status": "content type is not text/html"
+    }
+  ]
+}
